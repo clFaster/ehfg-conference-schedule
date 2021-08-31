@@ -1,2 +1,2 @@
-# ehfg_cuntdown_placeholder
+# ehfg_countdown_placeholder
 EHFG 2021
