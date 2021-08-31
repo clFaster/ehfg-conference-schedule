@@ -1,0 +1,94 @@
+.main {
+  height: 100vh;
+  width: 100%;
+}
+@media screen and (min-width: 765px,) {
+  .main {
+    height: 100%;
+  }
+}
+
+.main {
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.nameof {
+  text-shadow: 10px 10px 10px #151027;
+  color: white;
+  font-size: x-large;
+  font-weight: bold;
+  font-family: "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+.comingsoon {
+  color: darkorange;
+  text-shadow: 3px 3px 6px #151027;
+  font-family: "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  font-weight: bolder;
+  font-size: xxx-large;
+}
+
+.countdown {
+  color: darkorange;
+  text-shadow: 3px 3px 6px #151027;
+  display: flex;
+  transform: scale(1.5);
+}
+.time {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 15px;
+}
+
+.time h2 {
+  line-height: 1;
+  margin: -3px;
+}
+
+.button{
+  text-align: center;
+  cursor: pointer;
+  outline: 0 !important;
+  border: none;
+  box-shadow: 3px 3px 6px #151027;
+  font-size: xx-large;
+  font-weight: bold;
+  font-family: "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  border: darkorange;
+  border-radius: 5px;
+  background-color: darkorange;
+  color: #2e2367;
+  visibility: hidden;
+}
+.button:hover {background-color: rgb(231, 128, 2)}
+
+.button:active {
+  background-color:rgb(231, 128, 2);
+  box-shadow: 0 2px #2e2367;
+  transform: translateY(4px);
+}
+
+.sponsor {
+  text-shadow: 12px 12px 12px #2e2367;
+  overflow: hidden;
+  width: 100%;
+  position: absolute;
+  bottom: 5px;
+}
+.slide {
+  white-space: nowrap;
+  animation: right_to_left 20s linear infinite;
+  color: white;
+}
+
+@keyframes right_to_left {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-235%);
+  }
+}
+
