@@ -25,30 +25,28 @@ fetch("./programme.json")
   });
 
 //initialization of the launchDate
-let launchDate = new Date().getTime();
+
 var data = null;
 var time = null;
+let launchDate = fetch("./programme.json")
+.then(function (response) {
+  return response.json();
+})
+.then(function (zeit) {
+  data = zeit[getParameter("pos")].date;
+  time = zeit[getParameter("pos")].start;
+  launchDate = new Date(`${data}, ${time}`);
+  launchDate = new Date(`09-01-2021, 15:58`);
+});
 
-fetch("./programme.json")
-  .then(function (response) {
-    return response.json();
-  })
-  .then(function (zeit) {
-    data = zeit[getParameter("pos")].date;
-    time = zeit[getParameter("pos")].start;
-    launchDate = new Date(`${data}, ${time}`);
-  });
-
-// eslint-disable-next-line no-unused-vars
 let timer = setInterval(tick, 1000);
 
 function tick() {
+
   let now = new Date().getTime();
   let t = launchDate - now;
-  
-  if (t) {
 
-    if (t > 1) {
+    if (t >= 0) {
       let days = Math.floor(t / (1000 * 60 * 60 * 24));
   
       if (days < 10) {
@@ -72,7 +70,7 @@ function tick() {
         seconds = "0" + seconds;
       }
 
-      document.getElementById("comingsoon").innerText = "Coming Soon!";
+      //document.getElementById("comingsoon").innerText = "Coming Soon!";
       document.getElementById("days").innerHTML = days;
       document.getElementById("hours").innerHTML = hours;
       document.getElementById("minutes").innerHTML = minutes;
@@ -84,17 +82,16 @@ function tick() {
       else{
         document.getElementById("daystext").innerHTML = "Days";
       }
-
+      document.getElementById("comingsoon").innerHTML = "Coming Soon!";
       document.getElementById("hourstext").innerHTML = "Hours";
       document.getElementById("minutestext").innerHTML = "Minutes";
       document.getElementById("secondstext").innerHTML = "Seconds";
-
    }
-   else if(timer != 0){
+   else{
     document.getElementById("comingsoon").innerText = "Live Now!";
     document.getElementById("clock").style.display = "none";
-    document.getElementById("button").style.visibility = "visible";
+    document.getElementById("button").style.display = "inline";
    }
 
-  }  
 }
+

@@ -2,11 +2,6 @@
   height: 100vh;
   width: 100%;
 }
-@media screen and (min-width: 765px,) {
-  .main {
-    height: 100%;
-  }
-}
 
 .main {
   background-image: url(background.jpg);
@@ -19,6 +14,7 @@
   font-size: x-large;
   font-weight: bold;
   font-family: "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  display: flex;
 }
 .comingsoon {
   color: darkorange;
@@ -60,13 +56,13 @@
   border-radius: 5px;
   background-color: darkorange;
   color: #2e2367;
-  visibility: hidden;
+  display: none;
 }
 .button:hover {background-color: rgb(231, 128, 2)}
 
 .button:active {
   background-color:rgb(231, 128, 2);
-  box-shadow: 0 2px #2e2367;
+  box-shadow: 0 2px white;
   transform: translateY(4px);
 }
 
@@ -92,3 +88,33 @@
   }
 }
 
+@media screen and (max-width: 500px) {
+ #comingsoon{
+   font-size: 12px;
+ }
+ #time{
+  font-size: 12px;
+}
+#headline{
+  display: none;
+}
+.nameof{
+  display: none;
+}
+#clock h2{
+  font-size: 10px;
+}
+#clock small {
+  font-size: 8px;
+}
+
+#clock .time {
+  margin: 5px;
+}
+
+#button{
+  font-size: 10px;
+}
+
+
+}
