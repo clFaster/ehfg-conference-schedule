@@ -12,42 +12,43 @@
             crossorigin="anonymous"
     />
     <link rel="stylesheet" href="style.css"/>
-    <title>EHFG</title>
+    <title>#EHFG2021</title>
 </head>
-<body onload="tick();" class="main d-flex flex-column justify-content-center align-items-center">
+<body class="main d-flex flex-column justify-content-center align-items-center">
   <div class="nameof">
       <p id="id"></p>
   </div>
 
-  <div><h4 class="comingsoon" id="comingsoon"></h4></div>
+  <div><h4 class="comingsoon hide-on-preview" id="comingsoon"></h4></div>
 
   <div class="countdown" id="clock">
       <div class="time">
           <h2 id="days"></h2>
-          <small id="daystext"></small>
+          <small id="daystext">days</small>
       </div>
 
       <div class="time">
           <h2 id="hours"></h2>
-          <small id="hourstext"></small>
+          <small id="hourstext">hours</small>
       </div>
 
       <div class="time">
           <h2 id="minutes"></h2>
-          <small id="minutestext"></small>
+          <small id="minutestext">minutes</small>
       </div>
 
       <div class="time">
           <h2 id="seconds"></h2>
-          <small id="secondstext"></small>
+          <small id="secondstext">seconds</small>
       </div>
   </div>
+
   <a href="https://www.ehfg.org">
       <button class="button" id="button">Click to Join!</button>
   </a>
 
   <div class="sponsor">
-      <h5 class="slide" id="headline"></h5>
+      <h5 class="slide hide-on-preview" id="headline"></h5>
   </div>
 </body>
 </html>
