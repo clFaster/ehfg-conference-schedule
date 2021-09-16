@@ -35,7 +35,7 @@ let launchDate = fetch("./programme.json")
         data = zeit[getParameter("pos")].date;
         time = zeit[getParameter("pos")].start;
         launchDate = new Date(`${data}, ${time}`);
-        launchDate = new Date(`09-16-2021, 11:04`);
+        //launchDate = new Date(`09-16-2021, 11:04`);
         tick().then(r => setInterval(tick, 1000))
 
     });
