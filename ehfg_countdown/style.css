@@ -72,7 +72,7 @@ body {
 
 .button:active {
     background-color: rgb(231, 128, 2);
-    box-shadow: 0 2px white;
+   
     transform: translateY(4px);
 }
 
@@ -89,6 +89,15 @@ body {
     animation: right_to_left 20s linear infinite;
     color: white;
 }
+a:link {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: none;
+  }
 
 @keyframes right_to_left {
     0% {
