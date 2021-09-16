@@ -35,15 +35,20 @@ let launchDate = fetch("./programme.json")
         data = zeit[getParameter("pos")].date;
         time = zeit[getParameter("pos")].start;
         launchDate = new Date(`${data}, ${time}`);
-        launchDate = new Date(`09-02-2021, 14:15`);
+        launchDate = new Date(`09-16-2021, 11:04`);
         tick().then(r => setInterval(tick, 1000))
 
     });
 
 async function tick() {
-    let now = new Date().getTime();
+    let now = new Date();
+
+    now.setMinutes(now.getMinutes()+now.getTimezoneOffset()+120);
+
     let t = launchDate - now;
-    if (t >= 0) {
+
+    console.log(t);
+    if (t >= 5*1000) {
         let days = Math.floor(t / (1000 * 60 * 60 * 24));
 
         if (days < 10) {
