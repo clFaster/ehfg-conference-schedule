@@ -34,21 +34,37 @@
     </div>
 
     <div class="schedule">
-      <h1>Schedule</h1>
+      <h2 id="header" class="scheduleheader">Schedule</h2>
       <div class="content">
-        <div class="ongoing">
-          <h3>ONGOING</h3>
+        <div id="ongoing" class="ongoing">
+          <h3>LIVE NOW!</h3>
           <div class="live">
             <h4 id="livesessionname"></h4>
-            <button class="button">CLICK TO JOIN!</button>
+            <button id="livebutton" class="button">CLICK TO JOIN!</button>
           </div>
         </div>
-        <div class="booth">
-          <h3>CHECK OUT OUR BOOTH</h3>
+        <div id="booth" class="booth">
+          <h3>CHECK OUT OUR BOOTH!</h3>
+          <div class="boothbutton">
+            <button
+              onclick="window.location.href='https://next.brella.io/events/EHFG2021/stream/7759';"
+              class="bb"
+            >
+              PHOTO BOOTH!
+            </button>
+          </div>
+          <div class="boothbutton">
+            <button
+              onclick="window.location.href='https://next.brella.io/events/EHFG2021/stream/7906';"
+              class="bb"
+            >
+              NLO SOCIAL WALL!
+            </button>
+          </div>
         </div>
-        <div class="comingup">
-          <h3>COMING UP</h3>
-          <div class="live">
+        <div id="comingup" class="comingup">
+          <h3>COMING UP NEXT!</h3>
+          <div>
             <h4 id="cusessionname"></h4>
             <h4 id="time"></h4>
           </div>
