@@ -6,28 +6,64 @@
     "eventcategory": "Session",
     "eventshortid": "S1",
     "date": "2021-09-27",
-    "start": "10:30",
+    "start": "09:00",
     "end": "10:30",
     "location": "Room 1",
     "lat": "",
     "lng": "",
     "headline": "Organised by the Austrian Federal Ministry for Social Affairs, Health, Care and Consumer Protection and the European Observatory on Health Systems and Policies",
     "description": "European health systems are facing unprecedented challenges, from ageing populations to budgetary constraints and global pandemics. Making health systems fit to meet these demands requires rethinking outdated decision-making models and transitioning towards innovative governance and financing approaches. Importantly, lessons learned during the COVID-19 pandemic must be seized to close existing care gaps and enhance the resilience of health systems.Turning forward-looking ideas into actions is a challenging endeavour for governments, which requires commitment, ownership and a novel conceptualisation of innovation and governance. At EU level, countries can access various forms of support to facilitate the implementation of innovative health system solutions.This session will examine such instruments more closely by sharing experiences from different national contexts with a focus on implementing primary healthcare solutions. Through testimonials, real-life case examples and interactive discussions, the session will reflect on the European setting and examine what it takes to accomplish innovation in health systems today.",
-    "speakers": []
+    "speakers": [
+      {
+        "speaker": "Boeckx, Thomas",
+        "speakerid": "2080",
+        "organisation": "Flanders Agency for Care and Health"
+      },
+      {
+        "speaker": "Eichwalder, Stefan",
+        "speakerid": "1449",
+        "organisation": "Austrian Federal Ministry of Social Affairs",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/a/a/csm_Eichwalder_Stefan_68d9894721.jpg"
+      },
+      {
+        "speaker": "Petrič, Vesna Kerstin",
+        "speakerid": "769",
+        "organisation": "Ministry of Health of the Republic of Slovenia",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/c/b/csm_PETRIC_Vesna-Kerstin_c899f8ad2d.png"
+      },
+      {
+        "speaker": "Schwierz, Christoph",
+        "speakerid": "1467",
+        "organisation": "European Commission",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/1/6/csm_Schwierz_Christoph_5f8a42d6a4.png"
+      },
+      {
+        "speaker": "Ventura, Ilana",
+        "speakerid": "1532",
+        "organisation": "Austrian Federal Ministry of Social Affairs",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/1/1/csm_Ventura_Ilana_b677425b64.jpg"
+      },
+      {
+        "speaker": "Panteli, Dimitra",
+        "speakerid": "1257",
+        "organisation": "European Observatory on Health Systems and Policies",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/4/4/csm_Panteli_Dimitra_aac1aab32f.jpg"
+      }
+    ]
   },
   {
-    "eventname": "Reflection Roundtable &amp; other activities",
-    "subtitle": "Visit the digital Networking Lounges in the EHFG conference platform",
+    "eventname": "Socialise and explore",
     "eventid": "1930",
     "eventcategory": "Networking Break",
     "eventshortid": "N1",
     "date": "2021-09-27",
-    "start": "11:00",
+    "start": "10:30",
     "end": "11:00",
     "location": "Networking Lounges",
     "lat": "",
     "lng": "",
-    "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!",
+    "headline": "Visit the EHFG Networking Lounges and digital exhibition in the Partner area",
+    "description": "Recharge between sessions and visit the Networking Lounges to connect with fellow attendees, explore the digital exhibition to discover projects and materials by EHFG partners, or take an active break away from your screen.",
     "speakers": []
   },
   {
@@ -37,7 +73,7 @@
     "eventcategory": "Session",
     "eventshortid": "S2",
     "date": "2021-09-27",
-    "start": "12:30",
+    "start": "11:00",
     "end": "12:30",
     "location": "Room 1",
     "lat": "",
@@ -45,6 +81,40 @@
     "headline": "Organised by WHO Regional Office for Europe, the Norwegian Ministry of Health and Care Services, and the Norwegian Medicines Agency",
     "description": "Launched at the EHFG last year, the Oslo Medicines Initiative (OMI) aims to build a collaborative platform where stakeholders can come together to identify actions to improve patient-access to effective high cost novel medicines across the European Region.Continuing dialogue with all stakeholders is paramount to find common ground and agree to transparent, sustainable solutions that are of mutual benefit to Member-States and non-State actors, including health systems, payers, patients, and industry). The initiative aims to reshape the political discourse, implement pragmatic step-by-step solutions, and create partnerships to build a movement for systemic change.Supported by consultations, background documents and webinars, OMI will culminate in a high-level meeting in Oslo on 13-14 June 2022. OMI is a unique opportunity for stakeholders to discuss some of the major challenges and collectively agree on new opportunities for collaboration. Join us in this session to envision a sustainable future for better access to medicines across Europe and beyond!",
     "speakers": [
+      {
+        "speaker": "Allvin, Thomas",
+        "speakerid": "1201",
+        "organisation": "European Federation of Pharmaceutical Industries and Associations",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/d/3/csm_Allvin_Thomas_99580812a6.jpg"
+      },
+      {
+        "speaker": "Le Cam, Yann",
+        "speakerid": "1978",
+        "organisation": "EURORDIS-Rare Diseases Europe",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/d/0/csm_Le_Cam_Yann_7d1a308781.jpg"
+      },
+      {
+        "speaker": "De Cock, Jo",
+        "speakerid": "782",
+        "organisation": "Belgium",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/3/f/csm_De_Cock_Jo_b3a4a8663c.jpg"
+      },
+      {
+        "speaker": "Garner, Sarah",
+        "speakerid": "1789",
+        "organisation": "WHO Regional Office for Europe",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/e/8/csm_GARNER_Sarah_930e0081a9.jpg"
+      },
+      {
+        "speaker": "Giraud, Sylvian",
+        "speakerid": "613",
+        "organisation": "European Commission Directorate-General for Health and Food Safety"
+      },
+      {
+        "speaker": "Grueger, Jens",
+        "speakerid": "2047",
+        "organisation": "Boston Consulting Group"
+      },
       {
         "speaker": "Kluge, Hans",
         "speakerid": "391",
@@ -58,18 +128,22 @@
         "image": "https://www.ehfg.org/fileadmin/_processed_/1/8/csm_LARSEN_bjorninge__ddf2e3a36c.jpg"
       },
       {
+        "speaker": "Kupier, Elizabeth",
+        "speakerid": "2081",
+        "organisation": "European Federation of Pharmaceutical Industries and Associations"
+      },
+      {
         "speaker": "Azzopardi-Muscat, Natasha",
         "speakerid": "1264",
         "organisation": "WHO Regional Office for Europe",
         "image": "https://www.ehfg.org/fileadmin/_processed_/9/5/csm_04_AC_AzzopardiMuscatNatasha%402x_ba8e283718.jpg"
       },
       {
-        "speaker": "Garner, Sarah",
-        "speakerid": "1789",
-        "organisation": "WHO Regional Office for Europe",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/e/8/csm_GARNER_Sarah_930e0081a9.jpg"
-      },
-      { "speaker": ", ", "speakerid": "1694", "organisation": "" }
+        "speaker": "Hågå, Audun",
+        "speakerid": "1788",
+        "organisation": "Norwergian Medicines Agency",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/1/9/csm_HAGA_Audun_be6ff931f1.jpg"
+      }
     ]
   },
   {
@@ -79,7 +153,7 @@
     "eventcategory": "Networking Break",
     "eventshortid": "N2",
     "date": "2021-09-27",
-    "start": "13:00",
+    "start": "12:30",
     "end": "13:00",
     "location": "Networking Lounges",
     "lat": "",
@@ -95,7 +169,7 @@
     "eventcategory": "Plenary",
     "eventshortid": "P1",
     "date": "2021-09-27",
-    "start": "14:30",
+    "start": "13:00",
     "end": "14:30",
     "location": "Main Stage",
     "lat": "",
@@ -103,6 +177,12 @@
     "headline": "Organised by the European Health Forum Gastein",
     "description": "Two years ago one would have been forgiven for imagining that the sudden onset of a global pandemic - leaving no person or country unaffected - could be the moment that the world pulls together to fight a common challenge. Yet instead, the problems of the multilateral system have been revealed centre stage.Rising nationalism has undermined global cooperation, there has been open hostility towards multilateral institutions and a growing tendency to pursue unilateral approaches especially when it comes to COVID-19 vaccines - ignoring the oft-repeated mantra that no one is safe until everyone is safe. Following years of policies that successively eroded multilateral institutions, the need for improved collaboration and knowledge sharing to ensure a resilient future has become crystal clear. Countries need to strengthen the collaborative fora and instruments that are crucial for effective global solidarity.This plenary will ask how we can better cooperate in the face of future crises. What alliances and strategies are crucial to more effectively engage with diverse rival powers? Can we invent a new and more inclusive kind of multilateralism? To what extent is the EU a credible partner for countries in the Global South right now? Above all, what role can Europe play in a “refresh” of multilateralism?",
     "speakers": [
+      {
+        "speaker": "Auer, Clemens Martin",
+        "speakerid": "505",
+        "organisation": "European Health Forum Gastein",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/6/0/csm_04_board_AuerClemens2%402x_f135320029.jpg"
+      },
       {
         "speaker": "Mückstein, Wolfgang",
         "speakerid": "1956",
@@ -116,16 +196,34 @@
         "image": "https://www.ehfg.org/fileadmin/_processed_/b/e/csm_ADHANOM_GHEBREYESUS_tedros_f9a13139f2.jpg"
       },
       {
+        "speaker": "Torreele, Els",
+        "speakerid": "683",
+        "organisation": "University College London",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/e/a/csm_TORREELE_els_3f0084cb2a.jpg"
+      },
+      {
+        "speaker": "Lazarou, Elena",
+        "speakerid": "2030",
+        "organisation": "European Parliamentary Research Service",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/0/e/csm_ElenaLazarou_c6cf888524.jpg"
+      },
+      {
+        "speaker": "Songwe, Vera",
+        "speakerid": "2067",
+        "organisation": "Economic Commission for Africa",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/0/1/csm_SONGWE_vera_798d2f7355.jpg"
+      },
+      {
         "speaker": "Kluge, Hans",
         "speakerid": "391",
         "organisation": "World Health Organization",
         "image": "https://www.ehfg.org/fileadmin/_processed_/b/1/csm_KLUGE_hans_b57695a4a9.jpg"
       },
       {
-        "speaker": "Auer, Clemens Martin",
-        "speakerid": "505",
-        "organisation": "European Health Forum Gastein",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/6/0/csm_04_board_AuerClemens2%402x_f135320029.jpg"
+        "speaker": "Gallina, Sandra",
+        "speakerid": "1710",
+        "organisation": "European Commission Directorate-General for Health and Food Safety",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/2/6/csm_GALLINA_sandra_68b5bbd96b.jpg"
       },
       {
         "speaker": "Kickbusch, Ilona",
@@ -134,25 +232,32 @@
         "image": "https://www.ehfg.org/fileadmin/_processed_/f/c/csm_KICKBUSH_Ilona_2dc06e80d6.png"
       },
       {
-        "speaker": "Torreele, Els",
-        "speakerid": "683",
-        "organisation": "University College London",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/e/a/csm_TORREELE_els_3f0084cb2a.jpg"
+        "speaker": "Moon, Suerie",
+        "speakerid": "1210",
+        "organisation": "Graduate Institute of International and Development Studies Geneva",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/5/e/csm_Moon_Suerie_5f90e0f804.jpg"
+      },
+      { "speaker": ", ", "speakerid": "1694", "organisation": "" },
+      {
+        "speaker": "Natsis, Yannis",
+        "speakerid": "580",
+        "organisation": "Universal Access and Affordable Medicines",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/1/8/csm_Natsis_Yannis_f3896a7690.jpg"
       }
     ]
   },
   {
     "eventname": "Reflection Roundtable &amp; other activities",
-    "subtitle": "Visit the digital Networking Lounges in the EHFG conference platform",
     "eventid": "1932",
     "eventcategory": "Networking Break",
     "eventshortid": "N3",
     "date": "2021-09-27",
-    "start": "15:00",
+    "start": "14:30",
     "end": "15:00",
     "location": "Networking Lounges",
     "lat": "",
     "lng": "",
+    "headline": "Visit the digital Networking Lounges in the EHFG conference platform",
     "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!",
     "speakers": []
   },
@@ -162,7 +267,7 @@
     "eventcategory": "Session",
     "eventshortid": "S3",
     "date": "2021-09-27",
-    "start": "16:30",
+    "start": "15:00",
     "end": "16:30",
     "location": "Room 1",
     "lat": "",
@@ -171,16 +276,34 @@
     "description": "The EU’s ambitions for a global role in health are well known – but how can the bloc step up and make sure when the next pandemic hits it is better prepared to protect itself, as well as a better partner for countries in the Global South?This session will explore how the EU can build internal resilience, meaningfully carve out a unique role in the global preparedness agenda, and support capacity building and preparedness efforts with its partners around the world.",
     "speakers": [
       {
-        "speaker": "Ezekwesili, Obiageli",
-        "speakerid": "1972",
-        "organisation": "Africa Economic Development Policy Initiative",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/d/2/csm_OBIAGELI_katryn_ezekwesili_09699c72f9.jpg"
+        "speaker": "Seychell, Martin",
+        "speakerid": "760",
+        "organisation": "DG SANTE",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/b/a/csm_Seychell_Martin_4c8a2c8993.jpg"
+      },
+      {
+        "speaker": "Ogwell Ouma, Ahmed",
+        "speakerid": "2007",
+        "organisation": "African Centres for Disease Control and Prevention",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/a/3/csm_OUMA_ahmed_5419d8f0eb.jpg"
       },
       {
         "speaker": "Farrar, Jeremy",
         "speakerid": "1954",
         "organisation": "Wellcome Trust",
         "image": "https://www.ehfg.org/fileadmin/_processed_/5/3/csm_FARRAR_jeremy_fa9212870a.jpg"
+      },
+      {
+        "speaker": "Hatchett, Richard",
+        "speakerid": "1973",
+        "organisation": "Coalition for Epidemic Preparedness Innovations",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/9/2/csm_Hatchett_Richard_22cb952a92.jpg"
+      },
+      {
+        "speaker": "Ezekwesili, Obiageli",
+        "speakerid": "1972",
+        "organisation": "Africa Economic Development Policy Initiative",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/d/2/csm_OBIAGELI_katryn_ezekwesili_09699c72f9.jpg"
       },
       {
         "speaker": "Kickbusch, Ilona",
@@ -195,32 +318,32 @@
         "image": "https://www.ehfg.org/fileadmin/_processed_/0/d/csm_Dorit_Nitzan__1__da47d054ca.jpg"
       },
       {
-        "speaker": "Ogwell Ouma, Ahmed",
-        "speakerid": "2007",
-        "organisation": "African Centres for Disease Control and Prevention",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/a/3/csm_OUMA_ahmed_5419d8f0eb.jpg"
+        "speaker": "Guinard, Catherine",
+        "speakerid": "2006",
+        "organisation": "Wellcome Trust",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/0/a/csm_GUINARD_catherine_e1aa7cbb59.jpg"
       },
       {
-        "speaker": "Hatchett, Richard",
-        "speakerid": "1973",
-        "organisation": "Coalition for Epidemic Preparedness Innovations",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/9/2/csm_Hatchett_Richard_22cb952a92.jpg"
+        "speaker": "Furlong, Ashleigh",
+        "speakerid": "2029",
+        "organisation": "Politico",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/5/b/csm_FURLONG_ashleigh_bb94760292.jpg"
       }
     ]
   },
   {
-    "eventname": "Reflection Roundtable &amp; other activities",
-    "subtitle": "Visit the digital Networking Lounges in the EHFG conference platform",
+    "eventname": "Socialise and explore",
     "eventid": "1931",
     "eventcategory": "Networking Break",
     "eventshortid": "N4",
     "date": "2021-09-27",
-    "start": "17:00",
+    "start": "16:30",
     "end": "17:00",
     "location": "Networking Lounges",
     "lat": "",
     "lng": "",
-    "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!",
+    "headline": "Visit the EHFG Networking Lounges and digital exhibition in the Partner area",
+    "description": "Recharge between sessions and visit the Networking Lounges to connect with fellow attendees, explore the digital exhibition to discover projects and materials by EHFG partners, or take an active break away from your screen.",
     "speakers": []
   },
   {
@@ -230,14 +353,62 @@
     "eventcategory": "Session",
     "eventshortid": "S4",
     "date": "2021-09-27",
-    "start": "18:00",
+    "start": "17:00",
     "end": "18:00",
     "location": "Room 1",
     "lat": "",
     "lng": "",
     "headline": "Organised by the European Federation of Pharmaceutical Industries & Associations, European Cancer Patient Coalition and European Cancer Organisation",
     "description": "COVID-19 has shown there is no wealth without health. But it equally showed that economy and healthcare can be re-imagined, and that no one can do it alone. We have the opportunity to re-think the cancer care system of the future whilst making innovation accessible, resilient, agile and prosperous. How would healthcare systems and cancer care 3.0 look?Europe’s Beating Cancer Plan: if implemented, cancer care could rise like a Phoenix post-COVID-19 to restore what we missed, to build back better and turn a new page for cancer care. To achieve this goal, we need to stay focused - and a set of jointly agreed indicators to measure progress can keep all of us focused on what matters.Cancer care can be used as a model to define new methods, fostering collaboration, solidarity and accountability. Join us for this \"bar camp\" conversation where you can decide what is relevant, and contribute to re-shaping cancer care after the pandemic has shaken our world and health systems!",
-    "speakers": []
+    "speakers": [
+      {
+        "speaker": "Lawler, Mark",
+        "speakerid": "1435",
+        "organisation": "Queen&#039;s University Belfast",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/2/9/csm_Mark_Lawler_headshot__002__a533609426.jpg"
+      },
+      {
+        "speaker": "Aapro, Matti",
+        "speakerid": "1781",
+        "organisation": "European Cancer Organisation"
+      },
+      {
+        "speaker": "Cardone, Antonella",
+        "speakerid": "1605",
+        "organisation": "European Cancer Patient Coalition",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/1/8/csm_Cardone_Antonella_878d77f6d5.jpg"
+      },
+      {
+        "speaker": "Roediger, Alexander",
+        "speakerid": "773",
+        "organisation": "EFPIA Oncology Steering Committee",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/0/6/csm_Roediger_Alexander_dd3dd61cfb.jpg"
+      },
+      {
+        "speaker": "Buşoi, Cristian-Silviu",
+        "speakerid": "1711",
+        "organisation": "European Parliament",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/9/8/csm_BUSOI_cristian-silviu_ae69971197.jpg"
+      },
+      {
+        "speaker": "Erklavec, Urška",
+        "speakerid": "2060",
+        "organisation": "Ministry of Health of the Republic of Slovenia",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/e/4/csm_ERKLAVEC_urska_e99252e9b1.jpg"
+      },
+      {
+        "speaker": "Ryan, John",
+        "speakerid": "392",
+        "organisation": "European Commission Directorate-General for Health and Food Safety",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/8/3/csm_RYAN_John_e490433677.jpg"
+      },
+      {
+        "speaker": "Baker, Jennifer",
+        "speakerid": "2054",
+        "organisation": "",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/8/5/csm_BAKER_jennifer_70ab083c59.jpg"
+      }
+    ]
   },
   {
     "eventname": "NLO Voices",
@@ -246,13 +417,28 @@
     "eventcategory": "Broadcast",
     "eventshortid": "B1",
     "date": "2021-09-27",
-    "start": "19:00",
-    "end": "19:00",
+    "start": "18:00",
+    "end": "18:30",
     "location": "NLO Hub",
     "lat": "",
     "lng": "",
     "headline": "Organised by Nobody Left Outside and MSD",
     "description": "Unwind for the day while you listen to members of the NLO network discuss the EHFG programme through the lense of marginalised communities, interview relevant experts, and envision what must be done to make sure nobody is left outside as we strive for a resilient recovery in Europe. ",
+    "speakers": []
+  },
+  {
+    "eventname": "Socialise and explore",
+    "eventid": "2070",
+    "eventcategory": "Networking Break",
+    "eventshortid": "N5",
+    "date": "2021-09-27",
+    "start": "18:30",
+    "end": "19:00",
+    "location": "Networking Lounges",
+    "lat": "",
+    "lng": "",
+    "headline": "Visit the digital Networking Lounges in the EHFG conference platform",
+    "description": "Recharge between sessions and visit the Networking Lounges to connect with fellow attendees, explore the digital exhibition to discover projects and materials by EHFG partners, or take an active break away from your screen.",
     "speakers": []
   },
   {
@@ -262,43 +448,120 @@
     "eventcategory": "Evening Session",
     "eventshortid": "E1",
     "date": "2021-09-27",
-    "start": "20:00",
+    "start": "19:00",
     "end": "20:00",
     "location": "Room 1",
     "lat": "",
     "lng": "",
-    "headline": "Organised by Think Brain Health",
+    "headline": "Organised by Think Brain Health Global",
     "description": "Brain health is about making the most of your brain, helping to reduce some of the risks to its health as you age. Reducing the risk of brain disease before symptoms appear is crucial to healthy brain ageing.Established on the evidence-based report Time Matters: a call to prioritze brain health, this session addresses the necessity of communicating the risk of brain disease to people during the ‘window of opportunity’ in mid-life and supporting them in leading a brain-healthy lifestyle to improve outcomes in later life. From the management of those at risk of developing neurodegenerative disease to patient experience, it shines a light on the importance of healthy brain lifestyles.Join us to discuss how to increase public understanding of brain disease prevention and share in the message that “what's good for the heart is good for the brain.”",
-    "speakers": []
+    "speakers": [
+      { "speaker": "Gibbs, Daniel", "speakerid": "2025", "organisation": "" },
+      {
+        "speaker": "Noyce, Alastair",
+        "speakerid": "1602",
+        "organisation": "Queen Mary University of London"
+      },
+      {
+        "speaker": "Świeboda, Paweł",
+        "speakerid": "2037",
+        "organisation": "EBRAINS",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/3/2/csm_SWIEBODA_pawel_98d470ea73.jpg"
+      },
+      {
+        "speaker": "Trout, Ruth",
+        "speakerid": "2027",
+        "organisation": "Buckinghamshire New University &amp; Member of the European Association of Neuroscience Nurses",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/0/f/csm_TROUT_Ruth_9a1ec3b36d.png"
+      },
+      {
+        "speaker": "van der Flier, Wiesje",
+        "speakerid": "2026",
+        "organisation": "Amsterdam University Medical Centers",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/7/7/csm_VAN_DER_FLIER_Wiesje_6527e8e9b1.png"
+      },
+      {
+        "speaker": "Sitaram, Anya",
+        "speakerid": "1045",
+        "organisation": "Rockhopper TV",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/b/d/csm_SITARAM_Anya_3076899526.png"
+      }
+    ]
   },
   {
-    "eventname": "Community engagement during health emergencies",
+    "eventname": "Community engagement for health emergencies",
     "subtitle": "Integrating lessons learned from the COVID-19 pandemic",
     "eventid": "1869",
     "eventcategory": "Session",
     "eventshortid": "S5",
     "date": "2021-09-28",
-    "start": "10:30",
+    "start": "09:00",
     "end": "10:30",
     "location": "Room 1",
     "lat": "",
     "lng": "",
     "headline": "Organised by European Centre for Disease Prevention and Control",
-    "description": "Communities are increasingly recognised as key partners for outbreak preparedness and response. ‘Communities’ include not only at-risk groups, but also other stakeholders who are linked to these affected populations, and who may be able to support the process. Such actors may already exist in the civic or public realm, or they may emerge during emergency events in the form of new coalitions.Socially vulnerable populations can be disproportionally affected by a public health crisis, and are often under-represented in active stakeholder groups responding to the crisis. To meet their needs, the principle of community partnership has to be kept at the core: from the involvement of community-based partners in the exchange of risk information, to the gradual development of a trusting foundation for shared decision-making that can address a wider range of social, economic, political, and environmental issues around health.The ultimate aim of community engagement activities is to facilitate the development of an informed community that – in collaboration with the health and relevant non-health sectors – is empowered to ensure the security and protection of all its members.Join us in this session to share your experience from the COVID-19 pandemic, and envision how civil society and national authorities can work together to address future health emergencies equitably and effectively.",
-    "speakers": []
+    "description": "Communities are increasingly recognised as key partners for outbreak preparedness and response. ‘Communities’ include not only at-risk groups, but also other stakeholders who are linked to these affected populations and who may be able to support the preparedness and response process. Such actors may already exist in the civic or public realm or they may emerge during emergency events in the form of new coalitions.We have seen during the COVID-19 pandemic that socially vulnerable populations may be disproportionally affected by a public health crisis, and they also are often under-represented in active stakeholder groups responding to the crisis. The principles of community engagement therefore need to be kept at the core, including and in particular for socially vulnerable populations. This requires the involvement of community-based partners in the exchange of risk information, and the development of a trusting foundation for shared decision-making that, in addition to health concerns, necessarily also addresses a range of social, economic, political, and environmental issues.The ultimate aim of community engagement activities is to facilitate the development of an informed community that – in collaboration with the health and relevant non-health sectors – is empowered to ensure the security and protection of all its members.Join us in this session to share your experience from the COVID-19 pandemic and envision how civil society and national authorities can work together with communities to address future health emergencies equitably and effectively.",
+    "speakers": [
+      {
+        "speaker": "Ammon, Andrea",
+        "speakerid": "1115",
+        "organisation": "European Centre for Disease Prevention and Control",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/a/7/csm_ammon_andrea_90c21d6c4a.jpg"
+      },
+      {
+        "speaker": "Kinsman, John",
+        "speakerid": "2061",
+        "organisation": "European Centre for Disease Prevention and Control"
+      },
+      {
+        "speaker": "Marmot, Michael",
+        "speakerid": "1228",
+        "organisation": "The UCL Institute of Health Equity",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/8/0/csm_MARMOT_Michael_a4f7763557.png"
+      },
+      {
+        "speaker": "Mussa, Reem",
+        "speakerid": "2078",
+        "organisation": "Medecins sans Frontieres"
+      },
+      {
+        "speaker": "Neven, Inge",
+        "speakerid": "2077",
+        "organisation": "La Commission communautaire commune"
+      },
+      {
+        "speaker": "Oprea, Cristiana",
+        "speakerid": "1547",
+        "organisation": "Victor Babes Clinical Hospital for Infectious and Tropical Diseases",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/9/8/csm_Oprea_Cristiana_8ad944ec3e.jpg"
+      },
+      {
+        "speaker": "Spinnewijn, Freek",
+        "speakerid": "1199",
+        "organisation": "FEANTSA",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/a/d/csm_Spinnewijn_Freek_9417cd959f.jpg"
+      },
+      {
+        "speaker": "Fahy, Nick",
+        "speakerid": "648",
+        "organisation": "University of Oxford",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/d/f/csm_Fahy_Nick_f2311cf5d9.jpg"
+      }
+    ]
   },
   {
     "eventname": "Reflection Roundtable &amp; other activities",
-    "subtitle": "Visit the digital Networking Lounges in the EHFG conference platform",
     "eventid": "1934",
     "eventcategory": "Networking Break",
-    "eventshortid": "N5",
+    "eventshortid": "N6",
     "date": "2021-09-28",
-    "start": "11:00",
+    "start": "10:30",
     "end": "11:00",
     "location": "Networking Lounges",
     "lat": "",
     "lng": "",
+    "headline": "Visit the digital Networking Lounges in the EHFG conference platform",
     "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!",
     "speakers": []
   },
@@ -309,28 +572,63 @@
     "eventcategory": "Session",
     "eventshortid": "S6",
     "date": "2021-09-28",
-    "start": "12:30",
+    "start": "11:00",
     "end": "12:30",
     "location": "Room 1",
     "lat": "",
     "lng": "",
     "headline": "Organised by EIT Health",
-    "description": "The COVID-19 crisis has acted as an accelerant of innovation in many areas, especially when it comes to the adoption of healthcare solutions such as digital platforms. While the pandemic signalled a boom in areas like telemedicine and AI, our European frameworks were not conducive to a context which demanded ‘fast innovation’, and many quick fixes needed to be introduced to allow healthcare systems to provide the solutions to patients that were so greatly needed.From a lack of digitalisation and electronic records in many health systems, as well as legislative gaps and fragmentation among Member States in crisis management, to the inflexibilities of regulatory and reimbursement frameworks, to complexities around patient consent and the use of specific data: the stark reality is that the context did not help us to react quickly.Moving on from the pandemic, it is clear that that things must change. Networks like EIT Health, driving quick action by connecting minds and organisations in business, research and education, play a vital role for Europe’s recovery and response to future crises, as well as for dealing with the everyday realities of growing demand and challenges around healthcare in areas like non-communicable disease.In this session, we will take a look at the trends and innovations that have emerged from the EIT Health community during the pandemic, and explore the gap between the potential of digital health solutions - extending far beyond the pandemic - and the current reality. Join us to discover real solutions from innovators, discuss what must be done to build on what we have learned from the pandemic, and find out how we can become even stronger.",
-    "speakers": []
+    "description": "The COVID-19 crisis has acted as an accelerant of innovation in many areas, especially when it comes to the adoption of healthcare solutions such as digital platforms for care management. While the pandemic signaled a boom in areas such as telemedicine and AI, what remains clear is that our European frameworks were not wholly conducive to a context which demanded ‘fast innovation’, and many quick fixes needed to be introduced at speed to allow healthcare systems to provide solutions to patients that were so greatly needed.From a lack of digitalisation and electronic records in many health systems, as well as legislative gaps and fragmentation among Member States in crisis management, to the inflexibilities of regulatory and reimbursement frameworks, to complexities around patient consent and the use of specific data, the stark reality is that the circumstances did not help us to react quickly.Moving on from the pandemic, things must change. Innovation ecosystems like EIT Health, driving quick action connecting minds and organisations in business, research and education, as well as healthcare delivery, play a vital role for Europe’s recovery and response to current and future crises as well as dealing with the everyday realities of growing demand around healthcare due to challenges such as non-communicable diseases.This session will build around three concrete examples of innovation and entrepreneurship as supported by EIT Health during the pandemic, to reflect on the trends driving health care transformation and innovation and explore – from the perspective of innovators, policymakers, patients, health care professionals and providers - how a whole of society, ecosystem approach may contribute to more a more resilient future.",
+    "speakers": [
+      {
+        "speaker": "Chavarría, Teresa",
+        "speakerid": "2040",
+        "organisation": "Salud Madrid"
+      },
+      {
+        "speaker": "Mora, Carlos",
+        "speakerid": "2038",
+        "organisation": "Hemotune",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/2/7/csm_MORA_carlos_cd3d3a3070.jpg"
+      },
+      {
+        "speaker": "Van der Wolk, Jeroen",
+        "speakerid": "2041",
+        "organisation": "Mentaal Beter"
+      },
+      {
+        "speaker": "Waldemar, Gunhild",
+        "speakerid": "2042",
+        "organisation": "Biomed Alliance",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/f/b/csm_WALDEMAR_gunhild_c5556f1210.jpg"
+      },
+      {
+        "speaker": "Beck, Jan-Philipp",
+        "speakerid": "1583",
+        "organisation": "EIT Health",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/9/b/csm_BECK_Jan_Philipp_b717be2e7d.jpg"
+      },
+      {
+        "speaker": "Martens, Hans",
+        "speakerid": "2039",
+        "organisation": "EIT Health High Value Care Forum",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/8/d/csm_MARTENS_hans_dc18c70940.jpg"
+      }
+    ]
   },
   {
-    "eventname": "Reflection Roundtable &amp; other activities",
+    "eventname": "Socialise and explore",
     "eventid": "1935",
     "eventcategory": "Networking Break",
-    "eventshortid": "N6",
+    "eventshortid": "N7",
     "date": "2021-09-28",
-    "start": "13:00",
+    "start": "12:30",
     "end": "13:00",
     "location": "Networking Lounges",
     "lat": "",
     "lng": "",
-    "headline": "Visit the digital Networking Lounges in the EHFG conference platform",
-    "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!",
+    "headline": "Visit the EHFG Networking Lounges and digital exhibition in the Partner area",
+    "description": "Recharge between sessions and visit the Networking Lounges to connect with fellow attendees, explore the digital exhibition to discover projects and materials by EHFG partners, or take an active break away from your screen.",
     "speakers": []
   },
   {
@@ -340,22 +638,65 @@
     "eventcategory": "Session",
     "eventshortid": "S7",
     "date": "2021-09-28",
-    "start": "14:30",
+    "start": "13:00",
     "end": "14:30",
     "location": "Room 1",
     "lat": "",
     "lng": "",
     "headline": "Organised by Amgen",
     "description": "Despite improvements over the past decade, cardiovascular disease (CVD) remains the leading cause of death in Europe. With an ageing population and vast disparities in morbidity and mortality within and across countries in Europe, it is already evident that the burden of CVD may be on a downward turn. Already some countries are seeing increases in incidence, prevalence and mortality compared to previous years. The impact of comorbidities like CVD and other cardiometabolic diseases on COVID-19 outcomes are also emerging as a key health determinant. Now is the time to act to ensure health systems return to a focus on CVD as a critical health issue and demonstrate decisive action to improve the many modifiable risks that exist. Now is the time to mobilize and connect CVD stakeholders in creating an effective platform for Europe to raise CVD higher on health policy agendas.Join us in this interactive session to explore how we can build on the joint statement calling on the EU to develop a comprehensive plan on CVD, conceptualize new CVD partnership models, address the future continuity of care for patients, mitigate the impact of the secondary health crisis, and challenge existing inequalities as we seek to set out a new policy vision for CVD.",
-    "speakers": []
+    "speakers": [
+      {
+        "speaker": "Achenbach, Stephan",
+        "speakerid": "2010",
+        "organisation": "European Society of Cardiology",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/4/e/csm_Achenbach_Stephan_086b409d46.jpg"
+      },
+      {
+        "speaker": "Beger, Birgit",
+        "speakerid": "597",
+        "organisation": "European Heart Network",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/1/7/csm_BEGER_Birgit_aa211b7733.png"
+      },
+      {
+        "speaker": "Benifei, Brando",
+        "speakerid": "2031",
+        "organisation": "European Parliament",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/1/0/csm_Benifei_Brando_3fd4ef2f16.jpg"
+      },
+      {
+        "speaker": "Delsaux, Pierre",
+        "speakerid": "2009",
+        "organisation": "European Commission Directorate-General for Health and Food Safety",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/6/e/csm_DELSAUX_pierre_40f54618a2.jpg"
+      },
+      {
+        "speaker": "Ferreira Borges, Ana Carina",
+        "speakerid": "1520",
+        "organisation": "World Health Organization",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/9/e/csm_FERREIRA_BORGES_CARINA_7c977e895a.png"
+      },
+      {
+        "speaker": "Stepinska, Janina",
+        "speakerid": "2011",
+        "organisation": "World Heart Federation",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/5/f/csm_Spepinska_Janina_7dd912606f.jpg"
+      },
+      {
+        "speaker": "Rose, Tamsin",
+        "speakerid": "408",
+        "organisation": "Friends of Europe",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/4/1/csm_Rose_Tamsin_10826a549b.jpg"
+      }
+    ]
   },
   {
     "eventname": "Reflection Roundtable &amp; other activities",
     "eventid": "1936",
     "eventcategory": "Networking Break",
-    "eventshortid": "N7",
+    "eventshortid": "N8",
     "date": "2021-09-28",
-    "start": "15:00",
+    "start": "14:30",
     "end": "15:00",
     "location": "Networking Lounges",
     "lat": "",
@@ -371,20 +712,14 @@
     "eventcategory": "Session",
     "eventshortid": "S8",
     "date": "2021-09-28",
-    "start": "16:30",
+    "start": "15:00",
     "end": "16:30",
     "location": "Room 1",
     "lat": "",
     "lng": "",
     "headline": "Organised by Roche",
-    "description": "The key role of data infrastructure has been demonstrated throughout the COVID-19 pandemic. We have learned the importance of a broader data infrastructure in facilitating cross-border data sharing that can better respond to transnational health threats, as well as increase the number of instruments in a healthcare systems ‘toolbox’.The cornerstones of a health data ecosystem are data flows, data governance, secondary use of data and data privacy. Looking beyond the current crisis, concerns persist around the transparency of data sharing and data ownership. This session will address how these challenges can be overcome for an optimal data ecosystem, using examples from a forthcoming report by the Open Data Institute (ODI), commissioned by Roche, and the findings of the Personalised Health Index of the FutureProofing Healthcare initiative.We invite participants to reflect and collaborate with leading digital health experts and policymakers to support the co-creation of an action plan towards an ideal data ecosystem and governance framework.",
+    "description": "The key role of data infrastructure has been demonstrated throughout the COVID-19 pandemic. We have learned the importance of a broader data infrastructure in facilitating cross-border data sharing that can better respond to transnational health threats, as well as increase the number of instruments in a healthcare systems ‘toolbox’.The cornerstones of a health data ecosystem are data flows, data governance, secondary use of data and data privacy. Looking beyond the current crisis, concerns persist around the transparency of data sharing and data ownership. This session will address how these challenges can be overcome for an optimal data ecosystem, citing findings from the Personalised Health Index of the FutureProofing Healthcare initiative as well as drawing on a major new policy report by the ODI, commissioned by Roche, on secondary use of health data in Europe.We invite participants to reflect and collaborate with leading digital health experts and policymakers to support the co-creation of an action plan towards an ideal data ecosystem and governance framework.",
     "speakers": [
-      {
-        "speaker": "Allen, Lisa",
-        "speakerid": "1989",
-        "organisation": "Open Data Institute",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/3/b/csm_Allen__Lisa_13b91c7845.jpg"
-      },
       {
         "speaker": "Bedlington, Nicola",
         "speakerid": "592",
@@ -395,13 +730,19 @@
         "speaker": "Hendolin, Minna",
         "speakerid": "1990",
         "organisation": "The Finnish Innovation Fund Sitra",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/e/e/csm_Hendolin_Minna_6d77537dcf.jpg"
+        "image": "https://www.ehfg.org/fileadmin/_processed_/e/e/csm_Hendolin_Minna_57c1204726.jpg"
       },
       {
         "speaker": "Ward, Padraic",
         "speakerid": "1988",
         "organisation": "Roche",
         "image": "https://www.ehfg.org/fileadmin/_processed_/b/c/csm_Ward_Padraic_6e37ae7185.jpg"
+      },
+      {
+        "speaker": "Zimeta, Mahlet (Milly)",
+        "speakerid": "2049",
+        "organisation": "Open Data Institute",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/9/e/csm_Zimeta_Milly__5345d605c6.jpg"
       },
       {
         "speaker": "Bergström, Richard",
@@ -413,16 +754,16 @@
   },
   {
     "eventname": "Reflection Roundtable &amp; other activities",
-    "subtitle": "Visit the digital Networking Lounges in the EHFG conference platform",
     "eventid": "1937",
     "eventcategory": "Networking Break",
-    "eventshortid": "N8",
+    "eventshortid": "N9",
     "date": "2021-09-28",
-    "start": "17:00",
+    "start": "16:30",
     "end": "17:00",
     "location": "Networking Lounges",
     "lat": "",
     "lng": "",
+    "headline": "Visit the digital Networking Lounges in the EHFG conference platform",
     "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!",
     "speakers": []
   },
@@ -433,7 +774,7 @@
     "eventcategory": "Session",
     "eventshortid": "S9",
     "date": "2021-09-28",
-    "start": "18:00",
+    "start": "17:00",
     "end": "18:00",
     "location": "Room 1",
     "lat": "",
@@ -442,24 +783,29 @@
     "description": "Forty years since the start of the HIV epidemic, significant progress has been made in controlling HIV. However, with increasing growth in transmission and a failure to sustain viral suppression in key populations, more remains to be done to meet the United Nation’s HIV / AIDS 2030 targets. Existing approaches are no longer sufficient and the burden on patients and health systems is growing.In this session, we will discuss how it is now more important than ever for governments and policy makers to refocus efforts on HIV as part of their post COVID-19 strategies, to ensure health systems are set up to meet the evolving and unmet needs of people living with HIV, particularly in key populations where the need is increasing, and track progress with other countries across Europe.Join us to discuss HIV as a model for future disease prevention efforts to achieve the Sustainable Development Goals!",
     "speakers": [
       {
-        "speaker": "Bereczky, Tamas",
+        "speaker": "Bereczky, Dr Tamas",
         "speakerid": "1970",
-        "organisation": "European Patients’ Academy for Therapeutic Innovation",
+        "organisation": "Patvocates",
         "image": "https://www.ehfg.org/fileadmin/_processed_/9/6/csm_BERECZKY_tamas_81d2e3cc85.jpg"
       },
       {
         "speaker": "Oprea, Cristiana",
         "speakerid": "1547",
-        "organisation": "Victor Babes Clinical Hospital for Infectious Diseases &amp; Carol Davila University of Medicine and Pharmacy Bucharest",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/e/6/csm_OPREA_CHRISTINA_e5c0189de2.png"
+        "organisation": "Victor Babes Clinical Hospital for Infectious and Tropical Diseases",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/9/8/csm_Oprea_Cristiana_8ad944ec3e.jpg"
+      },
+      {
+        "speaker": "Ryan, John",
+        "speakerid": "392",
+        "organisation": "European Commission Directorate-General for Health and Food Safety",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/8/3/csm_RYAN_John_e490433677.jpg"
       },
       {
         "speaker": "Davis, Jacki",
         "speakerid": "1709",
         "organisation": "Meade Davis Communications",
         "image": "https://www.ehfg.org/fileadmin/_processed_/2/e/csm_DAVIS_Jacki_2f7b574859.jpg"
-      },
-      { "speaker": ", ", "speakerid": "1694", "organisation": "" }
+      }
     ]
   },
   {
@@ -469,7 +815,7 @@
     "eventcategory": "Broadcast",
     "eventshortid": "B2",
     "date": "2021-09-28",
-    "start": "18:30",
+    "start": "18:00",
     "end": "18:30",
     "location": "NLO Hub",
     "lat": "",
@@ -479,20 +825,67 @@
     "speakers": []
   },
   {
+    "eventname": "Reflection Roundtable &amp; other activities",
+    "eventid": "2072",
+    "eventcategory": "Networking Break",
+    "eventshortid": "N10",
+    "date": "2021-09-28",
+    "start": "18:00",
+    "end": "18:30",
+    "location": "Networking Lounges",
+    "lat": "",
+    "lng": "",
+    "headline": "Visit the digital Networking Lounges in the EHFG conference platform",
+    "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!",
+    "speakers": []
+  },
+  {
     "eventname": "Hey Mary, by the way, thank you for your data",
     "subtitle": "Better data, bolder economy, brighter future",
     "eventid": "2008",
     "eventcategory": "Evening Session",
     "eventshortid": "E2",
     "date": "2021-09-28",
-    "start": "19:30",
+    "start": "18:30",
     "end": "19:30",
     "location": "Room 1",
     "lat": "",
     "lng": "",
     "headline": "Organised by Novartis",
     "description": "The healthcare sector is traditionally data rich but information poor. The COVID-19 pandemic, with its speed and impact across the globe, has unleashed the power of data and digital as vital enablers on the path toward the reorganisation and revolution of health services (e-prescriptions, telemedicine, home monitoring, outpatient care).Can we improve and adjust our attitude towards sharing health data and find love for our “digital twin,” or will it all remain a trapping of science fiction? Is a robust, resilient, and sustainable future out of reach or is there a “digi-Phoenix” rising from the ashes of COVID and lighting the way to better health and new wealth?Join us in this session to discuss the challenges ahead, and envision how we can confront mindsets of the past and write the future at the same time.",
-    "speakers": [{ "speaker": ", ", "speakerid": "1694", "organisation": "" }]
+    "speakers": [
+      { "speaker": ", ", "speakerid": "1694", "organisation": "" },
+      {
+        "speaker": "Bauer, Birgit",
+        "speakerid": "2035",
+        "organisation": "Manufaktur für Antworten UG",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/5/4/csm_Bauer_Birgit_55194f5688.jpg"
+      },
+      {
+        "speaker": "Kalra, Dipak",
+        "speakerid": "2034",
+        "organisation": "European Institute for Innovation through Health Data",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/e/5/csm_Kalra_Dipak__d2f0d6d9f2.jpg"
+      },
+      {
+        "speaker": "Olwal, John",
+        "speakerid": "2045",
+        "organisation": "Novartis",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/6/7/csm_Olwal_John_e1d2415ecc.jpg"
+      },
+      {
+        "speaker": "Wong, Brian",
+        "speakerid": "2032",
+        "organisation": "The Lancet &amp; Financial Times Commission",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/f/d/csm_WONG_Brian_Li_Han_4e8720cade.png"
+      },
+      {
+        "speaker": "Davis, Jacki",
+        "speakerid": "1709",
+        "organisation": "Meade Davis Communications",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/2/e/csm_DAVIS_Jacki_2f7b574859.jpg"
+      }
+    ]
   },
   {
     "eventname": "A better tomorrow for rare disease care and research",
@@ -501,19 +894,14 @@
     "eventcategory": "Session",
     "eventshortid": "S10",
     "date": "2021-09-29",
-    "start": "10:30",
+    "start": "09:00",
     "end": "10:30",
     "location": "Room 1",
     "lat": "",
     "lng": "",
-    "headline": "Organised by The European Confederation of Pharmaceutical Entrepreneurs",
+    "headline": "Organised by The European Confederation of Pharmaceutical Entrepreneurs (EUCOPE), in partnership with Sanofi",
     "description": "The fight against rare diseases must remain at the heart of Europe’s recovery. The EU Orphan Medicinal Product (OMP) Regulation has proven a tremendous success for patients, promoting research and innovation in the rare disease space since its adoption. Today, there are about 200 approved treatments for rare diseases, giving hope to more than 20 million people.At the same time, the pandemic has highlighted fundamental challenges faced by rare disease patients, such as the need for disease screening, access to care, and stress. To continue supporting patients and provide treatment during the crisis, important lessons have been learnt regarding access to care and digitalisation.As the OMP Regulation undergoes review in 2021, another pivotal legislative moment for rare diseases is on the horizon, and with it an opportunity to tackle remaining gaps in rare disease research, investment and care. Join us in this session to discuss how the EU can seize the opportunity to rise like a phoenix and address issues that prevent rare disease patients from accessing the care they need.",
     "speakers": [
-      {
-        "speaker": "Hernández García, César",
-        "speakerid": "2020",
-        "organisation": "Spanish Medicines Agency"
-      },
       {
         "speaker": "Buxo, Manuela",
         "speakerid": "1976",
@@ -527,9 +915,21 @@
         "image": "https://www.ehfg.org/fileadmin/_processed_/c/c/csm_Gabaldo_Michela_738d20c3bf.jpg"
       },
       {
+        "speaker": "Hernández García, César",
+        "speakerid": "2020",
+        "organisation": "Spanish Medicines Agency",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/5/4/csm_Hernandez_Garcia_Cesar_fe29865c4a.jpg"
+      },
+      {
+        "speaker": "Kantorska, Kaja",
+        "speakerid": "2023",
+        "organisation": "Directorate-General for Health and Food Safety",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/a/0/csm_Kantorska_Kaja_46a4efe447.jpg"
+      },
+      {
         "speaker": "Le Cam, Yann",
         "speakerid": "1978",
-        "organisation": "EURORDIS",
+        "organisation": "EURORDIS-Rare Diseases Europe",
         "image": "https://www.ehfg.org/fileadmin/_processed_/d/0/csm_Le_Cam_Yann_7d1a308781.jpg"
       },
       {
@@ -550,9 +950,9 @@
     "eventname": "Reflection Roundtable &amp; other activities",
     "eventid": "1938",
     "eventcategory": "Networking Break",
-    "eventshortid": "N9",
+    "eventshortid": "N11",
     "date": "2021-09-29",
-    "start": "11:00",
+    "start": "10:30",
     "end": "11:00",
     "location": "Networking Lounges",
     "lat": "",
@@ -567,28 +967,76 @@
     "eventcategory": "Session",
     "eventshortid": "S11",
     "date": "2021-09-29",
-    "start": "12:30",
+    "start": "11:00",
     "end": "12:30",
     "location": "Room 1",
     "lat": "",
     "lng": "",
     "headline": "Organised by European Commission Directorate-General for Health and Food Safety",
-    "description": "Session details coming soon!",
-    "speakers": []
+    "description": "As part of building a European Health Union, on 11 November 2020 the European Commission proposed a new health security framework fit for the health challenges of tomorrow. The European Health Union will better protect the health of the citizens, equip the EU and its Member states to better prevent and address future pandemics and improve the resilience of Europe’s health systems. A strong European Health Union will allow all EU countries to prepare and respond together to health crises, making medical supplies available, affordable and innovative and working together to improve prevention, treatment and aftercare.The new framework will also extend the role of EU agencies in the coordination of preparedness and response measures and will include a European Health Emergency Preparedness and Response Authority (HERA). Increased coordination, declaration of an EU emergency situation, strengthened and integrated surveillance system, reporting on health systems indicators and monitoring and mitigating the risk of shortages of critical medicines and medical devices are the main challenges and the axes of a new preparedness framework. Join this session to find out more!",
+    "speakers": [
+      {
+        "speaker": "Delsaux, Pierre",
+        "speakerid": "2009",
+        "organisation": "European Commission Directorate-General for Health and Food Safety",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/6/e/csm_DELSAUX_pierre_40f54618a2.jpg"
+      },
+      {
+        "speaker": "Cooke, Emer",
+        "speakerid": "2062",
+        "organisation": "European Medicines Agency",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/9/4/csm_EMER_cooke_417725ff74.jpg"
+      },
+      {
+        "speaker": "Ammon, Andrea",
+        "speakerid": "1115",
+        "organisation": "European Centre for Disease Prevention and Control",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/a/7/csm_ammon_andrea_90c21d6c4a.jpg"
+      },
+      {
+        "speaker": "Kerstiëns, Barbara",
+        "speakerid": "514",
+        "organisation": "European Commission Directorate-General for Research and Innovation",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/7/f/csm_KERSTIENS_barbara_9fbb8b6975.jpg"
+      },
+      {
+        "speaker": "Schwoerer, Antoine",
+        "speakerid": "2063",
+        "organisation": "French Ministry of Solidarity and Health",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/7/a/csm_SCHWOERER_antonie_79745a3668.jpg"
+      },
+      {
+        "speaker": "Gobec, Mojca",
+        "speakerid": "1126",
+        "organisation": "Ministry of Health"
+      },
+      {
+        "speaker": "Keller, Ingrid",
+        "speakerid": "721",
+        "organisation": "European Commission Directorate-General for Health and Food Safety",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/3/e/csm_KELLER_ingrid_e100e5c83e.jpg"
+      },
+      {
+        "speaker": "de la Mata, Isabel",
+        "speakerid": "679",
+        "organisation": "European Commission Directorate-General for Health and Food Safety",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/3/f/csm_DE-LA-MATA_isabel_5f1f4420f4.jpg"
+      }
+    ]
   },
   {
-    "eventname": "Young Forum Gastein Networking Break",
+    "eventname": "Socialise and explore",
     "eventid": "1939",
     "eventcategory": "Networking Break",
-    "eventshortid": "N10",
+    "eventshortid": "N12",
     "date": "2021-09-29",
-    "start": "13:00",
+    "start": "12:30",
     "end": "13:00",
     "location": "Networking Lounges",
     "lat": "",
     "lng": "",
-    "headline": "Organised by Young Forum Gastein",
-    "description": "Are you a young professional in public health - or interested in what the next generation of leaders in health has to say - and want to learn more about the Young Forum Gastein network? Come join us in this Networking Break, where current members will introduce the activities of the Young Forum, and answer any questions you may have.",
+    "headline": "Visit the EHFG Networking Lounges and digital exhibition in the Partner area",
+    "description": "Recharge between sessions and visit the Networking Lounges to connect with fellow attendees, explore the digital exhibition to discover projects and materials by EHFG partners, or take an active break away from your screen.",
     "speakers": []
   },
   {
@@ -598,19 +1046,42 @@
     "eventcategory": "Plenary",
     "eventshortid": "P2",
     "date": "2021-09-29",
-    "start": "14:30",
+    "start": "13:00",
     "end": "14:30",
     "location": "Main Stage",
     "lat": "",
     "lng": "",
     "headline": "Organised by the European Health Forum Gastein",
-    "description": "The COVID-19 pandemic has illuminated stark inequalities and fault lines between European countries, and accentuated the need for true cross-sector and cross-border collaboration. It has become clear that to recover and stand a chance against future crises it is not enough to firefight, uniting only around our most immediate threats.A new approach to health in Europe with new forms of solidarity needs to emerge from the crisis. While health is enjoying its moment in the spotlight, we should use the Conference on the Future of Europe to explore what such a vision means in reality.This plenary will put civil society at the centre to collect and explore their perspectives – hopes, concerns, visions – of a new role for the EU in health and how this could lead to a healthier and happier future for all citizens in Europe. Only by pooling our ideas and experience and working collaboratively can we re-fashion our health systems from the ground up, so that together we become fire-proof.",
+    "description": "The COVID-19 pandemic has illuminated stark inequalities and fault lines between European countries, and accentuated the need for true cross-sector and cross-border collaboration. It has become clear that to recover and stand a chance against future crises it is not enough to firefight, uniting only around our most immediate threats.A new approach to health in Europe with new forms of solidarity needs to emerge from the crisis. A European Health Union offers the framework for this. While health is enjoying its moment in the spotlight, we should use the Conference on the Future of Europe to explore what such a vision means in reality.This plenary will put civil society at the centre to collect and explore their perspectives – hopes, concerns, visions – of a new role for the EU in health, what this could look like and how this could lead to a healthier and happier future for all citizens in Europe. Only by pooling our ideas and experience and working collaboratively can we re-fashion our health systems from the ground up, so that together we become fire-proof.",
     "speakers": [
+      {
+        "speaker": "Kyriakides, Stella",
+        "speakerid": "1768",
+        "organisation": "European Commission",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/0/3/csm_Cssr_Kyriakides_9f316b1933.jpg"
+      },
+      {
+        "speaker": "Young Forum Gastein Network, ",
+        "speakerid": "2051",
+        "organisation": ""
+      },
       {
         "speaker": "Sokolović, Milka",
         "speakerid": "2005",
         "organisation": "European Public Health Alliance",
         "image": "https://www.ehfg.org/fileadmin/_processed_/6/a/csm_SOKOLOVIC_milka_71fb30a529.jpg"
+      },
+      {
+        "speaker": "De Ruijter, Anniek",
+        "speakerid": "2015",
+        "organisation": "University of Amsterdam",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/b/d/csm_DE_RUIJTER_anniek_a20d04b7a8.jpg"
+      },
+      {
+        "speaker": "Catton, Howard",
+        "speakerid": "2018",
+        "organisation": "International Council of Nurses",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/a/2/csm_CATTON_howard_4f7c963a03.jpg"
       },
       {
         "speaker": "Calabro, Michele",
@@ -619,10 +1090,16 @@
         "image": "https://www.ehfg.org/fileadmin/_processed_/0/7/csm_CALABRO_Michele_e9d84fd795.jpg"
       },
       {
-        "speaker": "De Ruijter, Anniek",
-        "speakerid": "2015",
-        "organisation": "University of Amsterdam",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/b/d/csm_DE_RUIJTER_anniek_a20d04b7a8.jpg"
+        "speaker": "Rose, Tamsin",
+        "speakerid": "408",
+        "organisation": "Friends of Europe",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/4/1/csm_Rose_Tamsin_10826a549b.jpg"
+      },
+      {
+        "speaker": "Barrágan Montes, Sara",
+        "speakerid": "2071",
+        "organisation": "World Health Organization Emergencies Programme Geneva",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/5/6/csm_Barragan_Montes_Sara_9e0991b311.jpg"
       }
     ]
   },
@@ -630,11 +1107,11 @@
     "eventname": "Reflection Roundtable &amp; other activities",
     "eventid": "1940",
     "eventcategory": "Networking Break",
-    "eventshortid": "N11",
+    "eventshortid": "N13",
     "date": "2021-09-29",
-    "start": "15:00",
+    "start": "14:30",
     "end": "15:00",
-    "location": "Networking &amp; partner area",
+    "location": "Networking Lounges",
     "lat": "",
     "lng": "",
     "description": "Connect with other participants, visit the EHFG cartoonist and virtual exhibiton, or take part in recreational activities like EHFG yoga - find more information in the confernce environment Brella after completing your registration!",
@@ -647,7 +1124,7 @@
     "eventcategory": "Session",
     "eventshortid": "S12",
     "date": "2021-09-29",
-    "start": "16:30",
+    "start": "15:00",
     "end": "16:30",
     "location": "Room 1",
     "lat": "",
@@ -682,7 +1159,7 @@
       {
         "speaker": "Safford, Judith",
         "speakerid": "1995",
-        "organisation": "Safford Consulting",
+        "organisation": "RheumaCura Foundation",
         "image": "https://www.ehfg.org/fileadmin/_processed_/8/1/csm_Safford_Judith_0dd3cd7e46.jpg"
       },
       {
@@ -694,18 +1171,16 @@
     ]
   },
   {
-    "eventname": "Reflection Roundtable &amp; other activities",
-    "subtitle": "Visit the digital Networking Lounges in the EHFG conference platform",
+    "eventname": "Alpbach EHUI",
     "eventid": "1941",
     "eventcategory": "Networking Break",
-    "eventshortid": "N12",
+    "eventshortid": "N14",
     "date": "2021-09-29",
-    "start": "17:00",
+    "start": "16:30",
     "end": "17:00",
     "location": "Networking Lounges",
     "lat": "",
     "lng": "",
-    "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!",
     "speakers": []
   },
   {
@@ -715,7 +1190,7 @@
     "eventcategory": "Session",
     "eventshortid": "S13",
     "date": "2021-09-29",
-    "start": "18:30",
+    "start": "17:00",
     "end": "18:30",
     "location": "Room 1",
     "lat": "",
@@ -731,7 +1206,7 @@
     "eventcategory": "Broadcast",
     "eventshortid": "B3",
     "date": "2021-09-29",
-    "start": "19:00",
+    "start": "18:30",
     "end": "19:00",
     "location": "NLO Hub",
     "lat": "",
@@ -741,29 +1216,97 @@
     "speakers": []
   },
   {
+    "eventname": "Reflection Roundtable &amp; other activities",
+    "eventid": "2073",
+    "eventcategory": "Networking Break",
+    "eventshortid": "N15",
+    "date": "2021-09-29",
+    "start": "18:30",
+    "end": "19:00",
+    "location": "Networking Lounges",
+    "lat": "",
+    "lng": "",
+    "headline": "Visit the digital Networking Lounges in the EHFG conference platform",
+    "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!",
+    "speakers": []
+  },
+  {
+    "eventname": "United against global threats?",
+    "subtitle": "A European Health Union Fireside Chat",
+    "eventid": "2066",
+    "eventcategory": "Evening Session",
+    "eventshortid": "E3",
+    "date": "2021-09-29",
+    "start": "19:00",
+    "end": "20:00",
+    "location": "Room 1",
+    "lat": "",
+    "lng": "",
+    "headline": "Organised by European Health Forum Gastein, World Health Summit and European Health Union Initiative",
+    "description": "The European Health Unition Initiative (EHUI) champions a greater role for the European Union in health, across Europe as well as on the global stage, and calls on European leaders to develop a Global Health Policy alongside the UN and its specialised agencies, especially a strengthened World Health Organization. But what can more European responsibility in global health look like concretely? Which instruments and institutions are needed, and can trust be rebuilt in the wake of lacking solidarity during COVID-19 vaccine distribution?In this fireside chat, EHUI founding member Ilona Kickbusch sits down with Chikwe Ihekweazu, recently appointed Director General of Health Emergency Intelligence at WHO HQ and Head of the new WHO Berlin Hub for Pandemic and Epidemic Intelligence. Join the two as they discuss the role of the Hub in assessing and responding to global health emergencies, draw on Dr Chikwe’s experience in outbreak management, and explore what it will take for Europe to prove herself a true ally to the Global South in the joint fight against global disease threats of the future.",
+    "speakers": [
+      {
+        "speaker": "Kickbusch, Ilona",
+        "speakerid": "421",
+        "organisation": "Graduate Institute for International and Development Studies Geneva",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/f/c/csm_KICKBUSH_Ilona_2dc06e80d6.png"
+      },
+      {
+        "speaker": "Ihekweazu, Chikwe",
+        "speakerid": "2064",
+        "organisation": "Nigeria Centre for Disease Control",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/9/e/csm_IHEKWEAZU_chikwe_8ba9198d4a.jpg"
+      }
+    ]
+  },
+  {
     "eventname": "Vaccines funding in Europe",
     "subtitle": "Ensuring sustainability in a post-pandemic world ",
     "eventid": "1881",
     "eventcategory": "Session",
     "eventshortid": "S14",
     "date": "2021-09-30",
-    "start": "10:30",
+    "start": "09:00",
     "end": "10:30",
     "location": "Room 1",
     "lat": "",
     "lng": "",
     "headline": "Organised by Sanofi",
     "description": "Immunisation affects more people than any other healthcare intervention globally and is estimated to prevent 4-5 million deaths annually. A necessary enabler for access to this vital instrument of population health is sustainable funding that can be made available in a timely manner.Approaches to routine vaccine funding and the underlying budget-setting process vary greatly across European countries, affecting resilience of the overall vaccine eco-system and its flexibility to integrate new vaccines. The policy debate on how vaccines are funded has intensified due to the pandemic, highlighting the need for a more sustainable funding approach to strengthen immunisation infrastructures, secure uptake of routine vaccinations, and provide timely and equitable access to new vaccines.Join us for this session to review differences in the funding of vaccines across Europe, discuss opportunities to ensure its prioritisation post-pandemic including routine investment into COVID-19 immunisation, and address approaches to support the strengthening of life-course immunisation systems as a critical component of robust pandemic preparedness plans.",
-    "speakers": []
+    "speakers": [
+      {
+        "speaker": "Painter, Raluca",
+        "speakerid": "2046",
+        "organisation": "European Commission Directorate-General for Structural Reform Support"
+      },
+      {
+        "speaker": "Votta, Mariano",
+        "speakerid": "2024",
+        "organisation": "Active Citizenship Network"
+      },
+      {
+        "speaker": "Wilsdon, Tim",
+        "speakerid": "1432",
+        "organisation": "Charles River Associates",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/3/b/csm_Wilsdon_Tim_e4bffb16c8.jpg"
+      },
+      { "speaker": ", ", "speakerid": "1694", "organisation": "" },
+      {
+        "speaker": "Panteli, Dimitra",
+        "speakerid": "1257",
+        "organisation": "European Observatory on Health Systems and Policies",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/4/4/csm_Panteli_Dimitra_aac1aab32f.jpg"
+      }
+    ]
   },
   {
     "eventname": "NLO Exchange",
     "subtitle": "A healthier future through the lense of marginalised communities",
     "eventid": "1969",
     "eventcategory": "Networking Break",
-    "eventshortid": "N13",
+    "eventshortid": "N16",
     "date": "2021-09-30",
-    "start": "11:00",
+    "start": "10:30",
     "end": "11:00",
     "headline": "Organised by Nobody Left Outside and MSD",
     "description": "The Nobody Left Outside (NLO) initiative is a collective of organisations representing some of the most underserved communities with respect to healthcare, including homeless people, people who use drugs, LGBTI people, prisoners, sex workers and undocumented migrants.Visit the NLO Exchange, a digital networking and discussion space for EHFG participants and NLO members, and join us in this interactive conversation where we zoom in on themes relevant to marginalised communities and discuss what actions must be taken to meet their needs as we strive for a truly resilient recovery.",
@@ -776,25 +1319,31 @@
     "eventcategory": "Session",
     "eventshortid": "S15",
     "date": "2021-09-30",
-    "start": "12:30",
+    "start": "11:00",
     "end": "12:30",
     "location": "Room 1",
     "lat": "",
     "lng": "",
     "headline": "Organised by Gesundheit Österreich GmbH and Sciensano in the course of PHIRI, the EU Population Health Information Research Infrastruture project",
-    "description": "During the COVID-19 pandemic, conflicting data and research findings as well as their interpretation hamper decision-making processes. The roles and responsibilities of scientific advisors and politicians in such processes are often ambiguous, and the reasons behind policy decisions are not always communicated transparently to the public - which in turn has a significant impact on people's behaviour. In this session we will: consider the impact of conflicting expert advice on policy makers; learn about the challenges that different professions (researchers, policy makers, communication experts) as well as the general public are confronted with in the process of communicating and interpreting information; explore how increased public availability of data and a high level of public interest can influence interpretation of evidence and subsequently affect behaviour; address the impact that communication strategies can have on public trust in experts, instititutions and decision-making processes. Join us to discuss the complex relationship between information, policy and behaviour, and envision how better data can ultimately lead to better decisions.",
+    "description": "During the COVID-19 pandemic, conflicting data and research findings as well as their interpretation hamper decision-making processes. The roles and responsibilities of scientific advisors and politicians in such processes are often ambiguous, and the reasons behind policy decisions are not always communicated transparently to the public - which in turn has a significant impact on people's behaviour.In this session we will: consider the impact of conflicting expert advice on policy makers; learn about the challenges that different professions (researchers, policy makers, communication experts) as well as the general public are confronted with in the process of communicating and interpreting information; explore how increased public availability of data and a high level of public interest can influence interpretation of evidence and subsequently affect behaviour; address the impact that communication strategies can have on public trust in experts, instititutions and decision-making processes. Join us to discuss the complex relationship between information, policy and behaviour, and envision how better data can ultimately lead to better decisions.",
     "speakers": [
       {
-        "speaker": "Kluge, Hans",
-        "speakerid": "391",
-        "organisation": "World Health Organization",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/b/1/csm_KLUGE_hans_b57695a4a9.jpg"
+        "speaker": "Carr, Melanie",
+        "speakerid": "1966",
+        "organisation": "European Medicines Agency",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/f/d/csm_Carr_Melanie_dbca43c1a0.jpg"
       },
       {
-        "speaker": "Pavļuts, Daniels",
-        "speakerid": "1960",
-        "organisation": "Republic of Latvia",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/1/8/csm_PAVLUTS_daniels_8828bc2476.jpg"
+        "speaker": "de Bruin, Marijn",
+        "speakerid": "2028",
+        "organisation": "Dutch National Institute for Public Health (RIVM)",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/f/7/csm_DE_BRUIN_marijn_817321c213.jpg"
+      },
+      {
+        "speaker": "Novillo Ortiz, David",
+        "speakerid": "2052",
+        "organisation": "WHO Regional Office for Europe",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/3/4/csm_NOVILLO_david_5a7ba43c7a.jpg"
       },
       {
         "speaker": "Pagel, Christina",
@@ -803,27 +1352,32 @@
         "image": "https://www.ehfg.org/fileadmin/_processed_/0/4/csm_Christina_Pagel_a6c9e4ab2e.jpg"
       },
       {
-        "speaker": "Carr, Melanie",
-        "speakerid": "1966",
-        "organisation": "European Medicines Agency",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/f/d/csm_Carr_Melanie_dbca43c1a0.jpg"
+        "speaker": "Pavļuts, Daniels",
+        "speakerid": "1960",
+        "organisation": "Republic of Latvia",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/1/8/csm_PAVLUTS_daniels_8828bc2476.jpg"
       },
-      { "speaker": ", ", "speakerid": "1694", "organisation": "" }
+      {
+        "speaker": "Figueras, Josep",
+        "speakerid": "502",
+        "organisation": "European Observatory on Health Systems and Policies",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/e/e/csm_04_board_FiguerasJosep%402x_05e95551c2.jpg"
+      }
     ]
   },
   {
-    "eventname": "Reflection Roundtable &amp; other activities",
-    "subtitle": "Visit the digital Networking Lounges in the EHFG conference platform",
+    "eventname": "Socialise and explore",
     "eventid": "1943",
     "eventcategory": "Networking Break",
-    "eventshortid": "N14",
+    "eventshortid": "N17",
     "date": "2021-09-30",
-    "start": "13:00",
+    "start": "12:30",
     "end": "13:00",
     "location": "Networking Lounges",
     "lat": "",
     "lng": "",
-    "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!",
+    "headline": "Visit the EHFG Networking Lounges and digital exhibition in the Partner area",
+    "description": "Recharge between sessions and visit the Networking Lounges to connect with fellow attendees, explore the digital exhibition to discover projects and materials by EHFG partners, or take an active break away from your screen.",
     "speakers": []
   },
   {
@@ -833,26 +1387,59 @@
     "eventcategory": "Session",
     "eventshortid": "S16",
     "date": "2021-09-30",
-    "start": "14:30",
+    "start": "13:00",
     "end": "14:30",
     "location": "Room 1",
     "lat": "",
     "lng": "",
+    "headline": "Sponsored by Meridian Medical Technologies",
     "description": "Over the last two years, the global community has seen unprecedented disruption through the COVID-19 pandemic. At the same time, the crisis marks a unique opportunity to learn from each other and rethink future responses to shared threats. This session will focus on lessons learned during the current pandemic, as well as earlier infectious disease outbreaks, taking into account the advancement of technologies such as synthetic biology, the impact of climate change on emerging diseases, and the constantly changing landscape of threats through man-made and natural disasters.International experts from different backgrounds will share their insights on key elements of pandemic preparedness, exchange good practice examples, and reflect on what a truly global approach to pandemic preparedness may look like in the wake of COVID-19. Join us to discuss measures and initiatives aimed at tackling future threats across Europe and the world, and envision how the international community can come together to pool knowledge and face our next challenges equipped with fresh solutions.",
-    "speakers": []
+    "speakers": [
+      {
+        "speaker": "Pendolovska, Velina",
+        "speakerid": "2053",
+        "organisation": "European Commission Directorate-General for Health and Food Safety",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/e/5/csm_PENDOLOVSKA_velina_87455efd99.jpg"
+      },
+      {
+        "speaker": "Gomez, Phil",
+        "speakerid": "1974",
+        "organisation": "SIGA Technologies",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/4/3/csm_Gomez_Phil_d58fc0aaff.jpg"
+      },
+      {
+        "speaker": "MacIntyre, Raina",
+        "speakerid": "1961",
+        "organisation": "Kirby Institute",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/1/4/csm_Raina_MacIntyre_40302e5310.jpg"
+      },
+      {
+        "speaker": "Khor, Swee Kheng",
+        "speakerid": "2079",
+        "organisation": "United Nations University",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/8/5/csm_KHOR_swee_298d96253b.jpg"
+      },
+      { "speaker": ", ", "speakerid": "1694", "organisation": "" },
+      {
+        "speaker": "Saville, Sue",
+        "speakerid": "1543",
+        "organisation": "Sue Saville Media",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/7/b/csm_Saville_Sue_7f56f77bc7.jpg"
+      }
+    ]
   },
   {
     "eventname": "Reflection Roundtable &amp; other activities",
-    "subtitle": "Visit the digital Networking Lounges in the EHFG conference platform",
     "eventid": "1944",
     "eventcategory": "Networking Break",
-    "eventshortid": "N15",
+    "eventshortid": "N18",
     "date": "2021-09-30",
-    "start": "15:00",
+    "start": "14:30",
     "end": "15:00",
     "location": "Networking Lounges",
     "lat": "",
     "lng": "",
+    "headline": "Visit the digital Networking Lounges in the EHFG conference platform",
     "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!",
     "speakers": []
   },
@@ -863,7 +1450,7 @@
     "eventcategory": "Session",
     "eventshortid": "S17",
     "date": "2021-09-30",
-    "start": "16:30",
+    "start": "15:00",
     "end": "16:30",
     "location": "Room 1",
     "lat": "",
@@ -874,12 +1461,14 @@
       {
         "speaker": "Garcia Goñi, Manuel",
         "speakerid": "997",
-        "organisation": "Complutense University of Madrid"
+        "organisation": "Complutense University of Madrid",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/2/f/csm_GARCIA_GONI_Manuel_1b7e7c7d27.png"
       },
       {
         "speaker": "Jommi, Claudio",
         "speakerid": "2003",
-        "organisation": "Bocconi University"
+        "organisation": "Bocconi University",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/6/7/csm_Jommi_Claudio_7147de988b.jpg"
       },
       {
         "speaker": "Libura, Maria",
@@ -887,27 +1476,50 @@
         "organisation": "University of Warmia and Mazury"
       },
       {
+        "speaker": "Cardone, Antonella",
+        "speakerid": "1605",
+        "organisation": "European Cancer Patient Coalition",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/1/8/csm_Cardone_Antonella_878d77f6d5.jpg"
+      },
+      {
+        "speaker": "Colombo, Francesca",
+        "speakerid": "761",
+        "organisation": "Organisation for Economic Co-operation and Development",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/8/a/csm_Colombo_Francesca_55879b5916.jpg"
+      },
+      {
+        "speaker": "Ryan, John",
+        "speakerid": "392",
+        "organisation": "European Commission Directorate-General for Health and Food Safety",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/8/3/csm_RYAN_John_e490433677.jpg"
+      },
+      {
         "speaker": "Kanavos, Panos",
         "speakerid": "501",
         "organisation": "London School of Economics and Political Science",
         "image": "https://www.ehfg.org/fileadmin/_processed_/7/b/csm_Kanavos_Panos_dd4a89f1b0.jpg"
       },
-      { "speaker": ", ", "speakerid": "1694", "organisation": "" }
+      {
+        "speaker": "Krishnamoorthy, Jenelle",
+        "speakerid": "1708",
+        "organisation": "MSD",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/f/2/csm_KRISHNAMOORTHY_Jenelle_c613d49249.jpg"
+      }
     ]
   },
   {
-    "eventname": "Reflection Roundtable &amp; other activities",
-    "subtitle": "Visit the digital Networking Lounges in the EHFG conference platform",
+    "eventname": "Socialise and explore",
     "eventid": "1945",
     "eventcategory": "Networking Break",
-    "eventshortid": "N16",
+    "eventshortid": "N19",
     "date": "2021-09-30",
-    "start": "17:00",
+    "start": "16:30",
     "end": "17:00",
     "location": "Networking Lounges",
     "lat": "",
     "lng": "",
-    "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!",
+    "headline": "Visit the EHFG Networking Lounges and digital exhibition in the Partner area",
+    "description": "Recharge between sessions and visit the Networking Lounges to connect with fellow attendees, explore the digital exhibition to discover projects and materials by EHFG partners, or take an active break away from your screen.",
     "speakers": []
   },
   {
@@ -917,7 +1529,7 @@
     "eventcategory": "Session",
     "eventshortid": "S18",
     "date": "2021-09-30",
-    "start": "18:30",
+    "start": "17:00",
     "end": "18:30",
     "location": "Room 1",
     "lat": "",
@@ -952,13 +1564,20 @@
       {
         "speaker": "Polton, Dominique",
         "speakerid": "767",
-        "organisation": "French National Health Insurance Fund",
+        "organisation": "National School of Public Health",
         "image": "https://www.ehfg.org/fileadmin/_processed_/2/b/csm_Polton_Dominique_1eac9d4a13.jpg"
+      },
+      {
+        "speaker": "Schrauwen, Annette",
+        "speakerid": "2043",
+        "organisation": "University of Amsterdam",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/6/d/csm_Schrauwen_Annette_564b5abf59.jpg"
       },
       {
         "speaker": "Wiskow, Christiane",
         "speakerid": "2021",
-        "organisation": "International Labour Organisation"
+        "organisation": "International Labour Organisation",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/c/f/csm_Wiskow_Christiane_30f0e0ecc5.jpg"
       },
       {
         "speaker": "McKee, Martin",
@@ -975,7 +1594,7 @@
     "eventcategory": "Broadcast",
     "eventshortid": "B4",
     "date": "2021-09-30",
-    "start": "19:00",
+    "start": "18:30",
     "end": "19:00",
     "location": "NLO Hub",
     "lat": "",
@@ -985,14 +1604,32 @@
     "speakers": []
   },
   {
+    "eventname": "Reflection Roundtable &amp; other activities",
+    "eventid": "2074",
+    "eventcategory": "Networking Break",
+    "eventshortid": "N20",
+    "date": "2021-09-30",
+    "start": "18:30",
+    "end": "19:00",
+    "location": "Networking Lounges",
+    "lat": "",
+    "lng": "",
+    "headline": "Visit the digital Networking Lounges in the EHFG conference platform",
+    "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!",
+    "speakers": []
+  },
+  {
     "eventname": "Fun with the EHFG Team",
     "eventid": "2017",
     "eventcategory": "Evening Event",
-    "eventshortid": "EE",
+    "eventshortid": "EE1",
     "date": "2021-09-30",
-    "start": "20:00",
+    "start": "19:00",
     "end": "20:00",
-    "description": "Join us for an informal evening of entertaining activities with fellow participants and the organising team! Have fun with the EHFG Team!",
+    "location": "Networking Lounges",
+    "lat": "",
+    "lng": "",
+    "description": "Join us for an informal evening of entertaining activities with fellow participants and the organising team. Have fun with the EHFG Team!",
     "speakers": []
   },
   {
@@ -1002,14 +1639,51 @@
     "eventcategory": "Session",
     "eventshortid": "S19",
     "date": "2021-10-01",
-    "start": "10:00",
+    "start": "09:00",
     "end": "10:00",
     "location": "Room 1",
     "lat": "",
     "lng": "",
     "headline": "Organised by the Slovenian Ministry of Health under the Slovenian Presidency of the Council of the EU",
     "description": "COVID-19 has demonstrated unmistakably the importance of global solidarity in the response to common threats. No country is safe until everyone is safe, and dealing with this global crisis, as well as future challenges, calls for a holistic, inclusive and coordinated approach to health systems strengthening within and beyond European borders. Join us in this session organised under the Slovenian Presidency of the Council of the European Union to discuss how the EU can contribute to building solidarity, innovation and resilience in health systems worldwide.",
-    "speakers": []
+    "speakers": [
+      {
+        "speaker": "Kickbusch, Ilona",
+        "speakerid": "421",
+        "organisation": "Graduate Institute for International and Development Studies Geneva",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/f/c/csm_KICKBUSH_Ilona_2dc06e80d6.png"
+      },
+      {
+        "speaker": "Binagwaho, Agnes",
+        "speakerid": "2059",
+        "organisation": "University of Global Health Equity",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/1/9/csm_BINAGWAHO_agnes_01ee972a16.jpg"
+      },
+      {
+        "speaker": "Figueras, Josep",
+        "speakerid": "502",
+        "organisation": "European Observatory on Health Systems and Policies",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/e/e/csm_04_board_FiguerasJosep%402x_05e95551c2.jpg"
+      },
+      {
+        "speaker": "Dašić, Mira",
+        "speakerid": "2056",
+        "organisation": "South-eastern Europe Health Network (SEEHN)",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/0/d/csm_DASIC_mira_1ad031bac5.jpg"
+      },
+      {
+        "speaker": "Dünnbier, Maik",
+        "speakerid": "2057",
+        "organisation": "Movendi International",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/5/d/csm_DUNNBIER_maik_b72d7d3c0e.jpg"
+      },
+      {
+        "speaker": "Petrič, Vesna Kerstin",
+        "speakerid": "769",
+        "organisation": "Ministry of Health of the Republic of Slovenia",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/c/b/csm_PETRIC_Vesna-Kerstin_c899f8ad2d.png"
+      }
+    ]
   },
   {
     "eventname": "Hygiene literacy: key to a safer future?",
@@ -1018,12 +1692,12 @@
     "eventcategory": "Session",
     "eventshortid": "S20",
     "date": "2021-10-01",
-    "start": "11:00",
+    "start": "10:00",
     "end": "11:00",
     "location": "Room 1",
     "lat": "",
     "lng": "",
-    "headline": "Organised by The Danish Council for Better Hygiene, sponsored by Curaden",
+    "headline": "Organised by The Danish Council for Better Hygiene and SafeConsume, sponsored by Curaden",
     "description": "The pandemic has shone a spotlight on gaps in European preparedness. Some basic measures and concepts in the scope of outbreak control have proven difficult to implement, not least because many people did not know much about infectious diseases or how to keep a healthy microbiome.Hygiene literacy - meaning both a theoretical and practical understanding of our microbiological world and infection prevention measures we need to navigate it - has been deeply underprioritised in education, training, control, data collection, design, and staffing. This session will convene experts with experience in promotion and training for hand hygiene, food safety, oral care, cleaning, hygienical design and more – and will address how we can educate better, impact more, and build a stronger and more resilient culture for hygiene in Europe.The session will focus on practical actions, learnings from the pandemic and balancing fear & misconceptions, and will envision a better design of policies, realities, and training efforts for the years to come.",
     "speakers": [
       {
@@ -1041,7 +1715,8 @@
       {
         "speaker": "Bourgeois, Denis",
         "speakerid": "1983",
-        "organisation": "University of Lyon"
+        "organisation": "University of Lyon",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/7/9/csm_Bourgeois_Denis_758488fd06.jpg"
       },
       {
         "speaker": "Langsrud, Solveig",
@@ -1065,12 +1740,12 @@
   },
   {
     "eventname": "New partnership models for rare diseases",
-    "subtitle": "Future flagship financing for accessible care",
+    "subtitle": "Future flagship financing and R&amp;D solutions for accessible care",
     "eventid": "1885",
     "eventcategory": "Session",
     "eventshortid": "S21",
     "date": "2021-10-01",
-    "start": "12:30",
+    "start": "11:00",
     "end": "12:30",
     "location": "Room 1",
     "lat": "",
@@ -1081,7 +1756,20 @@
       {
         "speaker": "Athanasiou, Dimitrios",
         "speakerid": "2019",
-        "organisation": "European Patient Forum"
+        "organisation": "European Patients&#039; Forum",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/b/4/csm_Athanasiou_Dimitrios_ae0c890450.jpg"
+      },
+      {
+        "speaker": "De Cock, Jo",
+        "speakerid": "782",
+        "organisation": "Belgium",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/3/f/csm_De_Cock_Jo_b3a4a8663c.jpg"
+      },
+      {
+        "speaker": "Freissmuth, Michael",
+        "speakerid": "2044",
+        "organisation": "Medical Institute of Pharmacology",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/5/0/csm_Freissmuth_Michael_fbe3b3a54e.jpg"
       },
       {
         "speaker": "Krumpl, Günther",
@@ -1090,10 +1778,21 @@
         "image": "https://www.ehfg.org/fileadmin/_processed_/c/f/csm_Krumpl_Gunther_5cec3cb03e.jpg"
       },
       {
+        "speaker": "Pallara, Anita",
+        "speakerid": "2068",
+        "organisation": "FamiglieSMA"
+      },
+      {
         "speaker": "Papageorgiou, Labrini",
         "speakerid": "1998",
         "organisation": "Roche",
         "image": "https://www.ehfg.org/fileadmin/_processed_/2/b/csm_Papageorgiou_Labrini_0a8662f963.jpg"
+      },
+      {
+        "speaker": "Wirthumer-Hoche, Christa",
+        "speakerid": "2050",
+        "organisation": "Austrian Medicines and Medical Devices Agency",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/1/d/csm_Wirthumer-Hoche_Christa_46075ada7b.jpg"
       },
       {
         "speaker": "Bergström, Richard",
@@ -1105,16 +1804,16 @@
   },
   {
     "eventname": "Reflection Roundtable &amp; other activities",
-    "subtitle": "Visit the digital Networking Lounges in the EHFG conference platform",
     "eventid": "1947",
     "eventcategory": "Networking Break",
-    "eventshortid": "N17",
+    "eventshortid": "N21",
     "date": "2021-10-01",
-    "start": "13:00",
+    "start": "12:30",
     "end": "13:00",
     "location": "Networking Lounges",
     "lat": "",
     "lng": "",
+    "headline": "Visit the digital Networking Lounges in the EHFG conference platform",
     "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!",
     "speakers": []
   },
@@ -1124,7 +1823,7 @@
     "eventcategory": "Plenary",
     "eventshortid": "P3",
     "date": "2021-10-01",
-    "start": "14:30",
+    "start": "13:00",
     "end": "14:30",
     "location": "Main Stage",
     "lat": "",
@@ -1139,6 +1838,12 @@
         "image": "https://www.ehfg.org/fileadmin/_processed_/5/4/csm_MONTI_mario_f6c7d80422.jpg"
       },
       {
+        "speaker": "McKee, Martin",
+        "speakerid": "401",
+        "organisation": "London School of Hygiene &amp; Tropical Medicine",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/6/0/csm_MCKEE_Martin_Kopie_25a720605b.jpg"
+      },
+      {
         "speaker": "Poklular, Janez",
         "speakerid": "1955",
         "organisation": "Republic of Slovenia",
@@ -1151,25 +1856,32 @@
         "image": "https://www.ehfg.org/fileadmin/_processed_/2/8/csm_Burrow_Sharan_1306e39459.jpg"
       },
       {
-        "speaker": "McKee, Martin",
-        "speakerid": "401",
-        "organisation": "London School of Hygiene &amp; Tropical Medicine",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/6/0/csm_MCKEE_Martin_Kopie_25a720605b.jpg"
-      }
+        "speaker": "Cahen-Salvador, Colombe",
+        "speakerid": "2036",
+        "organisation": "Atlas",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/4/8/csm_CAHEN-SALVADOR_colombe_d2eca1a354.jpg"
+      },
+      {
+        "speaker": "Sitaram, Anya",
+        "speakerid": "1045",
+        "organisation": "Rockhopper TV",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/b/d/csm_SITARAM_Anya_3076899526.png"
+      },
+      { "speaker": ", ", "speakerid": "1694", "organisation": "" }
     ]
   },
   {
     "eventname": "Reflection Roundtable &amp; other activities",
-    "subtitle": "Visit the digital Networking Lounges in the EHFG conference platform",
     "eventid": "1948",
     "eventcategory": "Networking Break",
-    "eventshortid": "N18",
+    "eventshortid": "N22",
     "date": "2021-10-01",
-    "start": "15:00",
+    "start": "14:30",
     "end": "15:00",
     "location": "Networking Lounges",
     "lat": "",
     "lng": "",
+    "headline": "Visit the digital Networking Lounges in the EHFG conference platform",
     "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!r completing your registration!",
     "speakers": []
   },
@@ -1180,28 +1892,59 @@
     "eventcategory": "Session",
     "eventshortid": "S22",
     "date": "2021-10-01",
-    "start": "16:30",
+    "start": "15:00",
     "end": "16:30",
     "location": "Room 1",
     "lat": "",
     "lng": "",
     "headline": "Organised by The Health Foundation",
     "description": "A healthy population is one of any nation's most important assets, supporting positive social and economic outcomes for individuals and society. The pandemic and response to it have exposed pre-existing inequalities in our society. Addressing these inequalities, and ensuring a pandemic recovery that improves both health and the economy, will require cross-government action.In this session, we will present findings from The Health Foundation’s COVID-19 impact inquiry into the pandemic’s implications for the UK’s health and health inequalities, and reflect on the findings with a panel of international and intersectoral stakeholders, who will discuss what must be done to measure and combat health inequity all across Europe. We will look at how people’s circumstances going into the pandemic – their health, job, housing, education – shaped their experience of the crisis, and outline opportunities to better support those who have been most affected.Join us to discuss the policy responses that are needed across governments to create fairer, healthier and more resilient societies, including priority policy options for improving health, tackling inequalities, and ways of working across governments.",
-    "speakers": []
+    "speakers": [
+      {
+        "speaker": "Baptista Leite, Ricardo",
+        "speakerid": "1120",
+        "organisation": "Portugal",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/f/7/csm_Leite_Ricardo-Baptista_bd0fd22da8.jpg"
+      },
+      {
+        "speaker": "Moriarty, Clare",
+        "speakerid": "2013",
+        "organisation": "Citizens Advice",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/e/2/csm_Moriarty_Clare_d18ca658b0.jpg"
+      },
+      {
+        "speaker": "Suleman, Mehrunisha",
+        "speakerid": "2012",
+        "organisation": "The Health Foundation",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/f/7/csm_SULEMAN_Mehrunisha_f66bbe1361.png"
+      },
+      {
+        "speaker": "Voipio-Pulkki, Liisa-Maria",
+        "speakerid": "759",
+        "organisation": "Finnish Ministry of Social Affairs and Health",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/3/b/csm_Voipio-Pulkki_Liisa-Maria_90f8d23b2c.jpg"
+      },
+      {
+        "speaker": "Nightingale, Gwen",
+        "speakerid": "2055",
+        "organisation": "The Health Foundation",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/b/4/csm_NIGHTINGALE_Gwen_ca396031f6.png"
+      }
+    ]
   },
   {
-    "eventname": "Reflection Roundtable &amp; other activities",
-    "subtitle": "Visit the digital Networking Lounges in the EHFG conference platform",
+    "eventname": "Socialise and explore",
     "eventid": "1949",
     "eventcategory": "Networking Break",
-    "eventshortid": "N19",
+    "eventshortid": "N23",
     "date": "2021-10-01",
-    "start": "17:00",
+    "start": "16:30",
     "end": "17:00",
     "location": "Networking Lounges",
     "lat": "",
     "lng": "",
-    "description": "After each session, head to the Reflection Roundtable to discuss session outcomes with your fellow participants (moderated by Young Forum Gastein scholars during most session breaks), visit the Gastein Social Lounge to decompress and chat about whatever you like - or take an active break away from your screen!",
+    "headline": "Visit the EHFG Networking Lounges and digital exhibition in the Partner area",
+    "description": "Recharge between sessions and visit the Networking Lounges to connect with fellow attendees, explore the digital exhibition to discover projects and materials by EHFG partners, or take an active break away from your screen.",
     "speakers": []
   },
   {
@@ -1211,7 +1954,7 @@
     "eventcategory": "Session",
     "eventshortid": "S23",
     "date": "2021-10-01",
-    "start": "18:00",
+    "start": "17:00",
     "end": "18:00",
     "location": "Room 1",
     "lat": "",
@@ -1235,7 +1978,7 @@
         "speaker": "Nelander, Charan",
         "speakerid": "1980",
         "organisation": "Danish Committee for Health Education",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/a/2/csm_Nalendar_Charan_d719803409.jpg"
+        "image": "https://www.ehfg.org/fileadmin/_processed_/9/c/csm_Nelander_Charan_77dc50eafe.jpg"
       },
       {
         "speaker": "Ujhelyi, Istvan",
@@ -1246,8 +1989,8 @@
       {
         "speaker": "Voipio-Pulkki, Liisa-Maria",
         "speakerid": "759",
-        "organisation": "CMO of Social Affairs and Health",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/3/b/csm_Voipio-Pulkki_Liisa-Maria_6a7986cccd.jpg"
+        "organisation": "Finnish Ministry of Social Affairs and Health",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/3/b/csm_Voipio-Pulkki_Liisa-Maria_90f8d23b2c.jpg"
       },
       {
         "speaker": "Münter, Lars",
