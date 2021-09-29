@@ -115,18 +115,15 @@ h2 {
   padding: 25px;
 }
 .ongoing {
-  display: flex;
   position: relative;
   width: 37.5%;
   text-align: center;
 }
 .live {
   height: 68%;
-  display: flex;
   position: relative;
   flex-direction: inherit;
   align-items: center;
-  justify-content: center;
 }
 .comingup {
   width: 37.5%;
@@ -139,10 +136,9 @@ h2 {
 .booth .boothbutton {
   align-self: center;
   justify-self: center;
+  text-align: center;
 }
 .booth .bb {
-  height: 60px;
-  width: 200px;
   cursor: pointer;
   outline: 0 !important;
   border: none;
@@ -154,7 +150,22 @@ h2 {
 
 /* CONTENT STYLE ENDE*/
 
+.a,
+.bb {
+  padding: 10px;
+  color: black;
+  cursor: pointer;
+  outline: 0 !important;
+  border: none;
+  box-shadow: 3px 3px 6px #151027;
+  font-size: small;
+  font-family: "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  border: #cafaea;
+  border-radius: 5px;
+  background-color: #cafaea;
+}
 .button {
+  display: none;
   text-align: center;
   cursor: pointer;
   outline: 0 !important;
@@ -165,6 +176,15 @@ h2 {
   border: #cafaea;
   border-radius: 5px;
   background-color: #cafaea;
+}
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+a:active {
+  text-decoration: none;
 }
 
 .button:hover {
@@ -209,17 +229,54 @@ h2 {
   margin-top: 5px;
   color: #cafaea;
 }
-
-@media screen and (max-width: 900px) {
-  .booth {
-    display: none !important;
+#cusessionname {
+  color: white;
+  font-size: 25px;
+}
+@media screen and (max-height: 1200px) {
+  .schedule {
+    height: 50%;
   }
-  .comingup,
-  .ongoing {
-    width: 100% !important;
-  }
+}
+@media screen and (max-height: 800px) {
   .schedule {
     height: 70%;
+  }
+}
+@media screen and (max-height: 455px) {
+  .schedule {
+    height: 80% !important;
+  }
+}
+@media screen and (max-height: 400px) {
+  .navbar {
+    display: none;
+  }
+  .schedule {
+    height: 100%;
+  }
+}
+@media screen and (max-height: 315px) {
+  .booth {
+    display: none;
+  }
+  .comingup {
+    width: 100%;
+  }
+  .schedule {
+    height: 100%;
+  }
+}
+
+@media screen and (max-width: 1091px) {
+  .booth {
+    display: none;
+  }
+  .ongoing {
+    width: 50% !important;
+  }
+  .schedule {
+    height: 50%;
   }
 }
 
@@ -237,11 +294,11 @@ h2 {
 }
 
 @media screen and (max-width: 530px) {
-  .schedule {
-    height: 100%;
-  }
   .scheduleheader {
     display: none !important;
+  }
+  .ongoing {
+    width: 100% !important;
   }
   .navbar {
     display: none !important;
@@ -252,5 +309,10 @@ h2 {
   }
   .button {
     font-size: small;
+  }
+}
+@media screen and (max-width: 468px) {
+  .comingup {
+    display: none !important;
   }
 }
