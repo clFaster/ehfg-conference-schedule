@@ -5,7 +5,7 @@ import {
   Header,
   RoomColumn,
   LoadingScreen,
-  NoSessions,
+  NoSessionsToday,
   TimeDebugger,
 } from "../components";
 
@@ -49,7 +49,7 @@ export default function Home() {
               <RoomColumn key={rc.location} data={rc} now={now} />
             ))
           ) : (
-            <NoSessions />
+            <NoSessionsToday />
           )}
         </div>
       </main>

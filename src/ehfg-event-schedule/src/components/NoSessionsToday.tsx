@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function NoSessions() {
+export default function NoSessionsToday() {
   return (
     <div className="absolute inset-0 m-auto flex flex-col gap-8 items-center justify-center text-neutral-200 max-w-full max-h-full">
       <Image
