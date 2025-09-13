@@ -9,7 +9,7 @@ interface RoomColumnProps {
 
 export default function RoomColumn({ data, now }: RoomColumnProps) {
   return (
-    <div className="flex flex-col gap-7 min-w-[440px] max-w-[520px] w-full">
+    <div className="flex flex-col gap-7 min-w-[440px] max-w-[600px] w-full">
       <div className="sticky top-0 z-20 py-1">
         <h2 className="text-4xl font-black tracking-tight text-center bg-gradient-to-r from-emerald-200 via-cyan-200 to-sky-300 text-transparent bg-clip-text uppercase">
           {data.location}

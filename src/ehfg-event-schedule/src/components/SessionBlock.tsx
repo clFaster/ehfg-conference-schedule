@@ -7,6 +7,7 @@ import {
 } from "../utils/session-utils";
 import { COLOR_CFG } from "../utils/colors";
 import SpeakerTicker from "./SpeakerTicker";
+import HeadlineTicker from "./HeadlineTicker";
 
 interface SessionBlockProps {
   session: Session;
@@ -87,22 +88,27 @@ export default function SessionBlock({
         )}
       </div>{" "}
       <div className="mt-6 relative z-10">
-        <div className="mb-3">
+        <div className="flex items-center gap-3 mb-3 bg-black/10 backdrop-blur-sm line-clamp-3 shadow-lg rounded-lg px-2 py-1">
           <span
-            className={`inline-block px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider ${cfg.label} bg-black/20 backdrop-blur-sm border border-white/10`}
+            className={`flex-shrink-0 flex items-center justify-center w-10 h-10 rounded-full text-xs font-semibold uppercase tracking-wider ${cfg.label} bg-black/20 backdrop-blur-sm border border-white/10`}
           >
             {session.eventshortid}
           </span>
+          <h3 className="flex-1 min-w-0 text-2xl leading-relaxed font-bold mb-2 text-white relative z-10 rounded-lg px-2 py-1 line-clamp-3">
+            {session.eventname}
+          </h3>
         </div>
-        <h3 className="text-2xl leading-relaxed font-bold mb-2 text-white relative z-10 rounded-lg px-2 py-1 bg-black/10 backdrop-blur-sm line-clamp-3 shadow-lg">
-          {session.eventname}
-        </h3>
         {session.subtitle && (
           <p
-            className={`text-lg font-medium mb-3 line-clamp-2 relative z-10 ${cfg.subtitle}`}
+            className={`text-lg font-medium mb-1 line-clamp-2 relative z-10 ${cfg.subtitle}`}
           >
             {session.subtitle}
           </p>
+        )}
+        {session.headline && (
+          <div className="mb-3 relative z-10">
+            <HeadlineTicker headline={session.headline} />
+          </div>
         )}
 
         {session.speakers && session.speakers.length > 0 && (

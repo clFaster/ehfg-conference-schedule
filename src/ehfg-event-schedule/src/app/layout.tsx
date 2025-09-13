@@ -26,7 +26,8 @@ export default function RootLayout({
     bg-cover 
     bg-center 
     bg-no-repeat 
-    relative"
+    relative
+    overflow-hidden"
       >
         {children}
       </body>

@@ -1,3 +1,11 @@
+@keyframes headline-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(var(--move-distance));
+  }
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
