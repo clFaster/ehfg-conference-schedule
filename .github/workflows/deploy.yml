@@ -27,6 +27,7 @@ jobs:
         with:
           node-version: 22
           cache: npm
+          cache-dependency-path: ./src/ehfg-event-schedule/package-lock.json
 
       - name: Install dependencies
         working-directory: ./src/ehfg-event-schedule
