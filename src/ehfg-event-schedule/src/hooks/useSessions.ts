@@ -26,7 +26,8 @@ export function useSessions() {
   }, []);
 
   useEffect(() => {
-    fetch("/sessions.json")
+    // Use a relative path so it works both locally and on GitHub Pages
+    fetch("sessions.json")
       .then((r) => r.json())
       .then((data: Session[]) => {
         // Decode HTML entities in session data

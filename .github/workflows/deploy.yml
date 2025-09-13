@@ -35,7 +35,13 @@ jobs:
 
       - name: Build (Next.js static export)
         working-directory: ./src/ehfg-event-schedule
+        env:
+          NEXT_PUBLIC_BASE_PATH: /ehfg-conference-schedule
         run: npm run build
+
+      - name: Add .nojekyll to allow directories starting with _
+        working-directory: ./src/ehfg-event-schedule
+        run: echo > out/.nojekyll
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
