@@ -10,8 +10,8 @@ interface RoomColumnProps {
 export default function RoomColumn({ data, now }: RoomColumnProps) {
   return (
     <div className="flex flex-col gap-7 min-w-[440px] max-w-[520px] w-full">
-      <div className="sticky top-0 z-20 py-1 backdrop-blur-sm">
-        <h2 className="text-4xl font-black tracking-tight text-center bg-gradient-to-r from-emerald-200 via-cyan-200 to-sky-300 text-transparent bg-clip-text drop-shadow-lg uppercase shadow-[0_4px_12px_rgba(0,0,0,0.9),0_2px_6px_rgba(0,0,0,0.8)] sm:shadow-[0_2px_6px_rgba(0,0,0,0.8)]">
+      <div className="sticky top-0 z-20 py-1">
+        <h2 className="text-4xl font-black tracking-tight text-center bg-gradient-to-r from-emerald-200 via-cyan-200 to-sky-300 text-transparent bg-clip-text uppercase">
           {data.location}
         </h2>
       </div>
