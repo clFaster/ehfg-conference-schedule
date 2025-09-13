@@ -1,13 +1,12 @@
 import { Session } from "../types/session";
-import {
-  getSessionProgress,
-  getCountdown,
-  parseStart,
-  parseEnd,
-} from "../utils/session-utils";
+import { getSessionProgress, getCountdown } from "../utils/session-utils";
 import { COLOR_CFG } from "../utils/colors";
 import SpeakerTicker from "./SpeakerTicker";
 import HeadlineTicker from "./HeadlineTicker";
+import { SessionTiming } from "./SessionTiming";
+import { SessionMetrics } from "./SessionMetrics";
+import { SessionTitleSection } from "./SessionTitleSection";
+import { SessionProgressBar } from "./SessionProgressBar";
 
 interface SessionBlockProps {
   session: Session;
@@ -30,8 +29,9 @@ export default function SessionBlock({
       ? COLOR_CFG.current
       : COLOR_CFG.next;
 
-  const progress = isCurrent ? getSessionProgress(session, now) : 0;
+  const progress = isCurrent ? getSessionProgress(session, now) : undefined;
   const countdown = !isCurrent ? getCountdown(session, now) : null;
+  const label = isNetworking ? "Networking" : isCurrent ? "Now" : "Next";
 
   return (
     <div
@@ -41,87 +41,36 @@ export default function SessionBlock({
         className={`absolute inset-0 opacity-15 pointer-events-none bg-gradient-to-br ${cfg.accentFrom} via-transparent ${cfg.accentTo}`}
       />
       <div className="flex items-start justify-between relative z-10">
-        <div className="flex flex-col">
-          <span
-            className={`text-[0.7rem] tracking-widest font-semibold uppercase ${cfg.label}`}
-          >
-            {isNetworking ? "Networking" : isCurrent ? "Now" : "Next"}
-          </span>
-          <span className="text-xs text-neutral-300 mt-1">
-            {parseStart(session).toLocaleTimeString("en-GB", {
-              hour: "2-digit",
-              minute: "2-digit",
-              hour12: false,
-            })}{" "}
-            -{" "}
-            {parseEnd(session).toLocaleTimeString("en-GB", {
-              hour: "2-digit",
-              minute: "2-digit",
-              hour12: false,
-            })}
-          </span>
-          <span className="text-xs text-neutral-400 mt-0.5 italic">
-            {session.location}
-          </span>
-        </div>
-        {isCurrent && (
-          <div className="flex flex-col items-end">
-            <span className="text-xs uppercase tracking-wide text-neutral-300">
-              Progress
-            </span>
-            <span className={`text-lg font-bold ${cfg.value}`}>
-              {progress.toFixed(0)}%
-            </span>
-          </div>
-        )}
-        {countdown && (
-          <div className="flex flex-col items-end">
-            <span className="text-xs uppercase tracking-wide text-neutral-300">
-              Starts in
-            </span>
-            <span
-              className={`text-xl font-bold ${cfg.label} animate-countdownPulse`}
-            >
-              {countdown.label}
-            </span>
-          </div>
-        )}
-      </div>{" "}
+        <SessionTiming session={session} label={label} labelClass={cfg.label} />
+        <SessionMetrics
+          progress={progress}
+          progressValueClass={cfg.value}
+          countdownLabel={countdown?.label}
+          countdownClass={cfg.label}
+        />
+      </div>
       <div className="mt-6 relative z-10">
-        <div className="flex items-center gap-3 mb-3 bg-black/10 backdrop-blur-sm line-clamp-3 shadow-lg rounded-lg px-2 py-1">
-          <span
-            className={`flex-shrink-0 flex items-center justify-center w-10 h-10 rounded-full text-xs font-semibold uppercase tracking-wider ${cfg.label} bg-black/20 backdrop-blur-sm border border-white/10`}
-          >
-            {session.eventshortid}
-          </span>
-          <h3 className="flex-1 min-w-0 text-2xl leading-relaxed font-bold mb-2 text-white relative z-10 rounded-lg px-2 py-1 line-clamp-3">
-            {session.eventname}
-          </h3>
-        </div>
-        {session.subtitle && (
-          <p
-            className={`text-lg font-medium mb-1 line-clamp-2 relative z-10 ${cfg.subtitle}`}
-          >
-            {session.subtitle}
-          </p>
-        )}
+        <SessionTitleSection
+          shortId={session.eventshortid}
+          title={session.eventname}
+          badgeClass={cfg.label}
+          subtitle={session.subtitle}
+          subtitleClass={cfg.subtitle}
+        />
         {session.headline && (
           <div className="mb-3 relative z-10">
             <HeadlineTicker headline={session.headline} />
           </div>
         )}
-
         {session.speakers && session.speakers.length > 0 && (
           <SpeakerTicker speakers={session.speakers} />
         )}
-
-        {isCurrent && (
-          <div className="mt-4 w-full bg-neutral-700/50 rounded-full h-2 overflow-hidden">
-            <div
-              className={`h-full bg-gradient-to-r ${cfg.accentFrom} ${cfg.accentTo} transition-all duration-300`}
-              style={{ width: `${progress}%` }}
-            />
-          </div>
+        {typeof progress === "number" && (
+          <SessionProgressBar
+            progress={progress}
+            accentFrom={cfg.accentFrom}
+            accentTo={cfg.accentTo}
+          />
         )}
       </div>
     </div>

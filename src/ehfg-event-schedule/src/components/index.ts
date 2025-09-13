@@ -6,3 +6,7 @@ export { default as LoadingScreen } from "./LoadingScreen";
 export { default as NoSessions } from "./NoSessions";
 export { default as SpeakerTicker } from "./SpeakerTicker";
 export { TimeDebugger } from "./TimeDebugger";
+export { SessionTiming } from "./SessionTiming";
+export { SessionMetrics } from "./SessionMetrics";
+export { SessionTitleSection } from "./SessionTitleSection";
+export { SessionProgressBar } from "./SessionProgressBar";
