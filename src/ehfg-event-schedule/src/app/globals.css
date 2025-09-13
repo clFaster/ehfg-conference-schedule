@@ -2,6 +2,47 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Sailec font family (local) */
+@font-face {
+  font-family: 'Sailec';
+  src: url('/Fonts/Sailec Thin/Sailec Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sailec';
+  src: url('/Fonts/Sailec Light/Sailec Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sailec';
+  src: url('/Fonts/Sailec Medium/Sailec Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sailec';
+  src: url('/Fonts/Sailec Bold/Sailec Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sailec';
+  src: url('/Fonts/Sailec Regular Italic/Sailec Regular Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+html, body {
+  font-family: 'Sailec', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
 @keyframes speaker-scroll {
   0% {
     transform: translateX(0);

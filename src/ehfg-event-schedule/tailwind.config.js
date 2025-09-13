@@ -10,6 +10,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['Sailec', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+      },
       keyframes: {
         fadeInUp: {
           'from': {
