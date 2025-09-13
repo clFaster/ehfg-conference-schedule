@@ -4,10 +4,10 @@ const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: 'https',
-        hostname: 'www.ehfg.org',
-        port: '',
-        pathname: '/fileadmin/**',
+        protocol: "https",
+        hostname: "www.ehfg.org",
+        port: "",
+        pathname: "/fileadmin/**",
       },
     ],
   },

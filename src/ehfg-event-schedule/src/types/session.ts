@@ -6,7 +6,7 @@ export interface Session {
   eventshortid: string;
   date: string; // YYYY-MM-DD
   start: string; // HH:MM
-  end: string;   // HH:MM
+  end: string; // HH:MM
   location: string;
   headline?: string;
   description: string;

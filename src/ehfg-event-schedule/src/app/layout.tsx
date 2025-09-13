@@ -14,11 +14,11 @@ export const viewport = {
 
 export default function RootLayout({
   children,
-}: Readonly<{ children: React.ReactNode; }>) {
+}: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className="h-full">
-  <body
-    className="antialiased 
+      <body
+        className="antialiased 
     min-h-screen 
     h-full 
     bg-background-dark 
@@ -26,13 +26,10 @@ export default function RootLayout({
     bg-cover 
     bg-center 
     bg-no-repeat 
-    relative">
+    relative"
+      >
         {children}
       </body>
     </html>
   );
 }
-
-
-
-

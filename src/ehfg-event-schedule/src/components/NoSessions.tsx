@@ -1,15 +1,21 @@
-import { formatDateLong } from '../utils/session-utils';
+import Image from "next/image";
 
-interface NoSessionsProps {
-  activeDate: string;
-}
-
-export default function NoSessions({ activeDate }: NoSessionsProps) {
+export default function NoSessions() {
   return (
-    <div className="text-center py-20">
-      <p className="text-2xl text-neutral-300">
-        No more sessions scheduled for {activeDate ? formatDateLong(activeDate) : 'today'}
+    <div className="absolute inset-0 m-auto flex flex-col gap-8 items-center justify-center text-neutral-200 max-w-full max-h-full">
+      <Image
+        src="/ehfg-white.svg"
+        alt="EHFG Logo"
+        width={120}
+        height={120}
+        className="animate-spin [animation-duration:4s] mb-4 w-30 h-30"
+        draggable={false}
+        priority
+      />
+      <p className="text-6xl tracking-wide">
+        No more sessions scheduled for today
       </p>
+      <p className="text-6xl tracking-wide">Thanks for participating!</p>
     </div>
   );
 }

@@ -1,6 +1,6 @@
 import { RoomColumnData } from "@/types/roomColumnData";
-import SessionBlock from './SessionBlock';
-import EmptySessionBlock from './EmptySessionBlock';
+import SessionBlock from "./SessionBlock";
+import EmptySessionBlock from "./EmptySessionBlock";
 
 interface RoomColumnProps {
   data: RoomColumnData;
@@ -15,13 +15,13 @@ export default function RoomColumn({ data, now }: RoomColumnProps) {
           {data.location}
         </h2>
       </div>
-      
+
       {data.current ? (
         <SessionBlock session={data.current} variant="current" now={now} />
       ) : (
         <EmptySessionBlock variant="current" />
       )}
-      
+
       {data.upcoming ? (
         <SessionBlock session={data.upcoming} variant="upcoming" now={now} />
       ) : (
