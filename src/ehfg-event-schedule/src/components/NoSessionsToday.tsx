@@ -1,10 +1,11 @@
 import Image from "next/image";
+import { assetPath } from "@/utils/assetPath";
 
 export default function NoSessionsToday() {
   return (
     <div className="absolute inset-0 m-auto flex flex-col gap-8 items-center justify-center text-neutral-200 max-w-full max-h-full">
       <Image
-        src="/ehfg-white.svg"
+        src={assetPath("ehfg-white.svg")}
         alt="EHFG Logo"
         width={120}
         height={120}
