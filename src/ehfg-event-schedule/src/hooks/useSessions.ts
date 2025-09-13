@@ -44,18 +44,10 @@ export function useSessions() {
       });
   }, []);
 
-  const conferenceDates = useMemo(() => {
-    const set = new Set(sessions.map(s => s.date));
-    return Array.from(set).sort();
-  }, [sessions]);
 
   const activeDate = useMemo(() => {
-    if (!conferenceDates.length) return '';
-    const today = now.toISOString().slice(0,10);
-    if (conferenceDates.includes(today)) return today;
-    const future = conferenceDates.find(d => d >= today);
-    return future || conferenceDates[0];
-  }, [conferenceDates, now]);
+    return now.toISOString().slice(0,10);
+  }, [now]);
   const roomColumns = useMemo<RoomColumnData[]>(() => {
     if (!activeDate) return [];
     const byLoc: Record<string, Session[]> = {};
