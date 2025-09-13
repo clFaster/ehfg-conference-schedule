@@ -14,9 +14,9 @@ export default function NoSessionsToday() {
         priority
       />
       <p className="text-6xl tracking-wide">
-        No more sessions scheduled for today
+        No more sessions scheduled for today.
       </p>
-      <p className="text-6xl tracking-wide">Thanks for participating!</p>
+      <p className="text-6xl tracking-wide">Thank you for participating!</p>
     </div>
   );
 }
