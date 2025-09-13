@@ -20,9 +20,8 @@ export default function Home() {
   if (loading) {
     return <LoadingScreen />;
   }
-
   return (
-    <div className="min-h-screen w-full overflow-hidden bg-neutral-950 text-neutral-100 font-sans">
+    <div className="min-h-screen w-full overflow-hidden bg-opacity-20 bg-black backdrop-blur text-neutral-100 font-sans"> 
       <Header activeDate={activeDate} now={now} />
 
       {/* Time Debugger for testing */}
