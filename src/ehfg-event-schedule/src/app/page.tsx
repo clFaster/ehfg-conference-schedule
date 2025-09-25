@@ -1,5 +1,6 @@
 'use client';
 
+import { Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { useSessions } from '../hooks';
 import {
@@ -10,7 +11,7 @@ import {
   TimeDebugger,
 } from '../components';
 
-export default function Home() {
+function HomeContent() {
   const searchParams = useSearchParams();
   const showDebugger = searchParams.get('debug') === 'true';
 
@@ -60,5 +61,13 @@ export default function Home() {
         </div>
       </main>
     </div>
+  );
+}
+
+export default function Home() {
+  return (
+    <Suspense fallback={<LoadingScreen />}>
+      <HomeContent />
+    </Suspense>
   );
 }
