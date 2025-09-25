@@ -7,11 +7,11 @@ interface SessionMetricsProps {
 
 export function SessionMetrics({
   progress,
-  progressValueClass = "",
+  progressValueClass = '',
   countdownLabel,
-  countdownClass = "",
+  countdownClass = '',
 }: SessionMetricsProps) {
-  if (typeof progress === "number") {
+  if (typeof progress === 'number') {
     return (
       <div className="flex flex-col items-end">
         <span className="text-xs uppercase tracking-wide text-neutral-300">

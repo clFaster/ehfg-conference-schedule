@@ -1,12 +1,12 @@
-import { useEffect, useMemo, useState } from "react";
-import { Session } from "../types/session";
-import { RoomColumnData } from "@/types/roomColumnData";
+import { useEffect, useMemo, useState } from 'react';
+import { Session } from '../types/session';
+import { RoomColumnData } from '@/types/roomColumnData';
 import {
   decodeHtmlEntities,
   parseStart,
   parseEnd,
   DISPLAY_CATEGORIES,
-} from "../utils/session-utils";
+} from '../utils/session-utils';
 
 export function useSessions() {
   const [sessions, setSessions] = useState<Session[]>([]);
@@ -17,7 +17,7 @@ export function useSessions() {
   // Calculate the current time with offset
   const now = useMemo(
     () => new Date(baseTime.getTime() + timeOffset),
-    [baseTime, timeOffset],
+    [baseTime, timeOffset]
   );
   // Refresh time every 15 seconds for smoother progress
   useEffect(() => {
@@ -27,7 +27,7 @@ export function useSessions() {
 
   useEffect(() => {
     // Use a relative path so it works both locally and on GitHub Pages
-    fetch("sessions.json")
+    fetch('sessions.json')
       .then((r) => r.json())
       .then((data: Session[]) => {
         // Decode HTML entities in session data
@@ -56,7 +56,7 @@ export function useSessions() {
         setLoading(false);
       })
       .catch((err) => {
-        console.error("Failed to load sessions", err);
+        console.error('Failed to load sessions', err);
         setLoading(false);
       });
   }, []);
@@ -69,8 +69,8 @@ export function useSessions() {
     const byLoc: Record<string, Session[]> = {};
     sessions.forEach((s) => {
       if (!DISPLAY_CATEGORIES.has(s.eventcategory)) return;
-      if (!byLoc[s.location || "TBA"]) byLoc[s.location || "TBA"] = [];
-      byLoc[s.location || "TBA"].push(s);
+      if (!byLoc[s.location || 'TBA']) byLoc[s.location || 'TBA'] = [];
+      byLoc[s.location || 'TBA'].push(s);
     });
 
     const results: RoomColumnData[] = [];
@@ -118,13 +118,13 @@ export function useSessions() {
     };
 
     // 1. Conference Centre column
-    if (byLoc["Conference Centre"]) {
+    if (byLoc['Conference Centre']) {
       const { current, upcoming } = findCurrentAndUpcoming(
-        byLoc["Conference Centre"],
+        byLoc['Conference Centre']
       );
       if (current || upcoming) {
         results.push({
-          location: "Conference Centre",
+          location: 'Conference Centre',
           current,
           upcoming,
           sortTime: current
@@ -137,11 +137,11 @@ export function useSessions() {
     }
 
     // 2. Kursaal column
-    if (byLoc["Kursaal"]) {
-      const { current, upcoming } = findCurrentAndUpcoming(byLoc["Kursaal"]);
+    if (byLoc['Kursaal']) {
+      const { current, upcoming } = findCurrentAndUpcoming(byLoc['Kursaal']);
       if (current || upcoming) {
         results.push({
-          location: "Kursaal",
+          location: 'Kursaal',
           current,
           upcoming,
           sortTime: current
@@ -156,7 +156,7 @@ export function useSessions() {
     // 3. Other Rooms column (combine all other locations)
     const otherRoomSessions: Session[] = [];
     Object.entries(byLoc).forEach(([location, sessions]) => {
-      if (location !== "Conference Centre" && location !== "Kursaal") {
+      if (location !== 'Conference Centre' && location !== 'Kursaal') {
         otherRoomSessions.push(...sessions);
       }
     });
@@ -165,7 +165,7 @@ export function useSessions() {
       const { current, upcoming } = findCurrentAndUpcoming(otherRoomSessions);
       if (current || upcoming) {
         results.push({
-          location: "Other Rooms",
+          location: 'Other Rooms',
           current,
           upcoming,
           sortTime: current

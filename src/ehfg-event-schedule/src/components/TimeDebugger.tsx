@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState } from 'react';
 
 interface TimeDebuggerProps {
   now: Date;
@@ -20,16 +20,16 @@ export function TimeDebugger({
   setTimeOffsetTo,
 }: TimeDebuggerProps) {
   const [isVisible, setIsVisible] = useState(false);
-  const [customOffset, setCustomOffset] = useState("");
+  const [customOffset, setCustomOffset] = useState('');
 
   const formatTime = (date: Date) => {
-    return date.toLocaleString("en-US", {
-      year: "numeric",
-      month: "2-digit",
-      day: "2-digit",
-      hour: "2-digit",
-      minute: "2-digit",
-      second: "2-digit",
+    return date.toLocaleString('en-US', {
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit',
+      hour: '2-digit',
+      minute: '2-digit',
+      second: '2-digit',
       hour12: false,
     });
   };
@@ -40,21 +40,21 @@ export function TimeDebugger({
     const hours = Math.floor((totalMinutes % (24 * 60)) / 60);
     const minutes = totalMinutes % 60;
 
-    const sign = ms < 0 ? "-" : "+";
+    const sign = ms < 0 ? '-' : '+';
     let result = sign;
 
     if (days > 0) result += `${days}d `;
     if (hours > 0) result += `${hours}h `;
     if (minutes > 0) result += `${minutes}m`;
 
-    return result || "+0m";
+    return result || '+0m';
   };
 
   const handleCustomOffset = () => {
     const hours = parseFloat(customOffset);
     if (!isNaN(hours)) {
       setTimeOffsetTo(hours * 60 * 60 * 1000);
-      setCustomOffset("");
+      setCustomOffset('');
     }
   };
 

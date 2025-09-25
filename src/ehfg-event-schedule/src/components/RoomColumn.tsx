@@ -1,6 +1,6 @@
-import { RoomColumnData } from "@/types/roomColumnData";
-import SessionBlock from "./SessionBlock";
-import EmptySessionBlock from "./EmptySessionBlock";
+import { RoomColumnData } from '@/types/roomColumnData';
+import SessionBlock from './SessionBlock';
+import EmptySessionBlock from './EmptySessionBlock';
 
 interface RoomColumnProps {
   data: RoomColumnData;

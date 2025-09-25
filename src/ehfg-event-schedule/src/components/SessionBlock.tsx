@@ -1,16 +1,16 @@
-import { Session } from "../types/session";
-import { getSessionProgress, getCountdown } from "../utils/session-utils";
-import { COLOR_CFG } from "../utils/colors";
-import SpeakersTicker from "./SpeakerTicker";
-import OrganizedByTicker from "./HeadlineTicker";
-import { SessionTiming } from "./SessionTiming";
-import { SessionMetrics } from "./SessionMetrics";
-import { SessionTitleSection } from "./SessionTitleSection";
-import { SessionProgressBar } from "./SessionProgressBar";
+import { Session } from '../types/session';
+import { getSessionProgress, getCountdown } from '../utils/session-utils';
+import { COLOR_CFG } from '../utils/colors';
+import SpeakersTicker from './SpeakerTicker';
+import OrganizedByTicker from './HeadlineTicker';
+import { SessionTiming } from './SessionTiming';
+import { SessionMetrics } from './SessionMetrics';
+import { SessionTitleSection } from './SessionTitleSection';
+import { SessionProgressBar } from './SessionProgressBar';
 
 interface SessionBlockProps {
   session: Session;
-  variant: "current" | "upcoming";
+  variant: 'current' | 'upcoming';
   now: Date;
 }
 
@@ -19,10 +19,10 @@ export default function SessionBlock({
   variant,
   now,
 }: SessionBlockProps) {
-  const isCurrent = variant === "current";
+  const isCurrent = variant === 'current';
   const isNetworking = session.eventcategory
     .toLowerCase()
-    .includes("networking");
+    .includes('networking');
   const cfg = isNetworking
     ? COLOR_CFG.networking
     : isCurrent
@@ -31,7 +31,7 @@ export default function SessionBlock({
 
   const progress = isCurrent ? getSessionProgress(session, now) : undefined;
   const countdown = !isCurrent ? getCountdown(session, now) : null;
-  const label = isCurrent ? "Now" : "Next";
+  const label = isCurrent ? 'Now' : 'Next';
 
   return (
     <div
@@ -65,7 +65,7 @@ export default function SessionBlock({
         {session.speakers && session.speakers.length > 0 && (
           <SpeakersTicker speakers={session.speakers} />
         )}
-        {typeof progress === "number" && (
+        {typeof progress === 'number' && (
           <SessionProgressBar
             progress={progress}
             accentFrom={cfg.accentFrom}

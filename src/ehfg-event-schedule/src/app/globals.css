@@ -6,6 +6,7 @@
     transform: translateX(var(--move-distance));
   }
 }
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -14,17 +15,20 @@
 
 html,
 body {
-  font-family: var(--font-sailec), ui-sans-serif, system-ui, -apple-system,
-    BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
-    "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-    "Segoe UI Symbol", "Noto Color Emoji";
-}
-
-@keyframes speaker-scroll {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(var(--move-distance));
-  }
+  font-family:
+    var(--font-sailec),
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    'Helvetica Neue',
+    Arial,
+    'Noto Sans',
+    sans-serif,
+    'Apple Color Emoji',
+    'Segoe UI Emoji',
+    'Segoe UI Symbol',
+    'Noto Color Emoji';
 }

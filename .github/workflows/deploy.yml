@@ -33,6 +33,12 @@ jobs:
         working-directory: ./src/ehfg-event-schedule
         run: npm ci
 
+      - name: Update sessions data
+        working-directory: ./src/ehfg-event-schedule
+        run: |
+          chmod +x update-sessions.sh
+          ./update-sessions.sh
+
       - name: Build (Next.js static export)
         working-directory: ./src/ehfg-event-schedule
         env:

@@ -1,4 +1,4 @@
-import { Session } from "../types/session";
+import { Session } from '../types/session';
 
 // Date helpers - explicitly parse as Central European time (MESZ/CEST)
 export const parseStart = (s: Session) =>
@@ -8,15 +8,15 @@ export const parseEnd = (s: Session) => new Date(`${s.date}T${s.end}:00+02:00`);
 // HTML entity decoder
 export const decodeHtmlEntities = (text: string): string => {
   const entityMap: { [key: string]: string } = {
-    "&amp;": "&",
-    "&lt;": "<",
-    "&gt;": ">",
-    "&quot;": '"',
-    "&#039;": "'",
-    "&#x27;": "'",
-    "&#x2F;": "/",
-    "&#x60;": "`",
-    "&#x3D;": "=",
+    '&amp;': '&',
+    '&lt;': '<',
+    '&gt;': '>',
+    '&quot;': '"',
+    '&#039;': "'",
+    '&#x27;': "'",
+    '&#x2F;': '/',
+    '&#x60;': '`',
+    '&#x3D;': '=',
   };
 
   return text.replace(/&[#\w]+;/g, (entity) => entityMap[entity] || entity);
@@ -43,25 +43,25 @@ export const getCountdown = (session: Session, now: Date) => {
 };
 
 export const formatDateLong = (d: string) => {
-  if (!d) return "";
+  if (!d) return '';
   const date = new Date(d);
-  return date.toLocaleDateString("en-GB", {
-    weekday: "long",
-    year: "numeric",
-    month: "long",
-    day: "numeric",
+  return date.toLocaleDateString('en-GB', {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
   });
 };
 
 export const formatClock = (d: Date) =>
-  d.toLocaleTimeString("en-GB", {
-    hour: "2-digit",
-    minute: "2-digit",
+  d.toLocaleTimeString('en-GB', {
+    hour: '2-digit',
+    minute: '2-digit',
     hour12: false,
   });
 
 export const DISPLAY_CATEGORIES = new Set([
-  "Session",
-  "Plenary",
-  "Networking Break",
+  'Session',
+  'Plenary',
+  'Networking Break',
 ]);

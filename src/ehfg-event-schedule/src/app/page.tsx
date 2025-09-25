@@ -1,15 +1,19 @@
-"use client";
+'use client';
 
-import { useSessions } from "../hooks";
+import { useSearchParams } from 'next/navigation';
+import { useSessions } from '../hooks';
 import {
   Header,
   RoomColumn,
   LoadingScreen,
   NoSessionsToday,
   TimeDebugger,
-} from "../components";
+} from '../components';
 
 export default function Home() {
+  const searchParams = useSearchParams();
+  const showDebugger = searchParams.get('debug') === 'true';
+
   const {
     loading,
     now,
@@ -30,16 +34,18 @@ export default function Home() {
     <div className="min-h-screen w-full overflow-hidden bg-opacity-20 bg-black backdrop-blur text-neutral-100 font-sans">
       <Header activeDate={activeDate} now={now} />
 
-      {/* Time Debugger for testing */}
-      <TimeDebugger
-        now={now}
-        timeOffset={timeOffset}
-        addHours={addHours}
-        addMinutes={addMinutes}
-        addDays={addDays}
-        resetTime={resetTime}
-        setTimeOffsetTo={setTimeOffsetTo}
-      />
+      {/* Time Debugger for testing - only show when ?debug=true */}
+      {showDebugger && (
+        <TimeDebugger
+          now={now}
+          timeOffset={timeOffset}
+          addHours={addHours}
+          addMinutes={addMinutes}
+          addDays={addDays}
+          resetTime={resetTime}
+          setTimeOffsetTo={setTimeOffsetTo}
+        />
+      )}
 
       {/* Main content - room columns */}
       <main className="w-full px-20 pb-20">

@@ -11,7 +11,7 @@ export function SessionTitleSection({
   title,
   badgeClass,
   subtitle,
-  subtitleClass = "",
+  subtitleClass = '',
 }: SessionTitleSectionProps) {
   return (
     <div className="relative z-10">

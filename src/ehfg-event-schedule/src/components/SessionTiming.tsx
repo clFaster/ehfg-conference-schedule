@@ -1,5 +1,5 @@
-import { formatClock, parseStart, parseEnd } from "../utils/session-utils";
-import { Session } from "../types/session";
+import { formatClock, parseStart, parseEnd } from '../utils/session-utils';
+import { Session } from '../types/session';
 
 interface SessionTimingProps {
   session: Session;

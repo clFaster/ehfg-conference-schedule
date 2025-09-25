@@ -1,1 +1,2 @@
-export { useSessions } from "./useSessions";
+export { useSessions } from './useSessions';
+export { useTickerAnimation } from './useTickerAnimation';

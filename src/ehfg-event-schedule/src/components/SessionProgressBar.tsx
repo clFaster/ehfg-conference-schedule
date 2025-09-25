@@ -9,7 +9,7 @@ export function SessionProgressBar({
   progress,
   accentFrom,
   accentTo,
-  className = "mt-4",
+  className = 'mt-4',
 }: SessionProgressBarProps) {
   return (
     <div

@@ -1,9 +1,9 @@
 interface EmptySessionBlockProps {
-  variant: "current" | "upcoming";
+  variant: 'current' | 'upcoming';
 }
 
 export default function EmptySessionBlock({ variant }: EmptySessionBlockProps) {
-  const isCurrent = variant === "current";
+  const isCurrent = variant === 'current';
 
   if (isCurrent) {
     return (

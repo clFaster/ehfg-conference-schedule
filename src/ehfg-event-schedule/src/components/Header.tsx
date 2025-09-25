@@ -1,4 +1,4 @@
-import { formatDateLong, formatClock } from "../utils/session-utils";
+import { formatDateLong, formatClock } from '../utils/session-utils';
 
 interface HeaderProps {
   activeDate: string;
@@ -16,7 +16,7 @@ export default function Header({ activeDate, now }: HeaderProps) {
           European Health Forum Gastein 2025
         </p>
         <p className="mt-2 text-xl text-neutral-300">
-          {activeDate ? formatDateLong(activeDate) : ""}
+          {activeDate ? formatDateLong(activeDate) : ''}
         </p>
       </div>
       <div className="flex flex-col items-center xl:items-end">
