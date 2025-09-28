@@ -1,6 +1,6 @@
 'use client';
 
-import { Suspense } from 'react';
+import { Suspense, useEffect } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { useSessions } from '../hooks';
 import {
@@ -14,6 +14,7 @@ import {
 function HomeContent() {
   const searchParams = useSearchParams();
   const showDebugger = searchParams.get('debug') === 'true';
+  const hoursParam = searchParams.get('hours');
 
   const {
     loading,
@@ -27,6 +28,18 @@ function HomeContent() {
     resetTime,
     setTimeOffsetTo,
   } = useSessions();
+
+  // Apply hour offset from URL parameter
+  useEffect(() => {
+    if (hoursParam) {
+      const hours = parseFloat(hoursParam);
+      if (!isNaN(hours)) {
+        // Convert hours to milliseconds and set the offset
+        const milliseconds = hours * 60 * 60 * 1000;
+        setTimeOffsetTo(milliseconds);
+      }
+    }
+  }, [hoursParam, setTimeOffsetTo]);
 
   if (loading) {
     return <LoadingScreen />;
