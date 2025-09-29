@@ -2,7 +2,7 @@ import { Session } from '../types/session';
 import { getSessionProgress, getCountdown } from '../utils/session-utils';
 import { COLOR_CFG } from '../utils/colors';
 import SpeakersTicker from './SpeakersSection';
-import OrganizedByTicker from './HeadlineTicker';
+import OrganizedByTicker from './OrganizedBy';
 import { SessionTiming } from './SessionTiming';
 import { SessionMetrics } from './SessionMetrics';
 import { SessionTitleSection } from './SessionTitleSection';
