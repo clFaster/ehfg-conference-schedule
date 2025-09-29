@@ -15,9 +15,9 @@ export function SessionTitleSection({
 }: SessionTitleSectionProps) {
   return (
     <div className="relative z-10">
-      <div className="flex items-center gap-3 mb-3 bg-black/10 backdrop-blur-sm line-clamp-3 shadow-lg rounded-lg px-2 py-1">
+      <div className="flex items-center gap-3 mb-3 bg-white/15 line-clamp-3 shadow-lg rounded-lg px-2 py-1">
         <span
-          className={`flex-shrink-0 flex items-center justify-center w-10 h-10 rounded-full text-xs font-semibold uppercase tracking-wider ${badgeClass} bg-black/20 backdrop-blur-sm border border-white/10`}
+          className={`flex-shrink-0 flex items-center justify-center w-10 h-10 rounded-full text-xs font-semibold uppercase tracking-wider ${badgeClass} bg-black/20 border border-white/10`}
         >
           {shortId}
         </span>
