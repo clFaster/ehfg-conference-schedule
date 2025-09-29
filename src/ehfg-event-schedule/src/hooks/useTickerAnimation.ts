@@ -1,4 +1,8 @@
 import { useRef, useEffect, useState, useMemo, useCallback } from 'react';
+import {
+  detectLowPerformance,
+  prefersReducedMotion,
+} from '../utils/performance';
 
 interface UseTickerAnimationOptions {
   /** The content that determines if animation should play (e.g., headline text or speakers array) */
@@ -7,6 +11,8 @@ interface UseTickerAnimationOptions {
   durationFactor?: number;
   /** Minimum animation duration in seconds */
   minDuration?: number;
+  /** Force low performance mode for slower devices */
+  lowPerformanceMode?: boolean;
 }
 
 interface AnimationState {
@@ -30,10 +36,19 @@ export function useTickerAnimation({
   content,
   durationFactor = 3,
   minDuration = 15,
+  lowPerformanceMode,
 }: UseTickerAnimationOptions) {
   const containerRef = useRef<HTMLDivElement>(null);
   const contentRef = useRef<HTMLDivElement>(null);
   const resizeObserverRef = useRef<ResizeObserver | null>(null);
+
+  // Auto-detect performance mode if not explicitly set
+  const isLowPerformance = useMemo(() => {
+    return lowPerformanceMode ?? detectLowPerformance();
+  }, [lowPerformanceMode]);
+
+  // Check if user prefers reduced motion
+  const shouldReduceMotion = useMemo(() => prefersReducedMotion(), []);
 
   // Combine related state to reduce re-renders
   const [animationState, setAnimationState] = useState<AnimationState>({
@@ -110,27 +125,41 @@ export function useTickerAnimation({
 
   // Memoize animation style to prevent unnecessary recalculations
   const animationStyle = useMemo(() => {
-    if (!animationState.shouldAnimate) {
+    // Disable animation if user prefers reduced motion or content doesn't need scrolling
+    if (!animationState.shouldAnimate || shouldReduceMotion) {
       return {
         animation: 'none',
+        willChange: 'auto',
         '--move-distance': '0px',
       } as React.CSSProperties & { '--move-distance': string };
     }
 
+    const animationName = isLowPerformance
+      ? 'headline-scroll-low-perf'
+      : 'headline-scroll';
+    const adjustedDuration = isLowPerformance
+      ? animationDuration * 1.5
+      : animationDuration;
+
     return {
-      animation: `headline-scroll ${animationDuration}s linear infinite`,
+      animation: `${animationName} ${adjustedDuration}s linear infinite`,
+      willChange: 'transform',
+      backfaceVisibility: 'hidden',
+      perspective: '1000px',
       '--move-distance': `-${animationState.moveDistance}px`,
     } as React.CSSProperties & { '--move-distance': string };
   }, [
     animationState.shouldAnimate,
     animationDuration,
     animationState.moveDistance,
+    isLowPerformance,
+    shouldReduceMotion,
   ]);
 
   return {
     containerRef,
     contentRef,
-    shouldAnimate: animationState.shouldAnimate,
+    shouldAnimate: animationState.shouldAnimate && !shouldReduceMotion,
     animationStyle,
   };
 }
