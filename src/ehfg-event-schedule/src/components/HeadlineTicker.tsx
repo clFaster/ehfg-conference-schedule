@@ -6,7 +6,7 @@ interface HeadlineTickerProps {
   className?: string;
 }
 
-export default function HeadlineTicker({
+const HeadlineTicker = React.memo(function HeadlineTicker({
   headline,
   className = '',
 }: HeadlineTickerProps) {
@@ -17,7 +17,8 @@ export default function HeadlineTicker({
       minDuration: 15,
     });
 
-  if (!headline) return null;
+  // Early return to avoid unnecessary hook calls
+  if (!headline?.trim()) return null;
 
   return (
     <div
@@ -41,4 +42,6 @@ export default function HeadlineTicker({
       </div>
     </div>
   );
-}
+});
+
+export default HeadlineTicker;
