@@ -30,7 +30,7 @@ export function SessionMetrics({
           Starts in
         </span>
         <span
-          className={`text-xl font-bold ${countdownClass} animate-countdownPulse`}
+          className={`text-xl font-bold ${countdownClass}`}
         >
           {countdownLabel}
         </span>
