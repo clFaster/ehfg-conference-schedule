@@ -45,7 +45,10 @@ export default function SpeakersSection({
       <div className="relative overflow-hidden rounded-lg bg-white/10 border border-white/10">
         <div className="flex py-3 px-4 gap-4">
           {currentSpeakers.map((speaker, idx) => (
-            <div key={`${speaker.speaker}-${currentIndex}-${idx}`} className="flex-1 max-w-[calc(50%-0.5rem)]">
+            <div
+              key={`${speaker.speaker}-${currentIndex}-${idx}`}
+              className="flex-1 max-w-[calc(50%-0.5rem)]"
+            >
               <SpeakerCard speaker={speaker} />
             </div>
           ))}

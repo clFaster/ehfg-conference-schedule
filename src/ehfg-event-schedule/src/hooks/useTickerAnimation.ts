@@ -34,7 +34,7 @@ export function useTickerAnimation({
   const containerRef = useRef<HTMLDivElement>(null);
   const contentRef = useRef<HTMLDivElement>(null);
   const resizeObserverRef = useRef<ResizeObserver | null>(null);
-  
+
   // Combine related state to reduce re-renders
   const [animationState, setAnimationState] = useState<AnimationState>({
     shouldAnimate: false,
@@ -44,22 +44,24 @@ export function useTickerAnimation({
   // Memoize the overflow check function
   const checkOverflow = useCallback(() => {
     if (!containerRef.current || !contentRef.current) return;
-    
+
     const containerWidth = containerRef.current.offsetWidth;
     const contentWidth = contentRef.current.offsetWidth;
     const shouldAnimateNow = contentWidth > containerWidth;
-    
+
     // Only update state if values actually changed
-    setAnimationState(prevState => {
-      const newMoveDistance = shouldAnimateNow 
+    setAnimationState((prevState) => {
+      const newMoveDistance = shouldAnimateNow
         ? contentWidth + (Array.isArray(content) ? 16 : 0)
         : 0;
-      
-      if (prevState.shouldAnimate === shouldAnimateNow && 
-          prevState.moveDistance === newMoveDistance) {
+
+      if (
+        prevState.shouldAnimate === shouldAnimateNow &&
+        prevState.moveDistance === newMoveDistance
+      ) {
         return prevState; // No change, avoid re-render
       }
-      
+
       return {
         shouldAnimate: shouldAnimateNow,
         moveDistance: newMoveDistance,
@@ -86,7 +88,7 @@ export function useTickerAnimation({
     // Fallback to window resize for older browsers
     const handleResize = debouncedCheckOverflow;
     window.addEventListener('resize', handleResize, { passive: true });
-    
+
     return () => {
       resizeObserverRef.current?.disconnect();
       window.removeEventListener('resize', handleResize);
@@ -109,14 +111,21 @@ export function useTickerAnimation({
   // Memoize animation style to prevent unnecessary recalculations
   const animationStyle = useMemo(() => {
     if (!animationState.shouldAnimate) {
-      return { animation: 'none', '--move-distance': '0px' } as React.CSSProperties & { '--move-distance': string };
+      return {
+        animation: 'none',
+        '--move-distance': '0px',
+      } as React.CSSProperties & { '--move-distance': string };
     }
-    
+
     return {
       animation: `headline-scroll ${animationDuration}s linear infinite`,
       '--move-distance': `-${animationState.moveDistance}px`,
     } as React.CSSProperties & { '--move-distance': string };
-  }, [animationState.shouldAnimate, animationDuration, animationState.moveDistance]);
+  }, [
+    animationState.shouldAnimate,
+    animationDuration,
+    animationState.moveDistance,
+  ]);
 
   return {
     containerRef,

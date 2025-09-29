@@ -17,7 +17,7 @@ function getInitials(name: string): string {
 
 function Avatar({ speaker }: { speaker: Speaker }) {
   const initials = getInitials(speaker.speaker);
-  
+
   if (!speaker.image) {
     return (
       <div className="w-10 h-10 lg:w-12 lg:h-12 xl:w-14 xl:h-14 rounded-full bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center text-white text-sm lg:text-base font-bold flex-shrink-0">
