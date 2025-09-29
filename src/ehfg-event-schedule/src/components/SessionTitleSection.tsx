@@ -27,7 +27,7 @@ export function SessionTitleSection({
       </div>
       {subtitle && (
         <p
-          className={`text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl 3xl:text-4xl 4xl:text-5xl 5xl:text-5xl font-light mb-1 line-clamp-2 relative z-10 ${subtitleClass}`}
+          className={`text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl 3xl:text-4xl 4xl:text-4xl 5xl:text-4xl font-light mb-1 line-clamp-2 relative z-10 ${subtitleClass}`}
         >
           {subtitle}
         </p>

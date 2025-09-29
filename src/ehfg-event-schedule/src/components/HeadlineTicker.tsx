@@ -28,13 +28,13 @@ export default function HeadlineTicker({
         {/* First copy */}
         <span
           ref={contentRef}
-          className="text-base font-medium px-4 py-2 flex-shrink-0 3xl:text-2xl 4xl:text-3xl 5xl:text-3xl"
+          className="text-base font-medium px-4 py-2 flex-shrink-0 3xl:text-2xl 4xl:text-3xl 5xl:text-2xl"
         >
           {headline}
         </span>
         {/* Second copy for seamless loop - only render if animating */}
         {shouldAnimate && (
-          <span className="text-base font-medium px-4 py-2 flex-shrink-0 3xl:text-2xl 4xl:text-3xl 5xl:text-3xl">
+          <span className="text-base font-medium px-4 py-2 flex-shrink-0 3xl:text-2xl 4xl:text-3xl 5xl:text-2xl">
             {headline}
           </span>
         )}
