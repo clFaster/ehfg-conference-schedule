@@ -20,6 +20,12 @@ module.exports = {
       },
       colors: {
         'background-dark': 'rgba(16,16,65,1)',
+        // Enhanced text colors for better readability
+        'text-primary': 'rgb(255 255 255)',
+        'text-secondary': 'rgb(245 245 245)',
+        'text-tertiary': 'rgb(229 229 229)',
+        'text-muted': 'rgb(212 212 212)',
+        'text-subtle': 'rgb(163 163 163)',
       },
       keyframes: {
         fadeInUp: {

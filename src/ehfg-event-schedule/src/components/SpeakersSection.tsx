@@ -39,7 +39,7 @@ export default function SpeakersSection({
 
   return (
     <div className={`mt-2 ${className}`}>
-      <p className="text-sm text-neutral-300 mb-3 3xl:text-2xl 4xl:text-3xl 5xl:text-3xl">
+      <p className="text-sm text-neutral-100 mb-3 3xl:text-2xl 4xl:text-3xl 5xl:text-3xl font-medium">
         Speakers:
       </p>
       <div className="relative overflow-hidden rounded-lg bg-white/10 border border-white/10">

@@ -51,11 +51,11 @@ export default function SpeakerCard({ speaker }: SpeakerCardProps) {
     <div className="flex items-center gap-3 w-full bg-white/5 rounded-lg py-4 px-4 border border-white/10">
       <Avatar speaker={speaker} />
       <div className="flex-1 min-w-0">
-        <p className="text-sm lg:text-base xl:text-lg 3xl:text-2xl 4xl:text-2xl 5xl:text-2xl font-medium text-neutral-200 truncate">
+        <p className="text-sm lg:text-base xl:text-lg 3xl:text-2xl 4xl:text-2xl 5xl:text-2xl font-medium text-white truncate">
           {speaker.speaker}
         </p>
         {speaker.organisation && (
-          <p className="text-xs lg:text-sm 3xl:text-2xl 4xl:text-2xl 5xl:text-2xl text-neutral-400 truncate">
+          <p className="text-xs lg:text-sm 3xl:text-2xl 4xl:text-2xl 5xl:text-2xl text-neutral-300 truncate">
             {speaker.organisation}
           </p>
         )}

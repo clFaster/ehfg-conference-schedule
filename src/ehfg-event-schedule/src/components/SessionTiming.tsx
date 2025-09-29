@@ -22,10 +22,10 @@ export function SessionTiming({
       >
         {label}
       </span>
-      <span className="text-xs sm:text-sm md:text-base lg:text-lg xl:text-xl 2xl:text-2xl 3xl:text-3xl 4xl:text-4xl 5xl:text-4xl text-neutral-300 mt-0.5 sm:mt-1">
+      <span className="text-xs sm:text-sm md:text-base lg:text-lg xl:text-xl 2xl:text-2xl 3xl:text-3xl 4xl:text-4xl 5xl:text-4xl text-neutral-100 mt-0.5 sm:mt-1 font-medium">
         {formatClock(start)} - {formatClock(end)}
       </span>
-      <span className="text-xs sm:text-sm md:text-base lg:text-lg xl:text-xl 2xl:text-2xl 3xl:text-3xl 4xl:text-4xl 5xl:text-4xl text-neutral-400 mt-0.5 italic">
+      <span className="text-xs sm:text-sm md:text-base lg:text-lg xl:text-xl 2xl:text-2xl 3xl:text-3xl 4xl:text-4xl 5xl:text-4xl text-neutral-200 mt-0.5 italic">
         {session.location}
       </span>
     </div>

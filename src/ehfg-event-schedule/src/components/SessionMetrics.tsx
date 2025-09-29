@@ -14,7 +14,7 @@ export function SessionMetrics({
   if (typeof progress === 'number') {
     return (
       <div className="flex flex-col items-end">
-        <span className="text-[10px] sm:text-xs md:text-sm lg:text-base xl:text-lg 2xl:text-xl 3xl:text-2xl 4xl:text-2xl 5xl:text-2xl uppercase tracking-wide text-neutral-300">
+        <span className="text-[10px] sm:text-xs md:text-sm lg:text-base xl:text-lg 2xl:text-xl 3xl:text-2xl 4xl:text-2xl 5xl:text-2xl uppercase tracking-wide text-neutral-200 font-medium">
           Progress
         </span>
         <span
@@ -28,7 +28,7 @@ export function SessionMetrics({
   if (countdownLabel) {
     return (
       <div className="flex flex-col items-end">
-        <span className="text-[10px] sm:text-xs md:text-sm lg:text-base xl:text-lg 2xl:text-xl 3xl:text-2xl 4xl:text-2xl 5xl:text-2xl uppercase tracking-wide text-neutral-300">
+        <span className="text-[10px] sm:text-xs md:text-sm lg:text-base xl:text-lg 2xl:text-xl 3xl:text-2xl 4xl:text-2xl 5xl:text-2xl uppercase tracking-wide text-neutral-200 font-medium">
           Starts in
         </span>
         <span
