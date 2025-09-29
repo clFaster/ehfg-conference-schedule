@@ -62,7 +62,7 @@ function HomeContent() {
       )}
 
       {/* Main content - room columns */}
-      <main className="w-full px-[5%] pt-8 sm:pt-8 md:pt-10 lg:pt-10 xl:pt-12 2xl:pt-14 3xl:pt-16 4xl:pt-18 5xl:pt-20 pb-8 sm:pb-12 md:pb-16 lg:pb-20">
+      <main className="w-full px-[5%] pt-8 sm:pt-8 md:pt-10 lg:pt-10 xl:pt-10 2xl:pt-10 3xl:pt-10 4xl:pt-10 5xl:pt-10 pb-8 sm:pb-12 md:pb-16 lg:pb-20">
         <div className="w-full max-w-[95%] mx-auto grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 sm:gap-8 md:gap-10 lg:gap-12 xl:gap-14 2xl:gap-16">
           {roomColumns.length > 0 ? (
             roomColumns.map((rc) => (
