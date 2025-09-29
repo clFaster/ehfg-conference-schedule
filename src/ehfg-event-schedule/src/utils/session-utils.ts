@@ -50,6 +50,7 @@ export const formatDateLong = (d: string) => {
     year: 'numeric',
     month: 'long',
     day: 'numeric',
+    timeZone: 'Europe/Vienna',
   });
 };
 
@@ -58,6 +59,7 @@ export const formatClock = (d: Date) =>
     hour: '2-digit',
     minute: '2-digit',
     hour12: false,
+    timeZone: 'Europe/Vienna',
   });
 
 export const DISPLAY_CATEGORIES = new Set([

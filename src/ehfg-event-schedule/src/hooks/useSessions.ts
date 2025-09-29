@@ -62,7 +62,8 @@ export function useSessions() {
   }, []);
 
   const activeDate = useMemo(() => {
-    return now.toISOString().slice(0, 10);
+    // Get the date in Vienna timezone to ensure proper matching with session dates
+    return now.toLocaleDateString('sv-SE', { timeZone: 'Europe/Vienna' });
   }, [now]);
   const roomColumns = useMemo<RoomColumnData[]>(() => {
     if (!activeDate) return [];
