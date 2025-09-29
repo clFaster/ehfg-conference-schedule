@@ -17,7 +17,9 @@ export function SessionMetrics({
         <span className="text-[10px] sm:text-xs md:text-sm lg:text-base xl:text-lg 2xl:text-xl 3xl:text-2xl 4xl:text-3xl 5xl:text-2xl uppercase tracking-wide text-neutral-300">
           Progress
         </span>
-        <span className={`text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl 3xl:text-4xl 4xl:text-5xl 5xl:text-5xl font-bold ${progressValueClass}`}>
+        <span
+          className={`text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl 3xl:text-4xl 4xl:text-5xl 5xl:text-5xl font-bold ${progressValueClass}`}
+        >
           {progress.toFixed(0)}%
         </span>
       </div>

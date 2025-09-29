@@ -21,8 +21,10 @@ export default function SpeakerTicker({
 
   if (!speakers || speakers.length === 0) return null;
   return (
-    <div className={`mt-4 ${className}`}>
-      <p className="text-sm text-neutral-300 mb-3">Speakers:</p>
+    <div className={`mt-2 ${className}`}>
+      <p className="text-sm text-neutral-300 mb-3 3xl:text-2xl 4xl:text-3xl 5xl:text-3xl">
+        Speakers:
+      </p>
       <div
         ref={containerRef}
         className="relative overflow-hidden rounded-lg bg-black/10 backdrop-blur-sm border border-white/10"

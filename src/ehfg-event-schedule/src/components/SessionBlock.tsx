@@ -58,7 +58,7 @@ export default function SessionBlock({
           subtitleClass={cfg.subtitle}
         />
         {session.headline && (
-          <div className="mb-2 sm:mb-3 md:mb-4 lg:mb-5 xl:mb-6 2xl:mb-7 3xl:mb-8 4xl:mb-10 5xl:mb-12 relative z-10">
+          <div className="mb-2 sm:mb-3 md:mb-3 lg:mb-3 xl:mb-3 2xl:mb-3 3xl:mb-3 4xl:mb-5 5xl:mb-5 relative z-10">
             <OrganizedByTicker headline={session.headline} />
           </div>
         )}
