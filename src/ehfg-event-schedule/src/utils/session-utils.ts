@@ -6,7 +6,10 @@ export const parseStart = (s: Session) =>
 export const parseEnd = (s: Session) => new Date(`${s.date}T${s.end}:00+02:00`);
 
 // HTML entity decoder
-export const decodeHtmlEntities = (text: string): string => {
+export const decodeHtmlEntities = (text: string | undefined | null): string => {
+  // Handle undefined, null, or empty values
+  if (!text) return '';
+  
   const entityMap: { [key: string]: string } = {
     '&amp;': '&',
     '&lt;': '<',

@@ -34,22 +34,14 @@ export function useSessions() {
         const decodedSessions = data.map((session) => ({
           ...session,
           eventname: decodeHtmlEntities(session.eventname),
-          subtitle: session.subtitle
-            ? decodeHtmlEntities(session.subtitle)
-            : session.subtitle,
-          headline: session.headline
-            ? decodeHtmlEntities(session.headline)
-            : session.headline,
+          subtitle: decodeHtmlEntities(session.subtitle),
+          headline: decodeHtmlEntities(session.headline),
           description: decodeHtmlEntities(session.description),
           speakers: session.speakers?.map((speaker) => ({
             ...speaker,
             speaker: decodeHtmlEntities(speaker.speaker),
-            organisation: speaker.organisation
-              ? decodeHtmlEntities(speaker.organisation)
-              : speaker.organisation,
-            biography: speaker.biography
-              ? decodeHtmlEntities(speaker.biography)
-              : speaker.biography,
+            organisation: decodeHtmlEntities(speaker.organisation),
+            biography: decodeHtmlEntities(speaker.biography),
           })),
         }));
         setSessions(decodedSessions);
