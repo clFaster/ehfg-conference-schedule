@@ -1,1060 +1,5 @@
 [
   {
-    "eventname": "Women&#039;s health 2030",
-    "subtitle": "Closing the gender gap",
-    "eventid": "2723",
-    "eventcategory": "Session",
-    "eventshortid": "S1",
-    "date": "2025-09-30",
-    "start": "14:00",
-    "end": "15:15",
-    "location": "Conference Centre",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by Daiichi-Sankyo",
-    "description": "Despite progress in gender equality and advances in clinical research and treatment, global and European statistics continue to tell a different story for women’s health. Women remain underrepresented, undertreated and thus underdiagnosed especially in the area of NCDs. This failure to deliver on the social contract for half the world’s population has also placed a tremendous financial burden on healthcare systems. More recently, the politicisation and rollback of women’s health rights has undermined efforts to close the gender gap Now more than ever it is time to work together to improve outcomes, and enhance the quality of life, for women in Europe and beyond. In Europe the political momentum is strong with a new mandate prioritising women’s health, the publication of a women’s rights roadmap and the launch of a women’s interest group. Europe has demonstrated that it will step up to the plate, but will it continue to? This session will reflect on almost 10 years since WHO adopted a regional strategy on women’s health and well-being calling on countries to ensure that policies and health systems are gender-responsive and based on a life-course approach. It will bring together multi-sectoral perspectives, to understand what incentives and enabling mechanisms are working to improve governance for women’s health and well-being.",
-    "speakers": [
-      {
-        "speaker": "Gunther, Penilla",
-        "speakerid": "2208",
-        "organisation": "European Patient Safety Foundation",
-        "biography": "Penilla Gunthera former Member of Swedish Parliament. Member of Cancer Mission BoardThe European Commission and President of European Patient Safety Foundation. Penilla is also the founder of FOKUS Patienta meeting place for health care and life science in Sweden.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/8/7/csm_Penilla_Gunther_0625_28affc7768.png"
-      },
-      {
-        "speaker": "Lehner, Lisa",
-        "speakerid": "2514",
-        "organisation": "University of Vienna and AmberMed",
-        "biography": "Lisa Lehner is a health justice researcher at the University of Vienna and Health Programs Director for the NGO AmberMeda Viennese clinic that provides medical care and social counseling to people without health insurance coverage in Austria. Connecting research and evidence generation with real-world advocacyLisa works actively on implementing more just and equitable policies for people who are particularly marginalized within the healthcare systemincluding people without health insurancepeople who use drugspeople experiencing homelessnesspeople who seek asylumsex workersand LGBTQIA+ people - focusingspecificallyon gendered dimensions and the complex intersections of identities and lived realities of people on the ground. She is a health systems expert and an expert in qualitativeparticipatoryand interdisciplinary health research.Lisa is also an alum of the inaugural cohort of the Women in Global Health (WGH) “Speakers Bureau” training program and was a member of the Young Forum Gastein (YFG) initiativehaving received YFG scholarships in 20222023 and 2024. She is currently leading multiple third-party funded research projects on antimicrobial resistancebenzodiazepine prescription and usecancer care pathwaysand human papillomavirus (HPV) care pathwaysinvestigating systemic barriers for preventiontreatment accessand awareness. ",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/a/7/csm_Lehner_Lisa_074fc40b94.jpg"
-      },
-      {
-        "speaker": "Pietikäinen, Sirpa",
-        "speakerid": "2729",
-        "organisation": "",
-        "biography": "Sirpa Pietikäinen is a former Member of the Finnish Parliament (1983-2003) and a former Minister of Environment of Finland (1991-1995). She has served as a member of the European Parliament since 2008 as a member of the European People’s Party (EPP). She is a member of the Committee on Women’s Rights and Gender Equality (FEMM)Committee on Economic and Monetary Affairs (ECON) and a substitute in the Committee on Public Health (SANT) and Committee on EnvironmentClimate and Food Safety ENVI). In her workshe has been actively participating in the EU’s equality policies.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/4/3/csm_Sirpa_Pietikaeinen_0625_86a73629eb.png"
-      },
-      {
-        "speaker": "Storer Jones, Ffion",
-        "speakerid": "2725",
-        "organisation": "Deutsche Stiftung Weltbevölkerung (DSW)",
-        "biography": "Ffion Storer Jones is a Senior Advocacy Officer in the Brussels Office of the global health NGO Deutsche Stiftung Weltbevölkerung (DSW). She holds a BSc in Medical Physiology and has been working on global tradehealth and development policies for almost ten years. At DSWshe leads the advocacy efforts at EU level on women’s healthwith a focus on the role of research and innovation in closing the gender health gap globally.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/a/2/csm_Ffion_Storer_Jones_74bcdef510.png"
-      },
-      {
-        "speaker": "Zaiac, Michael",
-        "speakerid": "2767",
-        "organisation": "Daiichi-Sankyo",
-        "biography": "I am passionate about both science and people—a combination that naturally led me to study medicine. After completing my undergraduate studies in BerlinI pursued a surgical career in the UK and Germany. Over timeI discovered my true calling in surgical oncologycaring for patients with breast cancersarcomamelanomaand other malignancies.Driven by a vision to integrate science with patient care and expand treatment options for people with cancerI transitioned into industry research. Since thenI have led teams of various sizes across clinical researchdevelopmentcommercial functionsand medical affairs. I have contributed to the development and launch of therapies across a broad range of areasincluding oncologyimmunologycardiovascular diseasetransplantationand infectious diseases.Throughout my careerI have earned a research MDan MBAFRCS and FFPM qualificationsspecialty registrationand the honorary GFMD. My work has been published across multiple disciplinesincluding surgerymedical affairspublic healthmedicine developmentand the application of AI in healthcare. ",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/0/9/csm_Michael_Zaiac_b694fe09e3.png"
-      },
-      {
-        "speaker": "Azzopardi-Muscat, Natasha",
-        "speakerid": "1264",
-        "organisation": "WHO Regional Office for Europe",
-        "biography": "Dr Natasha Azzopardi-Muscat is the Director of the Division of Country Health Polices and Systems at WHO Regional Office for Europe. She is the Past President of the European Public Health Association.Dr Azzopardi-Muscat qualified as a medical doctor and proceeded to specialize in public health and health service management. Her transdisciplinary research bridging health policyEuropean studies and small states studies led to her PhD entitled “The Europeanisation of health systems: a small state perspective”.She has authored several publications in public health and European health policy.Between 2001 and 2013she occupied various senior positions in the Ministry of Health in Maltaincluding that of Chief Medical Officer. Since 1999Dr Azzopardi-Muscat has also been a resident academic at the University of Maltain the departments of health services management and public health.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/1/8/csm_AzzopardiMuscat_Natasha_new_3586f68cc9.jpg"
-      }
-    ]
-  },
-  {
-    "eventname": "Strengthening primary healthcare in the European Union",
-    "subtitle": "Transfer of best practices supporting solidarity in health",
-    "eventid": "2748",
-    "eventcategory": "Session",
-    "eventshortid": "S2",
-    "date": "2025-09-30",
-    "start": "15:45",
-    "end": "17:00",
-    "location": "Kursaal",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by the Joint Action on the transfer of best praCtices In pRimary CarE (CIRCE-JA), co-funded by the European Union’s EU4Health Programme (2021-2027)",
-    "description": "Healthcare systems have been challenged by the COVID-19 pandemic. In the European Union (EU), the European Commission is facilitating the transfer of best practices in areas where proven interventions can add value in an innovative way. This workshop will delve into the experience of the joint action CIRCE-JA on transfer of best practices in primary care, with the overall objective of strengthening healthcare systems, improving the health and well-being of the populations served and fostering solidarity in cross-border scenarios. Brief descriptions of best practices, transferring methodology, case studies, recommendations for their sustainable implementation will be shared. By embracing solidarity and innovation, CIRCE-JA is promoting sustainable, inclusive healthcare for all. ",
-    "speakers": [
-      {
-        "speaker": "Carini, Elettra",
-        "speakerid": "2881",
-        "organisation": "Italian National Agency for Regional Healthcare Services",
-        "biography": "Elettra Carinimedical doctor specialist in public health. From January 2023 I am part of the ‘NRRP Project Unit’ within the Italian national agency for regional healthcare (AGENAS) which is directly accountable for the implementation of major investments of the National Recovery and Resilience Plan concerning digital health. In particularI am involved in the implementation of the Artificial Intelligence investment that will provide primary care professionals with a platform that uses AI tools to support both clinical and administrative activities. I am also part of the AGENAS team which is leading Work Package 4 \"Sustainability\" within CIRCE-JA.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/a/2/csm_Carini_Elettra_765357d136.png"
-      },
-      {
-        "speaker": "Lionis, Christos",
-        "speakerid": "2880",
-        "organisation": "University of Crete",
-        "biography": "Christos Lionis is a medical doctor and Professor with a distinguished career in primary care and public health educationpracticeand research. Since March 1995he has served at the Clinic of Social and Family Medicine (CSFM)School of MedicineUniversity of Creteas Professor of General Practice and Primary Health Care and Director of CSFM until August 2022. In January 2023he was appointed Professor Emeritus of the University of Crete.He was also serving as Guest Professor of General Practice at the Institute of Health and MedicineUniversity of LinköpingSweden (since 2018)and in December 2024 was elected Professor of Primary Health Care and Public Health at the School of MedicineUniversity of LimassolCyprus.As Principal Investigator and collaboratorProfessor Lionis has contributed to numerous large-scale European and international research initiatives funded by the EU and other global agenciesfocusing on capacity building in primary health care and public health in Greece and worldwide. Passionate about educationhe has been instrumental in advancing medical trainingcontinuing medical educationand quality standards in primary care and public health nationally.He serves in editorial and advisory roles for several international journals and on executive boards of professional organisationsincluding as Chair of the WONCA Working Party on Mental Health. His professional distinctions include being awarded Honorary Fellowship by the Royal College of General Practitioners (2009)the World Organization of National CollegesAcademies and Academic Associations of General Practitioners/Family Physicians – WONCA (2016)and the European Society of Cardiology (2017).Professor Lionis has published 479 papers indexed in PubMedwith an h-index of 70i10 index of 354and 47667 citations (AD Scientific Index26 August 2025).He has also served as a member of the European Commission Expert Panel on Effective Ways of Investing in Health (2019–2022)the Specific Advisory Group of the European Medicines Agency (until 2024)and the National Committee for Mental Health Reform and Bioethics and Biotechnology (since 2022).",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/5/2/csm_Christos_Lionis_37bacd1f39.png"
-      },
-      {
-        "speaker": "Schwarz, Maximilian",
-        "speakerid": "2882",
-        "organisation": "Austrian Public Health Institute",
-        "biography": "Maximilian Schwarz is a general practitioner with a Master’s in Public Health from Johns Hopkins University and additional training in Medical Law from the Danube University Krems. Since February 2023he has been working at the Austrian Public Health Institute (GÖG) in the Department for Primary Health Care and Coordination of Health Service Delivery. In this capacityhe represents GÖG as a consortium partner in the EU initiative CIRCE – Transfer of Best Practices in Pri-mary Care.Maximilian Schwarz is an active contributor to academic and professional communitiesserving as a peer reviewer for scientific journals and presenting at numerous conferences. He also holds teaching roles at the Paracelsus Medical Universitythe University of Applied Sciences Salzburgand the Medical University of Viennacovering topics related to public health and primary care. Additionallyhe is a member of the Advisory Board of the European Forum for Primary Care.Alongside his work at GÖGMaximilian Schwarz practices part-time as a general practitioner in Krems and surrounding areasas well as in a psychiatric rehabilitation clinic in Hollenburg. With previous roles as an epidemic doctor and ward physicianhis career reflects a strong dedication to advancing primary care and public health at both national and international levels.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/3/3/csm_Maximilian_Schwarz_ddcbb71eb3.png"
-      },
-      {
-        "speaker": "Moral Leal, María Luisa del",
-        "speakerid": "2885",
-        "organisation": "Andalusian Government",
-        "biography": "Dr María Luisa del Moral Leal is currently Deputy Regional Minister for Health and Consumer Affairs of the Andalusian Government (AndalusiaSpain)where she holds the highest leadership position in the Regional Ministry after the head of the Ministry. She executes and implements functions assigned (overall coordinationeconomic and strategic planningdefinition and evaluation of healthcare services in Andalusia and coordination with the National Health Systemamong others)as well as monitors the relations and participation of the Regional Ministry of Health and Consumer Affairs and its dependent entities in European Programs and Initiatives or in initiatives with third countries. She previously served as Secretary-General for HumanisationPlanningSocial and Health Careand Consumer Affairs of Andalusia (2022–2023)and as a Member of the Spanish Parliament representing the province of Jaén (2019)where she acted as Spokesperson of the Health Committee.Dr Moral Leal holds a degree in Medicine and Surgery from the Complutense University of Madrid and a PhD in Medicine from the University of Granada. After working as a physicianshe began her academic career at the University of Jaén as Associate Professor of Cell Biology. She has a distinguished academic trajectoryhaving participated in 20 research projects and having led three of them as Principal Investigator. Her work has resulted in numerous scientific publications. She also serves as a reviewer for several international journals and as Review Editor for Frontiers in Pharmacology of Natural Products.She has also held a number of academic management positionsincluding serving as a member of the Governing Council representing Department Chairs (2014–2015) and as Vice-Rector for Students at the University of Jaén (2015–2019).",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/0/5/csm_Maria_Luisa_del_Moral_Leal_a676ec144b.png"
-      },
-      {
-        "speaker": "Dedeu, Toni",
-        "speakerid": "2886",
-        "organisation": "",
-        "biography": "Dr Toni Dedeu is a Senior Expert on Primary Health Care and Integrated Carerecently retired from the WHOwhere he was the WHO European Region Senior Advisor for integrated primary health care.Dr Dedeu is a Medical Doctor specialising in Urology and Family Medicine. He holds three master’s degrees (MSc) in Health EconomicsPrimary and Community Care and Healthcare Management. He has professional experience spanning more than 25 years at the international level in the field of quality assessmenthealth systems developmentprimary health careand integrated care research and implementation. He has held senior positions in health care administration and has worked as a policy makermanagerresearcherpractitionerand implementer of health system reforms. Dr Dedeu was the Chair of the European Association of Regional and Local Authorities (EUREGHA) and CEO of the International Foundation for Integrated Care (IFIC) based in OxfordUK. Former Director of the Agency for Health Quality and Assessment of CataloniaSpain (AQuAS). He has worked on implementing family medicine in several countries. He is a former member of the WONCA Council in his capacity as International Officer of the Spanish Family and Community Medicine Society (SEMFYC). He has been a Family Medicine physician leading multidisciplinary teams and is an advocate of primary health careintegrated care and digital health care. Dr Dedeu has been involved as Principal Investigator and has played other roles in more than forty EU projects within a large diversity of European Commission programmes and initiatives. He is a Scientific and Advisory Board member in several EU projects. Along with his scientific careerhe has published more than 100 high-impact research papers in SCI and SCIE journalsand he is a regular lecturer at several universities in EuropeAsiaCanadaand Australia.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/8/f/csm_Toni_Dedeu_0f7bc93f2b.png"
-      },
-      {
-        "speaker": "Gatzolis, Loukianos",
-        "speakerid": "2904",
-        "organisation": "European Commission Directorate-General for Health and Food Safety",
-        "biography": "Policy Analyst in the Unit ‘State of Health’ of the Directorate-General for Health and Food Safety (DG SANTE)European Commission.Loukianos Gatzoulis holds a PhD in Medical Physics and Medical Engineering from the University of Edinburgha Master’s degree in Bioengineering from the University of Strathclyde and a degree in Electrical Engineering from the Aristotle University of Thessaloniki. He has been working at the European Commission since 2005 and has been involved in several topics such as eHealth; active and healthy ageing; health systems performance assessment; reformsinnovations and investments in health systems; new care models and integrated care.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/5/9/csm_Loukianos_Gatzoulis.png_da7e43012d.png"
-      },
-      {
-        "speaker": "Petelos, Elena",
-        "speakerid": "2898",
-        "organisation": "University of Crete",
-        "biography": "Senior researcher at the University of CreteGreece. Lecturer at Maastricht UniversityThe Netherlands.Public health specialist with a background in medicinemolecular biologyoncologyand evidence-based medicine. Retrained mid-career in public healthpolicy and health economics. An expert on Health Technology Assessmentimplementation researchand foresight studies. She also has extensive experience on trial design (interventional and observational). She serves as the representative of the EFPC to HERA and as Member of the Healthcare Professionals’ Working Party of the European Medicines Agency. She has a strong involvement in international and European societies and networks including those of payers and WHO relevant to health informationdigital healthpublic health and primary care research. Deputy Scientific Coordinator.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/e/5/csm_Elena_Petelos_a24922ec3b.png"
-      }
-    ]
-  },
-  {
-    "eventname": "Connect with WGH Austria",
-    "subtitle": "The road to 2030",
-    "eventid": "2787",
-    "eventcategory": "Networking Break",
-    "eventshortid": "N1",
-    "date": "2025-09-30",
-    "start": "15:15",
-    "end": "15:45",
-    "location": "Conference Centre",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by Women in Global Health Austria",
-    "description": "Connect with Women in Global Health Austria to continue discussing women’s health 2030 at this networking break. Exchange ideas, meet peers, and find out more about the network’s activities.",
-    "speakers": [
-      {
-        "speaker": "Azzopardi-Muscat, Natasha",
-        "speakerid": "1264",
-        "organisation": "WHO Regional Office for Europe",
-        "biography": "Dr Natasha Azzopardi-Muscat is the Director of the Division of Country Health Polices and Systems at WHO Regional Office for Europe. She is the Past President of the European Public Health Association.Dr Azzopardi-Muscat qualified as a medical doctor and proceeded to specialize in public health and health service management. Her transdisciplinary research bridging health policyEuropean studies and small states studies led to her PhD entitled “The Europeanisation of health systems: a small state perspective”.She has authored several publications in public health and European health policy.Between 2001 and 2013she occupied various senior positions in the Ministry of Health in Maltaincluding that of Chief Medical Officer. Since 1999Dr Azzopardi-Muscat has also been a resident academic at the University of Maltain the departments of health services management and public health.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/1/8/csm_AzzopardiMuscat_Natasha_new_3586f68cc9.jpg"
-      },
-      {
-        "speaker": "Kahr-Gottlieb, Dorli",
-        "speakerid": "1246",
-        "organisation": "European Health Forum Gastein",
-        "biography": "Dorli Kahr-Gottlieb has been in her position as Secretary General of the European Health Forum Gastein (EHFG) since 2012. She is responsible for the overall management of the association and the joint development of the association with the teamEHFG Board and Advisory Committee members and national & international partners. Dorli has been passionately involved in the health sector for over 15 yearsstarting with her engagement in the first Austrian Master of Public Health programme at the Medical University of Graz and her work for the European Public Health Association (EUPHA)where she oversaw the coordination of the European Public Health Conference. Dorli holds a degree in Intercultural Competencies and has been engaged in intercultural projects and culture & health trainings. Dorli is a member of the Sciana Health Leaders Network. ",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/3/4/csm_dorli_e0cfde0ecc.jpg"
-      },
-      {
-        "speaker": "Lehner, Lisa",
-        "speakerid": "2514",
-        "organisation": "University of Vienna and AmberMed",
-        "biography": "Lisa Lehner is a health justice researcher at the University of Vienna and Health Programs Director for the NGO AmberMeda Viennese clinic that provides medical care and social counseling to people without health insurance coverage in Austria. Connecting research and evidence generation with real-world advocacyLisa works actively on implementing more just and equitable policies for people who are particularly marginalized within the healthcare systemincluding people without health insurancepeople who use drugspeople experiencing homelessnesspeople who seek asylumsex workersand LGBTQIA+ people - focusingspecificallyon gendered dimensions and the complex intersections of identities and lived realities of people on the ground. She is a health systems expert and an expert in qualitativeparticipatoryand interdisciplinary health research.Lisa is also an alum of the inaugural cohort of the Women in Global Health (WGH) “Speakers Bureau” training program and was a member of the Young Forum Gastein (YFG) initiativehaving received YFG scholarships in 20222023 and 2024. She is currently leading multiple third-party funded research projects on antimicrobial resistancebenzodiazepine prescription and usecancer care pathwaysand human papillomavirus (HPV) care pathwaysinvestigating systemic barriers for preventiontreatment accessand awareness. ",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/a/7/csm_Lehner_Lisa_074fc40b94.jpg"
-      }
-    ]
-  },
-  {
-    "eventname": "Hospitals of the future",
-    "subtitle": "Investing in transformation to meet tomorrow’s needs",
-    "eventid": "2744",
-    "eventcategory": "Session",
-    "eventshortid": "S3",
-    "date": "2025-09-30",
-    "start": "15:45",
-    "end": "17:00",
-    "location": "Conference Centre",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by the Austrian Federal Ministry of Labour, Social Affairs, Health, Care and Consumer Protection in cooperation with the European Observatory on Health Systems and Policies",
-    "description": "Hospitals across Europe are transforming in response to ageing populations, rising chronic diseases, and demands for integrated, person-centred care. With workforce shortages and constrained budgets, there is a shift from hospital-centric models of care to more preventive, outpatient, and home-based care. Hospitals increasingly focus on acute and complex cases, supported by digital innovation and infrastructure. While service consolidation and hospital specialisation are sometimes perceived as threats to local identity and access, it is all the more important to stress the opportunity to strengthen equity, accessibility, and public trust. Too often, discussions on hospital reforms focus on the implications for service delivery and infrastructure, and what hospitals should move away from. This session invites a shift in perspective toward a future where hospitals not only deliver high-quality care but also reinforce the social contract by ensuring accessibility, supporting populations at risk, and embracing innovation. Rather than asking what hospitals should no longer do, we challenge participants to envision what they can and should evolve into, reinforcing their role as essential pillars of a resilient healthcare system.",
-    "speakers": [
-      {
-        "speaker": "Edwards, Nigel",
-        "speakerid": "2788",
-        "organisation": "European Observatory on Health Systems and Policies",
-        "biography": "Nigel Edwards is an independent health policy expert working as an advisor with WHO and a number of UK organisations on health policyplanning and change management with a particular interest in the future of primary care and hospitals. He is a Senior Expert Advisor to the European Observatory on Health Systems and Policies. Nigel was Chief Executive at the Nuffield Trust from 2013 to 2023. He has a long career in health policy and working on innovation and change in healthcare delivery and in providing challenging analysis on health policy. He has a strong interest in using different disciplines to inform health policy.He has worked for the King’s FundKPMG’s global health practice and the NHS Confederation where he was Director of Policy for 11 years. Prior to that he worked at the London School of Hygiene and Tropical Medicinewhere he remains an honorary visiting professor. He is also an Honorary Professor at the Health Services Management Centre at Birmingham University.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/b/c/csm_Edwards_Nigel_9abf0599aa.png"
-      },
-      {
-        "speaker": "Reich, Katharina",
-        "speakerid": "2848",
-        "organisation": "Austrian Federal Ministry of Labour",
-        "biography": "Dr. Katharina Reich has been Head of the Public Health and Health System Section and Director General for Public Health at the Austrian Federal Ministry of LaborSocial AffairsHealthCareand Consumer Protection since December 2020. She is also Chair of the Federal Office for Safety in Health Care (BASG) and a member of the Austrian Federal Health Commission.She studied medicine in Vienna and has been working as a general practitioner in various clinical areas since 2007. In additionshe has completed training and worked in the areas of patient safetyquality managementand clinical risk managementas well as serving as a hygiene officer in hospital hygiene and emergency medicine.Through her five years as Medical Director at the Barmherzige Brüder Hospital in Vienna and as Deputy Medical Director at Hietzing Hospitalshe has gained in-depth management knowledge. The implementation and establishment of methods and instruments for greater patient safetyphysician trainingand process optimization according to lean management methods.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/4/0/csm_Katherina_Reich_5265400e97.png"
-      },
-      {
-        "speaker": "Lelkes, Ildikó",
-        "speakerid": "2847",
-        "organisation": "State Secretariat for Health",
-        "biography": "Dr. Ildikó LELKES is Head of Health Financing and Development DepartmentSecretariat of State for HealthMinistry of Interior AffairsHungary.She holds an MSc in Business Administration/Financea CEMS (Community of European Management Schools) Master’s in International Management and is a Juris Doctor. With more than 15 years’ experience in health sector governanceat present she is responsible for national scale projectspolicy documents and government proposals in the fields of evidence-based health policydigital healthtechnology assessmenthealth financingbudgetinghealth insurancestatistics and health system performance analysis. Recent major initiatives with her key contribution include first general legislation on telemedicineintegrated national program on patient-centred maternity careintroduction of innovative payment techniques and comprehensive revision of DRG based financing.Ildikó is working closely with international organizations including WHO and OECD. She is delegate of Hungary for OECD Health Committee and Joint Network of Budget and Health Officials as well as member of WHO Strategic Partners’ Initiative for Data and Digital Health working group. She has been fulfilling leading roles in designingmanaging and implementing several EU Technical Support Instrument projects. She is member of Quality Governance Collaborative Faculty of the Royal College of Physicians of Edinburgh.She is fluent in HungarianEnglishFrenchItalian and speaks intermediate Russian.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/a/9/csm_Ildiko_Lelkes_v2_84babcfe45.jpg"
-      },
-      {
-        "speaker": "Eichwalder, Stefan",
-        "speakerid": "1449",
-        "organisation": "Austrian Federal Ministry of Social Affairs",
-        "biography": "Stefan Eichwalder is director of the health systems division at the Federal Ministry of Social AffairsHealthCare and Consumer Protection in Austria. Mr. Eichwalder is member of various working groups on the NationalEuropean and International level and Vice-Chair of the Steering Committee of the European Observatory on Health Systems and Policies.Before joining the ministry in 2012 he was working as a researcher in the field of health economics and in the statistics and research branch of the United Nations Industrial Development Organization. His expertise is in health economics and health policy which he combines with the experience from his academic work.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/a/a/csm_Eichwalder_Stefan_650ece1823.jpg"
-      },
-      {
-        "speaker": "Håkansson, Peter",
-        "speakerid": "2901",
-        "organisation": "Karolinska University Hospital",
-        "biography": "Peter Håkansson is Head of Medical Technology at Karolinska University Hospital and Lead for Region Stockholm’s Hospital@Home project. He has more than 25 years of leadership experience at the intersection of healthcare and technologywith a strong focus on innovation and digital transformation. His career spans both the healthcare industry and provider sectors in developed and developing countriesgiving him a broad and unique perspective on the challenges and opportunities in modern healthcare.Peter holds a Master of Science in Medical Technology from the Royal Institute of Technology in Stockholm.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/3/7/csm_Peter_Haakansson_31d49c0e2f.png"
-      },
-      {
-        "speaker": "Königsberger-Ludwig, Ulrike",
-        "speakerid": "2797",
-        "organisation": "Austrian Federal Ministry of Labour",
-        "biography": "Ulrike Königsberger-Ludwig was sworn in as State Secretary in the Ministry of LabourSocial AffairsHealthCare and Consumer Protection by Federal President Alexander Van der Bellen on the 2nd of April 2025.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/4/d/csm_Konigsberger-Ludwig_Ulrike__9d974d10ac.jpg"
-      },
-      {
-        "speaker": "Panteli, Dimitra",
-        "speakerid": "1257",
-        "organisation": "European Observatory on Health Systems and Policies",
-        "biography": "Dimitra leads the Observatory’s work on innovation and its Team in Berlinaiming to support evidence-informed health policy and practice in Europe. Her work spans biomedicaltechnological and organizational innovationwith particular areas of interest around access to medicinesantimicrobial resistancedigital healthhealth(care) and the environmentand new models of care.Before joining the ObservatoryDimitra was a senior research fellow and the managing director at the Department of Health Care Management at Technische Universität Berlin (TUB). She holds a doctorate in public health from the TUBa Masters in Science – Public Health from the Charité Medical Universityand a Medical Degree from the Aristotle University of Thessaloniki. She spent the 2016–2017 academic year as a Commonwealth Fund Harkness Fellow in WashingtonDC.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/a/5/csm_Panteli_Dimitra_0724_cf4387d6ee.jpg"
-      }
-    ]
-  },
-  {
-    "eventname": "Gastein Newcomers &amp; Returners",
-    "eventid": "2770",
-    "eventcategory": "Networking Break",
-    "eventshortid": "N2",
-    "date": "2025-09-30",
-    "start": "17:00",
-    "end": "17:30",
-    "location": "Room Praxis",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by the European Health Forum Gastein",
-    "description": "Are you participating in the EHFG for the first time, or are you looking forward to re-establishing connections with friends and colleagues from the previous health policy events? As we often hear, the EHFG is not all about content, it’s also about networking! This fun and interactive networking break serves as a unique opportunity to kick-start your EHFG 2025 experience by connecting with other conference delegates. We are looking forward to your smiles and participation!",
-    "speakers": []
-  },
-  {
-    "eventname": "Social, green, and arts prescriptions for health",
-    "subtitle": "Harnessing the power of community interventions for well-being",
-    "eventid": "2717",
-    "eventcategory": "Session",
-    "eventshortid": "S4",
-    "date": "2025-09-30",
-    "start": "17:30",
-    "end": "18:45",
-    "location": "Conference Centre",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by the Northern Dimension Partnership in Public Health and Social Well-being in collaboration with EuroHealthNet",
-    "description": "What if your next prescription wasn’t a pill, but a painting class, a community garden, or a walking group? This session explores how social prescribing, including arts, green, and community-based interventions, can strengthen social ties, improve well-being, and reduce pressure on healthcare systems.Bringing together leading experts and high-level policymakers, the discussion will spotlight evidence-based strategies to scale these non-medical approaches across Europe. It will also examine how such interventions can rebuild trust, foster inclusion, and promote sustainability in health.Speakers will share success stories, policy pathways, and funding solutions, while not shying away from the challenges of implementation. With an emphasis on cross-sectoral collaboration, co-governance, and innovation, the session invites participants to reimagine what a resilient, person-centred health system can look like.",
-    "speakers": [
-      {
-        "speaker": "Dias, Sonia",
-        "speakerid": "2778",
-        "organisation": "National School of Public Health",
-        "biography": "Sónia Dias is Director and Full Professor at the National School of Public HealthUniversidade NOVA Lisboa. She is a member of the Executive Board of the Comprehensive Health Research Centre (CHRC). Her scientific activity focuses on health promotiondisease preventionsocio-behavioural sciences and health literacywith a focus on health inequalities and vulnerable populations. She has extensive experience in Public Health projects aimed at understanding and responding to health needsas well as the designimplementation and evaluation of health-promoting interventions and policiesusing participatory research and a combination of quantitative and qualitative methods. She seeks to produce evidence for innovative policies and action strategies on complex public health issues that improve the health of populations.She acts as an expert in international organizations such as ECDCWHO and IOM. She is a member of numerous scientific networks in the field of Public Health and is a member of the EUPHA Steering Committee ‘Section on Migrant Health’. She was a member of FCT’s Scientific Council for Life and Health Sciences.She was director of the International Public Health Unit at IHMTcoordinated the PhD in International Health and the thematic line ‘Health Challenges for Travellers and Migrants’ at the ‘Global Health and Tropical Medicine’ centre at IHMT NOVA.PhD and an aggregate degree in International Health from the NOVA University Lisbon and a degree in Psychology from the University of Lisbon.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/0/d/csm_Dias_Sonia_5a06bb4400.jpg"
-      },
-      {
-        "speaker": "Filz, Richard",
-        "speakerid": "2776",
-        "organisation": "RhythmOne",
-        "biography": "Born in Wr. Neustadt; After graduating from high schoolDrum Set & Latin PercussionRichard Filz studied at the University of Music in Vienna with Prof. Fritz Ozmec and at the Vienna Conservatory with Prof. Walter Grassmann; 1991 diploma in jazz drums with distinction; further lessons at the \"Drummers Collective New York\". 2008 Completion of the Jazz Drums Master's degree at the Vienna Conservatory Private University with the academic degree Master of Arts (MA). In 2012 he received his doctorate from the University of Music and Performing Arts Vienna. Topic of the dissertation: \"Rhythm Coaching - AspectsMethodsComparison\" (PhD).https://filz.at/",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/d/2/csm_Filz_Richard_6f0511de3a.jpg"
-      },
-      {
-        "speaker": "Jakubauskienė, Marija",
-        "speakerid": "2780",
-        "organisation": "Lithuania",
-        "biography": "Dr. Marija Jakubauskienė is a public health expertresearcher and academic leader currently serving as the Minister of Health of the Republic of Lithuania. Dr. Jakubauskienė brings to the role more than two decades of experience in public health sciencebiomedical researchmedical humanities and health policy development.Dr. Jakubauskienė holds a PhD in Biomedical Sciences from Vilnius Universitywhere additionally earned MBA in Entrepreneurship. The Minister held a number of senior academic positionsincluding Associate Professor and Director of the Institute of Health Sciences at Vilnius University's Faculty of Medicine. Dr. Jakubauskienė leadership has extended to international engagement as Vice-Dean for International Affairs and Programmes and played an active role in advancing public mental health through her contributions to the European Public Health Association (EUDHA)where served as President of the Public Mental Health Section and as a member of the International Scientific Committee. Marija’s research interests included population health sciencemental healthhealth systempolicy research and medical humanities.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/9/d/csm_Jakubauskiene___Marija_2f6f012bf2.jpg"
-      },
-      {
-        "speaker": "Keiding, Stine",
-        "speakerid": "2779",
-        "organisation": "Cultural Region Funen",
-        "biography": "Since 2019Stine has organisedfinancedand developed Art on Prescription programmes at both regional and international levelsaimed at promoting mental well-being among diverse groups of citizens. She is currently leading the Interreg project Art on Prescription in the Baltic Sea Region (2023–2025) and possesses a deep understanding of the complexities inherent in cross-sectoral initiatives—particularly the need to accommodate differing logicsprioritiesand objectives.As Programme Manager for Cultural Region Funen—a partnership between nine Danish municipalities that jointly fund long-term cultural and artistic initiatives across municipal boundaries—Stine brings over 15 years of experience in managing multi-year projects involving municipalitiescitizensand professionals from a range of disciplines. Her work focuses on promoting knowledge exchangeco-creationstrategic planningand policy developmentwith the overarching aim of enhancing the professional and artistic quality of local cultural initiatives while ensuring they deliver meaningful value to the community.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/6/9/csm_Keiding_Stine_8723c85925.jpg"
-      },
-      {
-        "speaker": "Nurm, Ülla-Karin",
-        "speakerid": "2777",
-        "organisation": "Northern Dimension Partnership in Public Health and Social Well-being",
-        "biography": "Dr. Ülla-Karin Nurm is the Director of the Secretariat of the Northern Dimension Partnership in Public Health and Social-Wellbeing (NDPHS)where she drives collaboration and knowledge exchange to tackle health and social challenges in the region. The NDPHS also serves as the Coordinator for the Policy Area “Health” within the EU Strategy for the Baltic Sea Region (EUSBSR).A trained medical doctorÜlla-Karin brings more than twenty years of experience in public healthpolicy developmentand international cooperation. Her professional and academic interests lie in disease preventionhealth promotionbehavioral insightsand the design of effective interventions and capacity-building strategies.She has spearheaded numerous regional and EU-level initiativesranging from infectious disease prevention and risk communication to large-scale health promotion programs. She is particularly committed to advancing integrated governance across sectors to achieve health and equity goals. Her current work centers on fostering cross-sectoral and multi-level collaboration to enhance the mental health and well-being of people in communitiespromote workplace well-beingand develop models for active and healthy ageing in professional settings.She works closely with partners and regional stakeholdersbringing a strong commitment to cross-sectoral engagement and community-driven approaches to health and well-being. Her work is guided by a holistic vision that places healthequityand sustainability at the core and she values the power of networking and mutual learning to drive lasting progress.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/7/3/csm_Nurm_Ulla-Karin_d520faac5c.jpg"
-      },
-      {
-        "speaker": "Maassen, Alison",
-        "speakerid": "2471",
-        "organisation": "EuroHealthNet",
-        "biography": "Alison Maassen is a Programme Manager at EuroHealthNet. She is responsible for supporting the Director in overseeing the development and implementation of EuroHealthNet’s programming and leads EuroHealthNet’s work in the area of vaccination. Alison coordinated the IMMUNION (“Improving IMMunisation cooperation in the European UNION”) projectfunded by the European Union’s 3rd Health Programmeand leads Dissemination and Communication activities for the RIVER-EU (“Reducing Inequalities in Vaccine uptake in the European Region – Engaging Underserved communities”) projectfunded by the Horizon 2020 research programme.Alison has significant experience in project and association managementas well as experience in designing and implementing health promotion interventions at the community level. Prior to joining EuroHealthNetshe worked extensively in the field of immunisationserving as Programme Manager for the Network for Education and Support in Immunisation at the University of Antwerpand as a founding member of the Secretariat for the International Association of Immunization Managers (now the Boost Community) at the Sabin Vaccine Institute in Washington DC.Alison holds an MSc in Public Health (Health Promotion) from the London School of Hygiene and Tropical Medicineas well as a BA in International Affairs and Anthropology from The George Washington University in Washington DC. She has worked at global and (sub)national levels with policy makershealth professionalscommunity leadersresearchersand other stakeholders from regions as diverse as Latin Americathe Middle East and North Africaand Southeast Asia.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/e/a/csm_MaassenAlisonTYPO3_a190030ace.png"
-      }
-    ]
-  },
-  {
-    "eventname": "Welcome buffet",
-    "eventid": "2741",
-    "eventcategory": "Evening Event",
-    "eventshortid": "EE",
-    "date": "2025-09-30",
-    "start": "18:45",
-    "end": "21:30",
-    "location": "Hotel Sendlhofers",
-    "lat": "",
-    "lng": "",
-    "description": "Join us for an informal dinner at Hotel Sendlhofers to kick off your conference experience. ",
-    "speakers": []
-  },
-  {
-    "eventname": "Transparency of public contributions to drug development",
-    "subtitle": "Exploring policy options for fair pricing",
-    "eventid": "2730",
-    "eventcategory": "Session",
-    "eventshortid": "S5",
-    "date": "2025-10-01",
-    "start": "09:00",
-    "end": "10:00",
-    "location": "Kursaal",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by HI PRIX & the Austrian Institute for Health Technology Assessment, Austrian Federal Ministry of Labour, Social Affairs, Health, Care and Consumer Protection, Österreichische Gesundheitskasse, and Drugs for Neglected Diseases initiative",
-    "description": "Article 57 of the revision of EU pharmaceutical legislation will require market authorisation applicants to publicly declare any direct financial support for research and development (R&D) activities received from public authorities. Public contributions to drug research R&D are manifold but not well documented. Aligned public policies enforcing transparency on R&D investments are key for implementing the transparency clause: for example, standardisation of reporting and conditions attached to public support are under consideration. While frameworks and methodologies for searching and documenting public contributions to R&D of products have been developed and applied in multiple case studies (in the EC-project HI-PRIX, GA 101,095,593), using such data in price-setting and in price negotiations is still up for debate. This session will explore policy options to inform the ongoing discussions about fair pricing under the revision of the EU pharmaceutical legislation.",
-    "speakers": [
-      {
-        "speaker": "Childs, Michelle",
-        "speakerid": "2734",
-        "organisation": "Drugs for Neglected Diseases initiative",
-        "biography": "Michelle Childs joined DNDi in April 2016 as Head of Policy Advocacy. She joined the Executive Team in 2025 as Policy Advocacy Director.Ms Childs has an extensive experience in proposing and advocating for solutions to access and innovation barriers faced by developing countries and health providers. She has helped to develop several proposals on innovation using open knowledge principles for Chagas diseaseTB and was a co-author of the original proposal for the creation of a patent pool for HIV medicines by Unitaid. Prior to thatMs Childs was an expert adviser for the WHO to help further develop four open knowledge demonstration projects from IndiaBrazilSouth Africa and Thailand.Until March 2013Michelle was Director of Policy Advocacy at Médecins Sans Frontières Access Campaignleading a multidisciplinary and multinational team. She has worked for leading consumerhealth and knowledge rights organizations and public authorities including KEIWhich?and the Hong Kong and UK telecom regulatorsand as member of a number of NGO and public advisory boards including the four-person advisory board of the UK competition authority. She started her career as a commercial litigation lawyer in a City of London law firm.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/0/7/csm_Childs_Michelle_33facc3644.jpg"
-      },
-      {
-        "speaker": "Demotes, Jacques",
-        "speakerid": "2733",
-        "organisation": "European Clinical Research Infrastructure Network",
-        "biography": "Jacques DemotesMD-PhDis a neurologist and professor of cell biology. While leading a clinical research centre (INSERM-CHU Bordeaux)he founded in 2004 the European Clinical Research Infrastructure Network (ECRIN)a European research infrastructure supporting multi-country clinical research in Europe. ECRIN is a publicnon-profitintergovernmental organization with an ‘ERIC’ legal status since 2013with headquarters in Paris and national hubs in each of its 13 member countries. ECRIN federates more than 130 clinical trial unitsdevelops tools and procedures to facilitate multinational trialsand supports investigators and sponsors during the planning and conduct of multinational clinical trialsin any disease areathrough consulting and operational trial management services.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/a/4/csm_Demotes_Jaques_f43abe9887.jpg"
-      },
-      {
-        "speaker": "Hågå, Audun",
-        "speakerid": "1788",
-        "organisation": "Norwegian Medical Products Agency",
-        "biography": "Audun Hågå is the former Director General of the Norwegian Medical Products Agencya position he held from 2013 to 2024.Prior to his position as DGAudun was Deputy Director General in the Norwegian Ministry of Health and Care Services for ten years and he also worked for six years as Head of Department for pricing and reimbursement at the Norwegian Medicines Agency. Before his duties as a civil servant Audun worked for 10 years in the pharmaceutical industry based both in Norway and Sweden.During his tenure as Director Generalhe was particularly focused on promoting collaboration across disciplines within the agency. Specificallyhe has been committed to establishing strong connections between regulatory work and HTA/health economicsboth internally and across Europe.He holds a Cand. Scient degree from the University of Oslo (Norway) in Biology (Zoo-physiology).",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/1/0/csm_Haga_Audun_225948d74d.jpg"
-      },
-      {
-        "speaker": "Villa, Ilaria",
-        "speakerid": "2735",
-        "organisation": "Telethon Foundation",
-        "biography": "Ilaria Villa is a leader in the field of biomedical researchcurrently serving as the CEO of Fondazione Telethona prominent organization dedicated to funding research for rare genetic diseases and to transforming discoveries into accessible therapies for patients in need. Before her role at Fondazione TelethonIlaria gained industry experience at ZambonUCB and Roche in the development and commercialization of innovative treatments for severe diseases with greater focus in epilepsyneuroinflammation and immunology. Ilaria is passionate for fostering collaborations between researchershealthcare professionalsand industry partnersensuring that groundbreaking research translates into tangible benefits for patients. Ilaria holds a degree in Economics from the University of Siena",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/b/f/csm_Villa_Ilaria__47d19ecb39.jpg"
-      },
-      {
-        "speaker": "Wild, Claudia",
-        "speakerid": "2732",
-        "organisation": "Innovative Health Initiative",
-        "biography": "Claudia Wildformer director of the Austrian Institute for Health Technology Assessment (AIHTA)since March 2025retiredbut still active in diverse Advisory Boards(IHI) and EU projects (such as HI PRIX and ASSESS DHT).",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/3/6/csm_Wild_Claudia_e6e966dd7f.jpg"
-      },
-      {
-        "speaker": "Natsis, Yannis",
-        "speakerid": "580",
-        "organisation": "European Social Insurance Platform",
-        "biography": "Yannis Natsis is the Director of the European Social Insurance Platform (ESIP)the umbrella organisation bringing together 45 national statutory social security institutions from 18 countries. ESIP is the voice of social protection and security in Europe or as Yannis puts it one of Europe’s truest treasures.He has more than 10 years of experience in EU advocacy and policymaking. Prior to joining ESIP in February 2022he led the advocacy for better and affordable medicines at the European Public Health Alliance (EPHA). In May 2019he was appointed by EU Member States to the Management Board of the European Medicines Agency (EMA)a position he held until December 2021. AdditionallyYannis has been a Board member of the European Health Forum Gastein (EHFG)the leading EU health policy platform since 2018.Yannis previously worked for the TransAtlantic Consumer Dialogue (TACD) focusing on health and pharmaceutical policies. From 2006-2010he was an investigative reporter for Greece's award-winning TV news programme \"Fakeli\" and a contributor to one of Greece’s most respected dailies “Kathimerini”.He has a Master's degree in International Conflict Analysis from the University of KentUK and a Bachelor's degree in European Studies from Pantion University of Social and Political SciencesAthensGreece. A Greek nationalhe is fluent in GreekEnglish and French.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/1/8/csm_Natsis_Yannis_f3896a7690.jpg"
-      }
-    ]
-  },
-  {
-    "eventname": "Climate change and health inequalities",
-    "subtitle": "Protecting the health of the most vulnerable from climate threats",
-    "eventid": "2763",
-    "eventcategory": "Session",
-    "eventshortid": "S6",
-    "date": "2025-10-01",
-    "start": "09:00",
-    "end": "10:00",
-    "location": "Conference Centre",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by the European Climate and Health Observatory and the European Commission Directorate-General for Research and Innovation",
-    "description": "The climate crisis poses a global threat to human health. As the fastest warming continent, Europe has in recent years experienced the devastating human and economic impacts of this crisis with repeated and severe instances of heat waves, floods, and wildfires. Although climate change affects everyone’s health, it disproportionately affects the most vulnerable, due to factors such as age, gender, ethnic origin, occupation, and health or socio-economic status. Increasingly, severe climatic events are affecting an ageing population with an already high prevalence of chronic diseases, which is reliant on a strained healthcare system. This creates challenging conditions in which existing inequalities are exacerbated and vulnerable groups stand to lose the most. This session will explore how climate change amplifies individual and collective vulnerabilities and increases health-related pressures across different local communities and healthcare systems, in order to understand the course of action needed to reduce impacts in vulnerable groups. The panel will reflect on solutions and support tools that can reduce vulnerability, mitigate health impacts, build health resilience, and deliver climate justice. Join us in this exciting discussion on what can be done to help vulnerable groups in protecting their health against climate change and by extension make communities in Europe and beyond stronger, healthier, and more resilient.",
-    "speakers": [
-      {
-        "speaker": "Araujo, Rita",
-        "speakerid": "2775",
-        "organisation": "European Commission Directorate-General for Research and Innovation",
-        "biography": "Rita Araujo is Team Leader of the EnvironmentClimate and Health team in the Directorate-General for Research and Innovation (DG RTD) of the European Commission in Brussels. In her roleshe oversees and contributes to the design and implementation of the Horizon Europe Work Programmes for health researchspecifically focusing on environmentclimate and health research topics. She also works with project clustershelping them translate their knowledge and data into policy and practice and fostering connections between their research outcomes and the larger EU policymaking ecosystem. Prior to her time in DG RTDRita spent several years working as a Scientific Officer in the Commission's Joint Research Centre in IspraItaly. She comes from an academic background in biology.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/e/9/csm_Araujo_Rita_b323713146.jpg"
-      },
-      {
-        "speaker": "Curtarelli, Maurizio",
-        "speakerid": "2782",
-        "organisation": "European Agency for Safety and Health at Work",
-        "biography": "Maurizio Curtarelli holds a MSc in Social Research Methods and Statistics from the City University of London and a PhD in Economics from the University of Rome IIIand currently works as a Senior Research Project Manager at the Prevention and Research Unit of the European Agency for Safety and Health at Work in Bilbaowhere he leads research on climate change and on the digitalization of work and their implications for occupational health and safety. He previously worked as a researcher at the European Foundation for the Improvement of Living and Working Conditions in Dublin and at the National Institute for Public Policy Analysis in Rome.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/e/b/csm_Curtarelli_Maurizio_09c9014868.jpg"
-      },
-      {
-        "speaker": "Puttati, Vania",
-        "speakerid": "2784",
-        "organisation": "EuroHealthNet",
-        "biography": "Vania is part of the Policy Platform and provides expertise and first hand information on EU processes and policies relevant for the public health sectorhealth equity and social determinants of health. He is responsible for the coordination of the annual analysis of the European Semester and Recovery Plans. Vania is also in charge of monitoring of and contributing to EU digital policies developmentsincluding the participation to the EU eHealth Stakeholder Group. MoreoverVania is project officer working on the Joint Action on Health Equity in Europe (JAHEE).Prior to joining EuroHealthNetVania worked for a number of Brussels-based organisationsincluding a Blue Book traineeship at the European Commission (DG SANTE). Vania holds two MA degrees in Political Science and European Studies.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/1/7/csm_Puttati_Vania_582f8da4f2.jpg"
-      },
-      {
-        "speaker": "Racioppi, Francesca",
-        "speakerid": "2783",
-        "organisation": "WHO Europe",
-        "biography": "I have more than 30 years of international experience in environment and health policies and science. My work experience includes sustainable and healthy transport and urban policies and interventionsthe promotion of “health in all policies” approachesclimate changeOne Healthhealth impact assessmentviolence and injury preventionand consumer safety. In 2018 I was awarded a Honorary Doctorate by the Swedish School of Sport and Health Science in StockholmSwedenfor my \"leading engagement in environmental health and active transport\". I joined the World Health Organization in 1997initially as an Associate Professional Officer sponsored by the Italian Government. Over timeI have held positions of growing responsibility. I had the privilege of setting up the first programme on Violence and Injury Prevention in the WHO European Region in 2004served as Head of Office a.i. in the WHO European Centre for Environment and Health in Rome (2007-2012)as Senior Advisor on Multisectoral Policies and Partnerships for Environment and Health in Copenhagen (2012-2018) and took the position of head of the WHO European Centre on Environment and Health in Bonn in 2018. Before joining the World Health OrganizationI was a Section HeadProfessional and Regulatory Services at Procter and Gamblewhere I worked from 1989 to 1997 on matters related to consumer and environmental safetyproducts compliance with relevant European Directives and Regulationsand human and environmental toxicology.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/0/d/csm_Racioppi_Francesca__e0352ca794.jpg"
-      },
-      {
-        "speaker": "Semenza, Jan",
-        "speakerid": "2781",
-        "organisation": "Lancet Countdown in Europe",
-        "biography": "Jan C. Semenza is an environmental epidemiologist with 30 years of experience in climate change and health research. He led the US Centers for Disease Control and Prevention (CDC) response to the 1995 heat wave in Chicago that claimed the lives of more than 700 individuals. He elucidated the underlying medicalenvironmentalsocietaland behavioral causes of heat-related mortality and characterized the co-morbid conditions of heat-related morbidity. These insights became the blueprint for heat health action plans as early warning systems for heat waves. As a section head at the European Centre for Disease Prevention and Control (ECDC) he was responsible for the work programme on infectious diseases and climate changewhere he operationalized climate-based early warning systems. He is a lead author of the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Reportco-author of the global Lancet Countdown reportsand the lead of the European Lancet Countdown adaptation working group. He is currently associated with Umeå University in Sweden and Heidelberg University in Germany. ",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/1/0/csm_Semenza_Jan_de75c1c5b3.jpg"
-      },
-      {
-        "speaker": "Kazmierczak, Aleksandra",
-        "speakerid": "2274",
-        "organisation": "European Environment Agency",
-        "biography": "Dr. Aleksandra Kazmierczak is an expert in climate change and human health at the European Environment Agency (EEA). She coordinates the European Climate and Health Observatory - a partnership between the European Commissionthe European Environment Agency (EEA)and several other organisations. Aleksandra is also working on environmental health inequalities in relation to access to green spaceexposure to climate change hazardsand social justice in adaptation responses. She has a long experience in urban and social aspects of adaptation to climate change. Before joining EEA in 2017Aleksandra carried out research in the fields of human geography and spatial planning at University of Manchester and Cardiff UniversityUKfocusing on assessing social vulnerability to climate change and the role of green infrastructure for human health and well-being.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/2/1/csm_Kazmierczak_Alexandra_08180b9a22.jpeg"
-      }
-    ]
-  },
-  {
-    "eventname": "Solidarity in action on mental health and psychosocial support",
-    "subtitle": "Learnings from people affected by the conflict in Ukraine",
-    "eventid": "2722",
-    "eventcategory": "Session",
-    "eventshortid": "S8",
-    "date": "2025-10-01",
-    "start": "10:30",
-    "end": "11:45",
-    "location": "Conference Centre",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by the International Federation of Red Cross and Red Crescent Societies (IFRC)",
-    "description": "In one of the largest responses to mental health challenges ever implemented, a partnership between the International Federation of Red Cross and Red Crescent Societies (IFRC) and the European Commission provided mental health and psychosocial support (MHPSS) to persons affected by the international armed conflict between Russia and Ukraine. The project involved 28 National Red Cross Societies and local partners, exemplifying solidarity in health through collective action and shared responsibility for the psychological recovery and well-being of the affected people, both in Ukraine and among those displaced across Europe. The session will draw on the insights of people with lived experience while outlining key learnings from the project. Furthermore, it will explore what is required for impactful and sustainable MHPSS interventions, reinforcing a forward-thinking approach on how to build resilient, accessible, and proactive mental health systems of the future.",
-    "speakers": [
-      {
-        "speaker": "Bischoff Ebbesen, Birgitte",
-        "speakerid": "2774",
-        "organisation": "International Federation of Red Cross and Red Crescent Societies (IFRC)",
-        "biography": "Ms. Birgitte Bischoff Ebbesen spent more than 15 years working with the Danish Red Cross. She headed the disaster management department and worked as Head of Asia Regionbased in Phnom PenhCambodia. Since 2014she was the International Director of Danish Red Crossand Co-chair of the IFRC Reference Centre for Psychosocial Support in Denmark and member of the British Red Cross/IFRC Cash Advisory Board. Ms. Bischoff also ran repatriation programmes for the Danish Refugee Council in NW Somalia and Guatemala. She also spent time in BrusselsBelgium working on fundraising and external relations for the UN High Commissioner for Refugees office. Ms. Bischoff is from Denmark. She holds a Master’s degree in Public Administration from Roskilde University in Denmark as well as a diploma in High-Performance Leadership from the Copenhagen Business School.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/1/c/csm_Birgitte_Bischoff_Ebbesen_e894544037.png"
-      },
-      {
-        "speaker": "Goloktionova, Ganna",
-        "speakerid": "2766",
-        "organisation": "International Movement MHPSS Hub",
-        "biography": "Ganna Goloktionova is a Mental Health and Psychosocial Support (MHPSS) Specialist and Regional Advisor for Europe and Central Asia at the International Movement MHPSS Hub. She supports Red Cross and Red Crescent National Societies in strengthening their capacity to integrate mental health into emergency response and community-based programsaddressing the psychological impacts of armed conflictforced displacementand natural disasters. With a background in Social Sciencesshe brings extensive experience in MHPSS across emergencydisplacementand conflict settings.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/6/8/csm_Ganna_Goloktionova_ac130a36bf.png"
-      },
-      {
-        "speaker": "Jakubauskienė, Marija",
-        "speakerid": "2780",
-        "organisation": "Lithuania",
-        "biography": "Dr. Marija Jakubauskienė is a public health expertresearcher and academic leader currently serving as the Minister of Health of the Republic of Lithuania. Dr. Jakubauskienė brings to the role more than two decades of experience in public health sciencebiomedical researchmedical humanities and health policy development.Dr. Jakubauskienė holds a PhD in Biomedical Sciences from Vilnius Universitywhere additionally earned MBA in Entrepreneurship. The Minister held a number of senior academic positionsincluding Associate Professor and Director of the Institute of Health Sciences at Vilnius University's Faculty of Medicine. Dr. Jakubauskienė leadership has extended to international engagement as Vice-Dean for International Affairs and Programmes and played an active role in advancing public mental health through her contributions to the European Public Health Association (EUDHA)where served as President of the Public Mental Health Section and as a member of the International Scientific Committee. Marija’s research interests included population health sciencemental healthhealth systempolicy research and medical humanities.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/9/d/csm_Jakubauskiene___Marija_2f6f012bf2.jpg"
-      },
-      {
-        "speaker": "Lysenko, Olha",
-        "speakerid": "2876",
-        "organisation": "Latvian Red Cross",
-        "biography": "Olha Lysenko is a humanitarian professional with over three years of experience in project management at the Latvian Red Cross. She was a member of the Emergency Response Team at the Ukrainian Red Cross since 2018before becoming a displaced person and continuing her humanitarian mission in Latvia. At LatRCshe has led initiatives on migrant supportcommunity resilienceand psychosocial aidincluding Psychological First Aid (PFA) programmes for displaced populations. Olha has strong skills in stakeholder coordinationvolunteer engagementand community-based project implementation. She is passionate about building inclusive support systems that empower vulnerable groups and strengthen social cohesion.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/8/3/csm_Olha_Lysenko_5cbe11ed20.png"
-      },
-      {
-        "speaker": "Modoran, Cristina",
-        "speakerid": "2791",
-        "organisation": "European Commission Directorate-General for Health and Food Safety",
-        "biography": "Cristina Modoran is Head of the Policy Strategy Unit at the European Commission’s Directorate-General for Health and Food Safety (DG SANTE). In this roleshe leads a team providing strategic advice to shape the EU’s health and food safety priorities and to support key Commission initiatives. With over 15 years of experience in EU institutionsCristina has a solid track record in EU policy-makingincluding key roles in managing the COVID-19 health crisis. Her earlier career focused on trade policyinternational negotiationsand development cooperation—reflecting a strong foundation in external relations and strategic partnerships.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/2/3/csm_Modoran_Cristina_414b3310b2.png"
-      },
-      {
-        "speaker": "Soova, Kadri",
-        "speakerid": "2765",
-        "organisation": "Mental Health Europe",
-        "biography": "Kadri is the Director of Mental Health Europebringing over 15 years of experience in human rightssocial inclusionand migration policy. Before joining MHEshe led the Social Inclusion and Migration Unit at the Red Cross EU Office and served for over a decade at PICUMwhere she was Deputy Director and a key voice in advancing the rights of migrants. Kadri’s career spans advisory and management roles in government and civil societywith a strong focus on EU policy and systemic change. She holds master’s degrees in Law and in Human Rights and Democratisationand is deeply committed to promoting equitydignityand mental well-being across Europe.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/5/d/csm_Kadri_Soova_c1092e4bfa.png"
-      },
-      {
-        "speaker": "Valle-Trabadelo, Carmen",
-        "speakerid": "2724",
-        "organisation": "Red Cross Red Crescent Movement MHPSS Hub",
-        "biography": "Dr. Carmen Valle-Trabadelo is a Technical Advisor on Mental Health and Psychosocial Support (MHPSS) working at the Red Cross Red Crescent Movement MHPSS Hub. Carmen is a psychologist with over 20 years’ experience in mental health in academiadirecting specialised servicesand in development and humanitarian workwhere she has implemented and coordinated MHPSS responses in over 30 humanitarian contexts.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/e/d/csm_Carmen_Valle-Trabadelo_5bc3ab3241.png"
-      }
-    ]
-  },
-  {
-    "eventname": "Harnessing AI for health and economic competitiveness",
-    "subtitle": "Translating the EU AI Act into action",
-    "eventid": "2786",
-    "eventcategory": "Session",
-    "eventshortid": "S7",
-    "date": "2025-10-01",
-    "start": "10:30",
-    "end": "11:45",
-    "location": "Kursaal",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by HealthAI, supported by Roche",
-    "description": "The EU AI Act represents a landmark regulatory framework to govern artificial intelligence. It is a horizontal legislation which applies across all industries, including health, where its successful implementation is key for countries to transform Europe’s health systems — driving improved patient outcomes, strengthening public health resilience, and accelerating innovation and economic value. This session will focus on generating strategic insights to translate the Act’s potential into national realities.The panel, consisting of policymakers, patient groups, payers and innovators, will explore how the health sector, an already highly regulated space, offers a unique opportunity to demonstrate the interplay and potential complementarity between existing medical device and health regulations and the Act. In addition, approaches for implementation and enforcement of the Act across Europe’s health systems will be discussed, with opportunities and challenges highlighted. Finally, a roadmap for scaling responsible AI-driven innovations that improve health outcomes and economic competitiveness will be broadly articulated.",
-    "speakers": [
-      {
-        "speaker": "Eichwalder, Stefan",
-        "speakerid": "1449",
-        "organisation": "Austrian Federal Ministry of Social Affairs",
-        "biography": "Stefan Eichwalder is director of the health systems division at the Federal Ministry of Social AffairsHealthCare and Consumer Protection in Austria. Mr. Eichwalder is member of various working groups on the NationalEuropean and International level and Vice-Chair of the Steering Committee of the European Observatory on Health Systems and Policies.Before joining the ministry in 2012 he was working as a researcher in the field of health economics and in the statistics and research branch of the United Nations Industrial Development Organization. His expertise is in health economics and health policy which he combines with the experience from his academic work.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/a/a/csm_Eichwalder_Stefan_650ece1823.jpg"
-      },
-      {
-        "speaker": "Marsella, Marco",
-        "speakerid": "1606",
-        "organisation": "European Commission Directorate-General for Health and Food Safety",
-        "biography": "Marco Marsella is Director for DigitalEU4Health and Health Systems Modernisation at the European Commission’s Directorate General for Health and Food Safety (DG SANTE). PreviouslyMr Marsella was Head of Unit for \"eHealthWell-BeingAgeing\" and Deputy Director for \"Digital SocietyTrust & Cybersecurity\" at the European Commission's Directorate General for Communications NetworksContent and Technology (DG CONNECT). Notable initiatives that he had a leading role in include the EU COVID Certificatecontact tracing appsand research and innovation endeavours related to digital innovations during the COVID-19 pandemic. MoreoverMr Marsella supervised the 1 Million Genomes Initiative and the European Cancer Images Initiative. Prior to his current positionMr Marsella has held various other roles within the European Commissionincluding Head of Unit for \"LearningMultilingualismAccessibility\" responsible for the Web Accessibility Directivefor digital language technologiesand Safer Internet for Children.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/a/2/csm_Marsella_Marco_ebf927872b.jpg"
-      },
-      {
-        "speaker": "McGhie, Diana",
-        "speakerid": "2869",
-        "organisation": "World Economic Forum",
-        "biography": "Diana Vaca McGhie is the Lead for Healthcare Policy at the World Economic Forumwhere she advances the Centre for Health and Healthcare’s initiatives by engaging in key international forumssuch as the G20and strengthening relationships with governments. She serves as the primary liaison to the World Health Organization and G20 ministriesdriving international collaboration on health priorities including preventive carehealthcare transformationand health system resiliency. With over 20 years of experience in non-profit leadershipinternational relationsand advocacyDiana has built strategic alliances with governmentsmedical associationsand the private sector to improve public health outcomes. She holds a Bachelor of Science in Business Administration from Stony Brook University and a master’s in public administration from New York University.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/c/0/csm_McGhie_Diana_985b03e823.jpg"
-      },
-      {
-        "speaker": "Sioli, Lucilla",
-        "speakerid": "2890",
-        "organisation": "European Commission Directorate-General for Communications Networks",
-        "biography": "Dr Lucilla Sioli is the Director of the \"EU AI Office\" within Directorate-General CONNECT at the European Commission.She is responsible for the coordination of the European AI strategy and its governanceincluding the AI Continent Action Planthe Apply AI strategythe implementation of the AI Act and international collaboration in AI and AI for good. She is also responsible for the coordination of the R&D&I activities in the field of AI and for the implementation of innovation activities in key strategic sectors such as healthcarerobotics and advanced manufacturing.Lucilla holds a PhD in economics from the University of Southampton (UK) and one from the Catholic University of Milan (Italy) and has been a civil servant with the European Commission since 1997.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/3/7/csm_Sioli_Lucilla_faa1fd097c.jpg"
-      },
-      {
-        "speaker": "Strammiello, Valentina",
-        "speakerid": "2851",
-        "organisation": "European Patients&#039; Forum",
-        "biography": "Valentina Strammiellointerim Executive Director of European Patients' Forumworked as Director of Strategic Initiatives and oversaw the EPF project portfolio. She represents EPF in HTA-related activities and in the European Health Parliament initiative.Before joining EPFValentina has had a long collaboration with the CIPI Network and has worked as freelance OSINT analyst on Security and Energy issues. Self-trained in website management and web 2.0 applicationsshe is among the founders of ecpa2.0 (European Center for Public Affairs 2.0)a forum of young professionals. She holds a BA in International Relations and a Master’s Degree in European Studies.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/d/2/csm_STRAMMELIO_Valentina_c9e1be3686.jpg"
-      },
-      {
-        "speaker": "van Haasteren, Afua",
-        "speakerid": "2900",
-        "organisation": "Roche",
-        "biography": "Dr. Afua van Haasteren has over a decade of experience in digital health projects spanning philanthropyacademiaand industry. As Director of Health Policy & External Affairs at Roche Diagnosticsshe leads Data & Digital Policy within the Global Access & Policy team. In this pivotal roleshe actively shapes government policies to enhance patient access to Roche’s innovative datadigitaland AI-driven health solutions. Dr. van Haasteren is a key representative for Roche Diagnostics in various data and digital health-related working groups within medtech and broader industry associationsincluding the Digital Health CommitteeData Governanceand Funding & Reimbursement working groups at MedTech Europe and the Digital Health Working Group at Digital Europe. She also co-chairs the Digital Health Working Group at The G20 & G7 Health and Development Partnershipdemonstrating her commitment to international policy dialogue on global health. Through these engagementsshe has gained critical insights into the impact of legislations like the EU AI Act on the medtech industry. Her academic background includes a PhD in Health Ethics and Policy from ETH Zurichwhere her research focused on Trust in Digital Healthproviding a strong foundation for her policy advocacy.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/0/1/csm_van_Haasteren_Afua_63bb802198.jpg"
-      },
-      {
-        "speaker": "Baptista Leite, Ricardo",
-        "speakerid": "1120",
-        "organisation": "Health AI - The Global Agency for Responsible AI in Health",
-        "biography": "Dr. Ricardo Baptista Leite is a Portuguese-Canadian medical doctor trained in infectious diseases with extensive experience in global healthhealth systems and science-based policymaking. Prior to his current role as CEO of ‘HealthAI – The Global Agency for Responsible AI in Health’ in GenevaDr. Ricardo served four terms as a Member of Parliament in Portugal on both health and foreign affairs committees. Ricardo is a city councillor in Sintra and previously served as Deputy Mayor of Cascais.He is the founder and President of the ‘UNITE Parliamentarians Network for Global Health’a network of current and former policymakers from 110 countries. With more than 15 years of academic experiencehe is Chair of the Board of the Harvard-Charité Global Health Policy Labbased in Berlinand Chair of the Centre for Global Health at NOVA University Information Management and Data Science School in Lisbon. He completed postgraduate studies at Johns Hopkins UniversityHarvard Kennedy School of Government and Harvard Medical School. PreviouslyDr Baptista Leite worked as a practising physician in the Portuguese National Health Service for several yearsincluding an internship at the World Health Organization.More recentlyhe served as a medical volunteer both during the COVID pandemic in his hometown hospital in Portugal for over a year and as part of a humanitarian mission at the Lviv Regional Hospital in Ukraine during the first summer after the beginning of the war.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/f/7/csm_Leite_Ricardo-Baptista_bd0fd22da8.jpg"
-      }
-    ]
-  },
-  {
-    "eventname": "Meet the Health Union Fellows",
-    "subtitle": "Europe’s Next Generation of Health Leaders",
-    "eventid": "2866",
-    "eventcategory": "Networking Break",
-    "eventshortid": "N3",
-    "date": "2025-10-01",
-    "start": "10:00",
-    "end": "10:30",
-    "location": "Conference Centre",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by Health Union Fellowship – European Commission Directorate General for Health and Food Safety & European Health and Digital Executive Agency",
-    "description": "The Health Union Fellows have already showcased their policy projects earlier this week — now it’s time to meet them in person. Over coffee, join the 28 Fellows from 22 Member States for an informal networking break. This is your chance to connect directly with Europe’s next generation of health leaders, exchange reflections on their policy projects, and explore opportunities for future collaboration across borders.",
-    "speakers": [
-      {
-        "speaker": "Gallina, Sandra",
-        "speakerid": "1710",
-        "organisation": "European Commission Directorate-General for Health and Food Safety",
-        "biography": "Ms. Sandra Gallina is Director-General – Directorate General for Health and Food Safety (DG SANTE). Sandra Gallina joined the European Commission in 1988. She is today Deputy-Director General for HEALTH. Before joining DG SANTEbetween 2018 and 2020 she was Deputy Director General for TRADE.Between 2014 and 2018 she was Director for DG TRADE Directorate D “Sustainable Development; Economic Partnership Agreements - AfricanCaribbean and Pacific; Agri-food and Fisheries”. Sandra Gallina was also the EU chief negotiator for the EU-MERCOSUR Free Trade Agreement.Between 2001 and 2009 she was the EU Lead Negotiator for Non-Agricultural Market Access in the WTO Doha Round and in that capacityshe defined and presented EU policy for the Doha Development Agenda on non-agricultural market access negotiations.Before joining DG TRADEshe worked in the Directorate General for Taxation and Customs Union (DG TAXUD) at the end of the 1990s.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/8/3/csm_Gallina_Sandra_df20d225fe.jpg"
-      }
-    ]
-  },
-  {
-    "eventname": "Closing the care gap",
-    "subtitle": "Poland’s Core Medical Zones as a blueprint for resilient and equitable health systems",
-    "eventid": "2860",
-    "eventcategory": "Networking Break",
-    "eventshortid": "N4",
-    "date": "2025-10-01",
-    "start": "11:45",
-    "end": "12:15",
-    "location": "Conference Centre",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by the Ministry of Health Poland",
-    "description": "Across Europe healthcare systems are under unprecedented strain. Ensuring that every citizen - no matter where they live - can access timely and high-quality care is no longer optional – it is a policy imperative.Poland’s innovative core medical zones model is a pioneering response. By defining clear qualitative and quantitative indicators, these zones aim to guarantee nationwide coverage with services tailored to local needs. The approach integrates patient communication and feedback as central elements, transforming patients from passive recipients into active partners in care design.This Networking Break will present real-world insights from the implementation of core medical zones, offering practical lessons for policymakers and healthcare leaders. Participants will have the opportunity to engage in a dynamic exchange of experiences, addressing the challenges of “medical deserts” and shortages of skilled professionals and infrastructure. Together we will explore what is truly missing - and how collaborative, evidence-based strategies can close these gaps and build more resilient and equitable health systems.",
-    "speakers": []
-  },
-  {
-    "eventname": "The value of care",
-    "subtitle": "Why investment in long-term care is the smart bet for Europe",
-    "eventid": "2862",
-    "eventcategory": "Session",
-    "eventshortid": "S10",
-    "date": "2025-10-01",
-    "start": "12:15",
-    "end": "13:30",
-    "location": "Conference Centre",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by the European Observatory on Health Systems and Policies, the WHO Regional Office for Europe & the European Health Forum Gastein",
-    "description": "Across Europe, rising demand for long-term care (LTC) reflects aging populations, complex patterns of disease and disability, changing family and social structures, and a broader shift in the social contract - redefining who provides care, how it is delivered, and to what standard. As individuals, families, economic actors, and governments renegotiate roles in financing, organising, and delivering care, the need to pool resources for bold, society-wide investments in prevention, rehabilitation, and assistive care services is urgent.Yet, the benefits of public investment in LTC and the pathways to achieve them remain poorly defined and often misunderstood. This session will highlight why building strong, accessible, high-quality LTC systems is both a social imperative, promoting solidarity and equity, and a smart economic strategy. Participants will learn why LTC should be seen as a core economic driver, not merely a cost. The discussion will frame global trends, the urgency of investment, the risks of underinvestment and fragmentation, and the implications of growing private equity involvement - while sharing success stories from countries that have prioritised LTC.The session builds on selected insights from a newly published book, The Care Dividend: Why and How Countries Should Invest in Long-Term Care, which is a joint effort by the European Observatory on Health Systems and Policies, the WHO Centre for Health Development (WHO Kobe) and the WHO Regional Office for Europe, published by Cambridge University Press.",
-    "speakers": [
-      {
-        "speaker": "De Gabriele, Renzo",
-        "speakerid": "2892",
-        "organisation": "Ministry for Health and Active Ageing",
-        "biography": "Dr Renzo De Gabriele is a family doctor by professionwith over thirty years of experience working in the public service. He graduated as a Doctor of Medicine and Surgery from the University of Malta in 1995 and was awarded a Certificate in Diabetes from the Irish College of General Practitioners in 2008. He is also a Specialist in Family Medicineand a Fellow of the Malta College of Family Doctors. He is also an expert trainer in family medicine and delivered various national and international courses at various levels to train family doctors as trainers in family medicine.In 2011Dr De Gabriele was appointed Assistant Director Administration in the Primary HealthCare Department within the Ministry for Health. In 2013he was appointed Chief Executive Officer of the Primary Healthcare Department within the Ministry for Health. In 2019he was then appointed Chief Executive Officer of Active Ageing and Community Care where he was instrumental in strengthening existing services as well as developing new ones. New services launched since 2019 include the Telecare on the Move servicethe domiciliary phlebotomy servicea nationwide free transport service for the elderly (the Silver T service)community psychotherapy services for the elderlyrenting of motorised beds for homebound clientsthe home helper of your choice schemeand domiciliary dietitian services. Dr De Gabriele also planned and executed the opening of several new active ageing centresas well as two new dementia activity centres. Residential care services saw the introduction of various new services like speciality nursing and palliative care. A programme of renovation of all government homes was one of his visionswith Floriana Residential Home being renovated and all other government-run residential homes undergoing radical refurbishment. Active Ageing and Community Care was instrumental in the ongoing implementation of the National Strategic Policy for Active Ageing 2023 - 2030 andthrough its Dementia Care Directoratein the publication and current implementation of the National Dementia Strategy 2024 - 2031.In 2023Dr De Gabriele was awarded the Best Manager Award in the National Worker of the Year Awards and led Active Ageing and Community Care to achieve another three national awards with the Silver T service being awarded the Best Innovative Service Award in the Malta National Transport Awardsthe Dar Padova Project was awarded the Best Project Award in the Public Service Awardsand the Dementia Directorate was awarded the Best Unit Award in the National Worker of the Year Awards.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/9/3/csm_De_Gabriele_Renzo_d85641bd01.jpg"
-      },
-      {
-        "speaker": "Ilinca, Stefania",
-        "speakerid": "2891",
-        "organisation": "WHO Regional Office for Europe",
-        "biography": "Dr. Stefania Ilinca is Technical Officer for long-term care with the WHO Regional Office for Europea Senior Atlantic Fellow for Equity in Brain Health and a Salzburg Global Seminar fellow. She has extensive experience working at the interface between policy and researchdividing her time between policy advicetechnical supportapplied research and advocacy efforts. At WHO Europeher portfolio covers the transformation of long-term care eco-systemsinformed by equitysustainability and demographic change concernswith particular attention to strengthening care delivery for people with complex needssupporting integrated care modelspromoting quality in long-term care delivery and leveraging digital and social innovations.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/8/a/csm_Ilinca_Stefania_13036f2360.jpg"
-      },
-      {
-        "speaker": "Teodosiu, Flaviana",
-        "speakerid": "2894",
-        "organisation": "European Commission Directorate-General for Employment",
-        "biography": "Flaviana has an academic background in political science and international relations. She is working for the European Commission since 2004 and has a 15-years work experience in EU social inclusion and protection policies. Since 2021she is leading the long-term care team in DG EMPLcoordinating the implementation of the European Care Strategy and Council Conclusion on access to affordable high-quality long-term care.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/b/0/csm_Flaviana_Teodosiu_8617684baa.jpg"
-      },
-      {
-        "speaker": "Cylus, Jonathan",
-        "speakerid": "1505",
-        "organisation": "European Observatory on Health Systems and Policies",
-        "biography": "Jonathan Cylus is the head of the London Hubs of the European Observatory on Health Systems and Policies based at the LSE and LSHTMand Senior Health Economist in the WHO Barcelona Office for Health Systems Financing. His main research is on health systemsfocusing primarily on health financing policyhealth economics and health system performance. He has worked on these topics in many countries in Europe and beyondas well as with the European CommissionOECD and WHO. Jon is also interested in the role of social policies and other social determinants on health. Prior to joining the ObservatoryJonathan was an economist at the Centers for Medicare and Medicaid Services (CMS) in the United States where he worked on health care expenditure projectionshospital productivityand health care expenditure estimates by age and gender.Jon has a BA in Economics from Johns Hopkins Universityand an MSc and PhD from the LSE.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/c/5/csm_cylus_jon_a9ffe7d38c.png"
-      },
-      {
-        "speaker": "Alders, Peter",
-        "speakerid": "2902",
-        "organisation": "Ministry of Health",
-        "biography": "Peter AldersPh.D.is Programme ManagerAgeing-in-Place at the Dutch Ministry of HealthWelfareand Sport. His work has largely focused on the combination of housing and care and on reforms to the Exceptional Medical Expenses Act and the Social Support Act. Since 2000Alders has worked as a policy advisor for various ministry offices in the Netherlandsincluding the Ministry of Social Affairs and Employment (2000-07)the Ministry of Finance (2007-09)and the Ministry of HealthWelfareand Sport (2009-122013-present). Since 2016he has served as a researcher at the Erasmus School of Health Policy and Management. He has published peer-reviewed articles in journals including Journal of Public EconomicsHealth PolicyEuropean Journal of Ageingand Health EconomicsPolicyand Law. Alders received his Ph.D. in economics from the Tinbergen Institute at Erasmus University in Rotterdam and holds a master’s degree in management engineering from the University of Twentea master’s degree in economics from the University of Amsterdamand a master’s degree in cognitive neuropsychology from the VU Amsterdam. He was previously selected through The Commonwealth Fund to conduct research at Harvard Medical School as a 2012-13 Harkness Fellow in Health Care Policy and Practice.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/e/3/csm_Alders_Peter_c193138c18.jpg"
-      },
-      {
-        "speaker": "Azzopardi-Muscat, Natasha",
-        "speakerid": "1264",
-        "organisation": "WHO Regional Office for Europe",
-        "biography": "Dr Natasha Azzopardi-Muscat is the Director of the Division of Country Health Polices and Systems at WHO Regional Office for Europe. She is the Past President of the European Public Health Association.Dr Azzopardi-Muscat qualified as a medical doctor and proceeded to specialize in public health and health service management. Her transdisciplinary research bridging health policyEuropean studies and small states studies led to her PhD entitled “The Europeanisation of health systems: a small state perspective”.She has authored several publications in public health and European health policy.Between 2001 and 2013she occupied various senior positions in the Ministry of Health in Maltaincluding that of Chief Medical Officer. Since 1999Dr Azzopardi-Muscat has also been a resident academic at the University of Maltain the departments of health services management and public health.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/1/8/csm_AzzopardiMuscat_Natasha_new_3586f68cc9.jpg"
-      },
-      {
-        "speaker": "van Ginneken, Ewout",
-        "speakerid": "621",
-        "organisation": "European Observatory on Health Systems and Policies",
-        "biography": "Dr Ewout van Ginneken is Director of the European Observatory on Health Systems and Policies. His expertise is in comparative international health systems research and health policy research. His main interests include health financinghealth accessinsurance competitioncare purchasingintegrated carecross-border careand migrants’ access to care. He has published widely on these topics in international peer-reviewed literature and the wider literature. He is a series coordinator of the Health Systems in Transition (HiT) series and has co-authored the HiT template as well as several reviews including on the health-care systems of Bulgariathe Czech RepublicEstoniaLithuaniathe NetherlandsSlovakiaSlovenia and the United States of America. Before joining the ObservatoryEwout was a senior researcher at the Berlin University of Technology and a 2011–2012 Commonwealth Fund Harkness Fellow in Health Care Policy and Practice at the Harvard School of Public Health. He holds a master’s degree in health policy and administration from Maastricht University in the Netherlandsand a PhD in public health from the Berlin University of Technology. ",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/d/4/csm_van_Ginneken_Ewout_3f8c290d7b.png"
-      }
-    ]
-  },
-  {
-    "eventname": "The European Health Union",
-    "subtitle": "Stronger together with networks in action",
-    "eventid": "2760",
-    "eventcategory": "Session",
-    "eventshortid": "S9",
-    "date": "2025-10-01",
-    "start": "12:15",
-    "end": "13:30",
-    "location": "Kursaal",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by the European Commission Directorate-General for Health and Food Safety",
-    "description": "Five years on, the European Health Union is taking shape, not through institutions alone, but through the strength of networks that connect expertise, experience, and purpose across the Union. This session will show how EU health networks break silos across sectors and society, turning the European Health Union vision into action.Experts from the European Commission Directorate-General for Health and Food Safety, the Health Security Committee, the European Medicines Shortages Steering Group, the One Health AMR network, and the Health Union Fellowship will share how, through collaboration, networks are building a stronger, more united Health Union.The panel will explore key questions including: What forms of cross-sectoral collaboration are essential to address both current and future challenges? How can we enhance coordination to effectively tackle cross-border threats? How can the EU enhance equitable access to critical medicines? Can we create a network of next-generation EU health leaders to drive innovation and cooperation forward? Is the One Health approach effectively addressing AMR?",
-    "speakers": [
-      {
-        "speaker": "Betz, Charles",
-        "speakerid": "2877",
-        "organisation": "Health Directorate Luxembourg",
-        "biography": "Charles Betz is an international health policy professional with a background bridging scienceinnovationand diplomacy. After earning a PhD in life sciences and pursuing postdoctoral research in Switzerland and the US on cancer and rare diseaseshe returned to Luxembourg in 2017 to shift his focus toward health policy and international collaboration.At Luxinnovationthe Luxembourg Innovation Agencyhe spent five years connecting research institutescliniciansand companieswhile engaging in European-level committees under the Horizon Programmes. Since 2022he has served as Head of International Relations at Luxembourg’s Directorate of Healthwhere he coordinates the country’s positions with the European CommissionWHOand neighboring states.Known for his pragmatic and diplomatic styleCharles combines scientific expertise with a strategic vision of health governance. As a WHO National Counterpart and Health Union Fellowhe actively contributes to advancing European cooperation in health and brings a strong commitment to building resilient systems through innovation and international partnership.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/c/9/csm_Betz_Charles_3630ccc612.jpg"
-      },
-      {
-        "speaker": "Cooke, Emer",
-        "speakerid": "2062",
-        "organisation": "European Medicines Agency",
-        "biography": "Emer Cooke is as of 16 November 2020 the new Executive Director of the European Medicines Agencybased in Amsterdam. She also takes the role of Chair of the International Coalition of Medicines Regulatory Authorities (ICMRA) for a term of 2 years.She was the Director responsible for all medical product-related regulatory activities at the World Health Organization in Geneva between November 2016 and November 2020. In this roleMs Cooke was responsible for leading WHO's global work on regulation of health technologies (medicinesvaccinesdiagnosticsvector control products and devices)coordinating the regulatory teams (PrequalificationRegulatory Systems Strengtheningand Safety)and working with member states and international partners to assure the qualitysafety and efficacy of appropriate health technologies.Ms. Cooke is a pharmacist with Masters degrees in Science and Business Administration from Trinity College Dublin. She has over 30 years’ experience in international regulatory affairs and spent 14 years (2002 to 2016) in management positions at the European Medicines Agency as Head of Inspections and Head of International Affairs respectively. From September 1998 to July 2002she worked in the Pharmaceuticals unit of the European Commission.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/9/4/csm_EMER_cooke_417725ff74.jpg"
-      },
-      {
-        "speaker": "Gallina, Sandra",
-        "speakerid": "1710",
-        "organisation": "European Commission Directorate-General for Health and Food Safety",
-        "biography": "Ms. Sandra Gallina is Director-General – Directorate General for Health and Food Safety (DG SANTE). Sandra Gallina joined the European Commission in 1988. She is today Deputy-Director General for HEALTH. Before joining DG SANTEbetween 2018 and 2020 she was Deputy Director General for TRADE.Between 2014 and 2018 she was Director for DG TRADE Directorate D “Sustainable Development; Economic Partnership Agreements - AfricanCaribbean and Pacific; Agri-food and Fisheries”. Sandra Gallina was also the EU chief negotiator for the EU-MERCOSUR Free Trade Agreement.Between 2001 and 2009 she was the EU Lead Negotiator for Non-Agricultural Market Access in the WTO Doha Round and in that capacityshe defined and presented EU policy for the Doha Development Agenda on non-agricultural market access negotiations.Before joining DG TRADEshe worked in the Directorate General for Taxation and Customs Union (DG TAXUD) at the end of the 1990s.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/8/3/csm_Gallina_Sandra_df20d225fe.jpg"
-      },
-      {
-        "speaker": "Hulth, Anette",
-        "speakerid": "2822",
-        "organisation": "Unit for Antibiotics and Infection Control",
-        "biography": "Dr Anette Hulth has worked as coordinator at the Public Health Agency of Sweden since 2014leading the agency’s collaborations on antimicrobial resistance (AMR) and infection control in the EU and internationally. For 1.5 yearsshe was seconded to the Swedish Ministry of Health to contribute to the political declaration on AMRadopted by the UN General Assembly in October 2024. She is a collaborator in the EU Joint Action on AMR (EU-JAMRAI 2) and a national representative in the EU AMR One Health Network. She has been part of the WHO Collaborating Centre on AMR containment at the Public Health Agency since its designation in 2016. Dr Hulth has a PhD in computer science. Before entering the field of antibioticsshe developed and implemented applications for syndromic surveillance and automatic outbreak detection.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/8/c/csm_Hulth_Anette_a1727ae167.jpg"
-      },
-      {
-        "speaker": "Rottmann-Grossner, Heiko",
-        "speakerid": "2790",
-        "organisation": "German Federal Ministry of Health",
-        "biography": "Since June 2025 Mr. Rottmann is Director-General of Central ServicesEuropean and International Health Policy of the German Federal Ministry of Health (MOH) in Berlin and Bonn. From 2018 to May 2025 Mr. Rottmann headed the Department of Health Security in the MoH in Germany. This department includes unitsfor examplenfectious diseasescrisis managementpandemic preparedness and counter bioterrorism.From 2013 to 2018Mr. Rottmann was the Head of Executive Group of the MoH. Before joining MoHfrom 2009 to 2013he operated for the political party Christian Democratic Union (CDU) of Germany in Berlin as head of Officenof the Secretary General. From 2002 to 2008 he worked as Personal Adviser to Minister of State and State Secretary in the Federal Chancellery and to Member of Parliament in the German Bundestag in Berlin.Mr. Rottmann holds a bachelor degree of Political Sciences and Economics. He holds the military rank \"Major“ in the reserve of the Medical Service of the German Armed Forces (Bundeswehr).",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/a/c/csm_Rottmann-Grossner_Heiko__67e864449d.jpg"
-      },
-      {
-        "speaker": "Figueras, Josep",
-        "speakerid": "502",
-        "organisation": "European Observatory on Health Systems and Policies",
-        "biography": "Josep FiguerasMDMPHPhD (econ)FFPH is Director Emeritus to the European Observatory on Health Systems and Policies. He was previously the founding director of the Observatory andin addition to WHOhe has served major multilateral agencies such as the European Commission and the World Bank and has worked as a policy advisor in more than forty countries within the European region and beyond. He is a member of several governingadvisory and editorial boards. His research is on health systems and policy focusing on health systems comparisonsperformance assessmentpublic health policy and knowledge brokering.He is an honorary fellow of the UK Faculty of Public Health and received the Edward Kennedy Health Policy Award from Trinity Collegethe Spanish Ministry of Health Awardthe European Health Forum Gastein Starthe Andrija Stampar Medal for excellence in Public Healthand a Doctorate Honoris Causa from Semmelweis University.He is currently a visiting professor at the London School of Economics and the NOVA National School of Public Health in Lisbon. He has been appointed by the European Commission DG Santé as ambassador of the Health Union Fellowship training program. He was director of the MSc in Health Services Management and lecturer at the London School of Hygiene & Tropical Medicine.Dr Figueras obtained his PhD from the University of London LSE / LSHTM in 1993 on health policy and financing. He started his career as a specialist in Family and Community Medicine in Spain.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/4/9/csm_Figueras_Josep_new_69f5ca2b1d.jpg"
-      }
-    ]
-  },
-  {
-    "eventname": "Rethinking solidarity in health",
-    "subtitle": "Healing Europe&#039;s fractured social contract",
-    "eventid": "2736",
-    "eventcategory": "Plenary",
-    "eventshortid": "P1",
-    "date": "2025-10-01",
-    "start": "14:30",
-    "end": "15:45",
-    "location": "Kursaal",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by the European Health Forum Gastein",
-    "description": "This plenary will focus on the main theme of the EHFG 2025: Rethinking solidarity in health – Healing Europe´s fractured social contract. It will highlight the fragility of the social contract, which underpins trust between citizens and institutions, and why it is under threat in a climate of economic pressures, growing inequality, and political disillusionment. While Europe strives to boost innovation, efforts must also strengthen health and social protection systems - a distinguishing factor of the European way of life that enhances our competitiveness and defines our strong societies. Ensuring no-one is left behind through addressing the social determinants of health requires policies grounded in equity, such as the EU Anti-Poverty Plan, the European Pillar of Social Rights Action Plan, and the Critical Medicines Act.",
-    "speakers": [
-      {
-        "speaker": "Königsberger-Ludwig, Ulrike",
-        "speakerid": "2797",
-        "organisation": "Austrian Federal Ministry of Labour",
-        "biography": "Ulrike Königsberger-Ludwig was sworn in as State Secretary in the Ministry of LabourSocial AffairsHealthCare and Consumer Protection by Federal President Alexander Van der Bellen on the 2nd of April 2025.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/4/d/csm_Konigsberger-Ludwig_Ulrike__9d974d10ac.jpg"
-      },
-      {
-        "speaker": "Auer, Clemens Martin",
-        "speakerid": "505",
-        "organisation": "European Health Forum Gastein",
-        "biography": "Dr. Clemens Martin Auer has been the President of the European Health Forum Gastein since 2017. He started his career in the early 1990s as the Head of the political department of the Austrian conservative party. Having joined the Ministry of Health in 2004 as the Cabinet chiefhe later switched to civil service and became Director General and later Special Envoy of Health at the Austrian Federal Ministry of Social AffairsHealthCare and Consumer Protection. Until May 2022he served as Vice-Chair of the Executive Board of the World Health Organization in Geneva. Clemens' academic background is philosophy and political science.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/6/0/csm_04_board_AuerClemens2%402x_08062fa21b.jpg"
-      },
-      {
-        "speaker": "Prevolnik Rupel, Valentina",
-        "speakerid": "2529",
-        "organisation": "Slovenia",
-        "biography": "Dr. Valentina Prevolnik Rupel was born in 1971 in Ljubljana. After her primary educationshe is an economist and received her PhD from the Faculty of Economics in Ljubljana in 2008 entitled The Impact of Quality of Life on Setting Priorities and the Efficiency of Resource Allocation in Healthcare.During her careershe worked as a researcher and scientific advisor at the Institute for Economic Research in Ljubljana (IER)where she worked in the fields of health and long-term care. She was the President of the Scientific Council of the IERa lecturer at the DOBA Faculty of Applied Business and Social Studies in Maribor and a member of the Strategic Council for Health of the Prime Minister. She also worked as an advisor to the Minister of Health and the Director General of the Health Insurance Institute of Slovenia.Her areas of expertise are measuring treatment outcomesdeveloping and defining quality indicators in health care and value-based medical treatment. Its broader area of activity is health care financinghealth insurance and health technology evaluation.Prior to her appointment as Minister of Health of the Republic of Slovenia on 13 October 2023she held the position of State Secretary at the Ministry of Health.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/9/3/csm_Prevolnik-Rupel_d47a479330.jpg"
-      },
-      {
-        "speaker": "Gallina, Sandra",
-        "speakerid": "1710",
-        "organisation": "European Commission Directorate-General for Health and Food Safety",
-        "biography": "Ms. Sandra Gallina is Director-General – Directorate General for Health and Food Safety (DG SANTE). Sandra Gallina joined the European Commission in 1988. She is today Deputy-Director General for HEALTH. Before joining DG SANTEbetween 2018 and 2020 she was Deputy Director General for TRADE.Between 2014 and 2018 she was Director for DG TRADE Directorate D “Sustainable Development; Economic Partnership Agreements - AfricanCaribbean and Pacific; Agri-food and Fisheries”. Sandra Gallina was also the EU chief negotiator for the EU-MERCOSUR Free Trade Agreement.Between 2001 and 2009 she was the EU Lead Negotiator for Non-Agricultural Market Access in the WTO Doha Round and in that capacityshe defined and presented EU policy for the Doha Development Agenda on non-agricultural market access negotiations.Before joining DG TRADEshe worked in the Directorate General for Taxation and Customs Union (DG TAXUD) at the end of the 1990s.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/8/3/csm_Gallina_Sandra_df20d225fe.jpg"
-      },
-      {
-        "speaker": "Cooke, Emer",
-        "speakerid": "2062",
-        "organisation": "European Medicines Agency",
-        "biography": "Emer Cooke is as of 16 November 2020 the new Executive Director of the European Medicines Agencybased in Amsterdam. She also takes the role of Chair of the International Coalition of Medicines Regulatory Authorities (ICMRA) for a term of 2 years.She was the Director responsible for all medical product-related regulatory activities at the World Health Organization in Geneva between November 2016 and November 2020. In this roleMs Cooke was responsible for leading WHO's global work on regulation of health technologies (medicinesvaccinesdiagnosticsvector control products and devices)coordinating the regulatory teams (PrequalificationRegulatory Systems Strengtheningand Safety)and working with member states and international partners to assure the qualitysafety and efficacy of appropriate health technologies.Ms. Cooke is a pharmacist with Masters degrees in Science and Business Administration from Trinity College Dublin. She has over 30 years’ experience in international regulatory affairs and spent 14 years (2002 to 2016) in management positions at the European Medicines Agency as Head of Inspections and Head of International Affairs respectively. From September 1998 to July 2002she worked in the Pharmaceuticals unit of the European Commission.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/9/4/csm_EMER_cooke_417725ff74.jpg"
-      },
-      {
-        "speaker": "Schmit, Nicolas",
-        "speakerid": "2852",
-        "organisation": "",
-        "biography": "Nicolas Schmit is a Luxembourgish politician who served as European Commissioner for Jobs and Social Rights from 2019 to 2024. A member of the Luxembourg Socialist Workers' Party (LSAP)he was the EU-wide Spitzenkandidat of the centre-left PES at the 2024 EU elections.Nicolas Schmit was member of the government of Luxembourg from 2004 to 2019first as Minister Delegate for Foreign Affairs and Immigration and from 2009 to 2018 as Minister for Labour and Employment. He served as Member of the European Parliament in 2019 for the social-democratic Lëtzebuerger Sozialistesch Aarbechterpartei following his election in May 2019before taking on his role as European Commissioner in December 2019. Nicolas Schmit holds a Doctorate in International Economic Relations and a Masters in French Literature from the University of Aix-Marseille.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/3/9/csm_Nicolas_Schmit_aea0c493ad.png"
-      },
-      {
-        "speaker": "Leyi, Mikael",
-        "speakerid": "2785",
-        "organisation": "SOLIDAR",
-        "biography": "Mikael Leyi has been leading SOLIDAR since May 2020. He is a political scientist with a broad professional backgroundboth in terms of competences and geography: he has previously worked as part of the labour movement in Sweden in the field of international development cooperation in various roles at the Olof Palme International Centre (a member organisation of SOLIDAR). He has also worked with European and international organisations of the trade union and popular education movementsas well as with the institutions of the European Unionthe OSCE and the UN.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/e/e/csm_Mikael_Leyi_5702050192.jpg"
-      },
-      {
-        "speaker": "Fahy, Nick",
-        "speakerid": "648",
-        "organisation": "RAND Europe",
-        "biography": "Nick Fahy is the research group director for health and wellbeing at RAND Europewhere he oversees research in such areas as health systems and healthcare innovationworkplace wellbeingand the behavioural and social determinants of health and wellbeing. He was previously senior researcher in the Nuffield Department of Primary Care Health Sciences at Oxford University. Particular achievements include acting as Specialist Advisor to the Health Committee of the House of Commons for their inquiry on Brexit and healthpublishing analysis highlighting the health systems impact of the Eurozone ‘bailout’ programs and the impact of Brexit on health in the UKand working with the World Health Organization to establish a Foresight process looking at the long-term future of health systems in Europe.Nick Fahy has over twenty years of experience in European health policyincluding ten years in the Health and Consumers Directorate-General of the European Commission where he led work on cancerrare diseases and cross-border care. Before joining the CommissionNick worked in the Department of Health in the UKand was chief of staff to two ministers. Nick is co-lead of the Partnerships theme of the NIHR Oxford Biomedical Research Centre as well as a new Green Templeton College initiative for the Future of Health and Care; he is also a visiting lecturer at the Management Centre Innsbruck for their programs on international health and social care management.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/d/f/csm_Fahy_Nick_f2311cf5d9.jpg"
-      }
-    ]
-  },
-  {
-    "eventname": "Prevent NCD walk ",
-    "subtitle": "A walking dialogue on tackling non-communicable diseases in Europe",
-    "eventid": "2762",
-    "eventcategory": "Session",
-    "eventshortid": "S12",
-    "date": "2025-10-01",
-    "start": "16:15",
-    "end": "18:00",
-    "location": "Conference Centre entrance",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by the Austrian National Public Health Institute (Gesundheit Österreich GmbH)",
-    "description": "Session format: Walking session - No special gear needed but please dress appropriately for the weather, and wear comfortable footwear. Non-Communicable Diseases (NCDs) represent a significant portion of the disease burden in Europe, even though many of them are preventable. Therefore, the European Union (EU) commissioned the Joint Action Non-Communicable Diseases (JA PreventNCD) – the largest Joint Action in public health to date – engaging national authorities to minimise fragmentation and duplication. It emphasises that health is created by policies across sectors, and thus, it is crucial to consider the health and health equity implications of these policies. Addressing socioeconomic disparities and social determinants that influence exposure to major risk factors for NCDs is vital for this initiative.Join us for a dynamic and interactive session as we walk through the scenic Kurpark and along the Gasteiner Ache, offering an informal setting for discussion. This unique session will feature pitch presentations on emerging trends in the most pressing areas in NCD prevention, the role of EU initiatives, the impact of public food procurement policies, and regulatory approaches to unhealthy food such as marketing and taxation. The session ends with reflections by two keynote listeners: A representative of the Austrian Ministry of Health and a youth representative of the Youth Advisory Group of JA PreventNCD.",
-    "speakers": [
-      {
-        "speaker": "Ostermann, Herwig",
-        "speakerid": "924",
-        "organisation": "Austrian Public Health Institute",
-        "biography": "Herwig Ostermann is Executive Director of the Austrian Public Health Institute GÖG and associate professor (part-time) at the Department for Public Health and Health Technology Assessment at the University for Health SciencesMedical Informatics and Technology in Hall/TyrolAustria (UMIT). He studied international economics in Innsbruck and Dublin and holds a master’s and doctoral degree in Health Sciences from UMIT. Herwig Ostermann has an in-depth knowledge of national and international health systems serving as an advisor to the Austrian Ministry of Health with regard to structural and economic impacts of the health reform.Herwig Ostermann is member of various international committees and expert groups (e.g. Austrian Country Focal Point for Austria for the Coordinated/Integrated Health Services Delivery (CIHSD) of WHO/Europe; Member of the EU Expert Group on Health System Performance AssessmentCountry Focal Point for the European Observatory on Health Systems and Policies) and has served as an international expert in various policy dialogues organized by the European Observatory.Topics of interest include Health system analysis and performance assessmentHealth policy implementationInternational health systemsHealth work force forecasting and planning.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/f/e/csm_Ostermann_Herwig_2ca391ea99.jpg"
-      },
-      {
-        "speaker": "Klepp, Knut-Inge",
-        "speakerid": "2793",
-        "organisation": "JA PreventNCD",
-        "biography": "Klepp is the Scientific Coordinator of JA PreventNCDthe Norwegian Institute of Public Health (NIPH) and ProfessorDepartment of NutritionFaculty of MedicineUniversity of Oslo. Klepp is previous Executive Director for the Division of Mental and Physical health at NIPHand before that he served as Director General of Public Health at the Norwegian Directorate of Health. He has held positions as Professor in Health Promotion at the University of Bergen and in Behavioural Epidemiology at the Nordic School of Public Health. Klepp has served as Coordinator and work package leader of several EU DG Research funded projectsand he is Past President of the International Society of Behavioural Nutrition and Physical Activity. Klepp has published more than 300 scientific journal articlesprimarily in adolescent health promotionNCD preventionand evaluation of public health measures.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/e/b/csm_Knut-Inge_Klepp_bf66576a0b.png"
-      },
-      {
-        "speaker": "Tolonen, Hanna",
-        "speakerid": "2794",
-        "organisation": "Finnish Institute for Health and Welfare in Helsinki",
-        "biography": "Hanna Tolonen is a distinguished public health leader with over two decades of experience in epidemiologystatisticsand health survey methodology. She earned a PhD in public health and epidemiologyan MSc in Statisticsand holds a specialist qualification in management.Since June 2024she has served as Director of ResearchDevelopment and Innovation at the Finnish Institute for Health and Welfare (THL) in Helsinki. Key research areas of Dr. Tolonen include the harmonization and standardization of health examination surveys across Europetackling issues like non-response bias and cross-country comparability as well as monitoring and prevention of NCDs. She has been involved in several major EU initiativesincluding JACARDIJA PreventNCDPHIRIInfActBridge HealthEHESand HBM4EU.Her academic work includes over 100 peer-reviewed publications in epidemiologycardiovascular riskobesitysurvey methodologyand environmental health. She holds an Adjunct Professorship (title of Docent) in public health at the University of Eastern Finland.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/4/b/csm_Hanna_Tolonen_56010d26a2.png"
-      },
-      {
-        "speaker": "Šišović, Sanja",
-        "speakerid": "2768",
-        "organisation": "International Youth Health Organization",
-        "biography": "Sanja Šišović is a seasoned public health advocate and activist with over a decade of experience championing global health equity. As President of the International Youth Health Organizationshe leads efforts to promote meaningful youth engagement in health policy and program development. Her career began as a health youth educator in Montenegroand since then she has coordinated national and international initiatives addressing HIV/AIDSmental healthreproductive healthand non-communicable diseases. Her work centers on empowering young people—especially those with fewer opportunities—to become agents of change in shaping inclusiveforward-thinking health systems.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/2/3/csm_Sanja_Sisovic_f8da6b425f.jpg"
-      },
-      {
-        "speaker": "Pleiner-Duxneuner, Johannes",
-        "speakerid": "2795",
-        "organisation": "Austrian Agency for Health and Food Safety",
-        "biography": "Johannes Pleiner-Duxneuner is an Austrian physician and expert internal medicineclinical pharmacology and nutrition. Since 2024he serves as Managing Director of AGES (Austrian Agency for Health and Food Safety)where he leads One Health initiatives and oversees the AGES portfolio including public healthfood safetynutrition and applied research. Previouslyhe held senior positions in the pharmaceutical industry and the Medical University Vienna. He holds an MD and PD (Assoc. Prof.) from the Medical University of Vienna and brings extensive experience at the intersection of medicineregulationand research.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/d/f/csm_Johannes_PD_7def27ed8c.jpg"
-      },
-      {
-        "speaker": "Bergmann Madsen, Betina",
-        "speakerid": "2897",
-        "organisation": "Municipality of Copenhagen",
-        "biography": "Betina Bergmann Madsen is the team lead for Strategic Procurement and Food and chief procurement officer for the municipality of CopenhagenDenmark. Madsen works closely with Denmark’s Ministry of FoodAgriculture and Fisheries and Ministry of Environment to implement requirements for green tenders (bids) and is the coordinator of a national public food procurement network. The work of the network includes incorporation of the SDGs into the tender documents and follow up documentation and evaluation of results. At the regional European Union (EU) level she participates in several projects (COACHFood TrailsSF4CJA-PreventNCD) including building a European network of public food purchasers. In 2021 she was named a UN Food System Champion in the context of the UN Food Systems Summit and helped form a School Meals Coalition that came out of the summit. She works closely with WHO Europe on guidance for public procurement officers as an author of “How together we can make the world’s most healthy and sustainable public food procurement” and was a member of an EU Expert Group developing a legislative framework for the EU Farm to Fork Strategy. She is a member of the 2025 EU Stakeholder Expert Group on Public Procurement.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/f/9/csm_Betina_Bergmann_Madsen_b3d4a585b9.png"
-      },
-      {
-        "speaker": "Gruber, Gabriele",
-        "speakerid": "2870",
-        "organisation": "Austrian National Public Health Institute",
-        "biography": "Gabriele Gruber is Senior Health Expert at the Austrian National Public Health Institute (GÖG)department HealthSociety and Equity. She studied sociology with focus on organisations and health.Her key areas of work are Health in All Policies (HiAP) processesHealth (in) Impact Assess-ment(social) Determinants of Health and Health Equity. She is leading the expert support team for the oldest HiAP process in Austriathe Austrian Health Targets. In connection to thisshe is also working on the Health Targets Monitoring and supports the Ministry of LaborSo-cial AffairsHealthCare and Consumer Protection on their work for the Agenda 2030 on Sus-tainable Development (SDGs). She has also experience on international collaborations within EUPHA or EU Joint Actions and is Young Gasteiner Alumni. Gabriele is also member of the steering committee of the EUPHA HIA section. Since 2024she is main scientific contact for Austria in the EU Joint Action Prevent NCDin which she is also a leading a task on Health (in) Impact Assessments.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/3/0/csm_Gabriele_Gruber_b53f4cbbde.png"
-      }
-    ]
-  },
-  {
-    "eventname": "Brains, bytes, and budgets",
-    "subtitle": "Rewiring Europe&#039;s future",
-    "eventid": "2751",
-    "eventcategory": "Session",
-    "eventshortid": "S11",
-    "date": "2025-10-01",
-    "start": "16:15",
-    "end": "17:45",
-    "location": "Conference Centre",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by the Brain Health Mission, European Academy of Neurology, and the European Brain Council",
-    "description": "Session format: Panel discussion, fireside chat and scenariosWhat if Europe's greatest untapped resource isn't beneath it's soil, but in its brains? As neurotechnology advances and demand for cognitive, emotional, and social skills grows, this session explores how brain health and the emerging brain economy can drive more inclusive prosperity. Looking through the lens of brain health, we examine how neurotech could be deployed ethically and equitably to strengthen societal cohesion and economic resilience. From education and workforce innovation to brain health and ageing, this discussion connects science, policy, and lived experience to ask: how can Europe rewire its social contract for the neuro age?",
-    "speakers": [
-      {
-        "speaker": "Destrebecq, Frédéric",
-        "speakerid": "2641",
-        "organisation": "European Brain Council",
-        "biography": "Frédéric Destrebecq is the Executive Director of the European Brain Council since October 2014. In this capacityhe is responsible for providing strategic direction and leadership while managing the day to day operations of EBC and its ongoing relationships with its member associations and other stakeholdersas well as representing the organisation in various European and national forums.Fred holds a Master Degree in Political Science and International Relations from the Université Catholique de Louvain (Belgium). He also studied at the Institut d’Etudes Politiques (Paris) and University of Wales College (Cardiff)in the framework of the former EU Socrates exchange programme. Prior to EBCFred served the European Union of Medical Specialists (UEMS) as Chief Executive Officerand previously as Director for European Affairs.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/7/5/csm_Destrebecq_Fred_92979e3dbb.jpg"
-      },
-      {
-        "speaker": "Mahieu, Virginia",
-        "speakerid": "2879",
-        "organisation": "Centre for Future Generations",
-        "biography": "Virginia Mahieu is the Neurotechnology Director at the Centre for Future Generations (CFG)where she explores the societalethicaland legal implications of advances in neurotechnologyand works to ensure it supports wellbeing and brain health while safeguarding the rights and freedoms of its users. Virginia holds a PhD in sensory neuroscienceand previously worked as a Policy Analyst at the European Parliamentary Research Service focusing on public healthemerging technologiesand futures thinking",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/5/9/csm_Virginia_Mahieu_065e11ccf7.png"
-      },
-      {
-        "speaker": "Acălinei, Arabela",
-        "speakerid": "2896",
-        "organisation": "European Alliance of Neuromuscular Disorders Associations",
-        "biography": "Arabela Acălinei is President of Neuro Move CMT Association in Romaniaa national organization dedicated to people suffering with Charcot-Marie-Tooth disease and other neuromuscular conditions.Arabela is a Romanian-English teachera translatoras well as an adults’ trainer. She has a degree in Project managementbut also in Career Counselling for people with disabilities. As being a patient with CMT herself and having 12 persons in her family with the same diseaseher two sons includedshe dedicated her life in becoming an experienced patient advocate and started working with several relevant stakeholdersboth at national and international level.In 2019 she graduated Eurordis Winter School on Scientific Innovation and Translational Research and in 2022 she graduated Eurordis Summer School on Medicines Research & Development. She became EUPATI fellow in 2021after five months of intensive training at The European Patients’ Academy on Therapeutic Innovation (EUPATI).Since June 2020Arabela has been elected Board member of the European Charcot-Marie-Tooth Federation and Eastern Europe Ambasador for ECMTF. Raising awareness about Charcot-Marie-Toothespecially in those countries where the disease is less known and patients lack supportis one of Arabela’s ambitions!Becoming EAMDA President in October 2021was not only a significant achievement for Arabela Acălineibut also an opportunity to bring her expertise and support to the large European NMD communitythat EAMDA serves.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/9/a/csm_Arabela_Acalinei_4e5c2f2831.png"
-      },
-      {
-        "speaker": "Kuiper, Elizabeth",
-        "speakerid": "2081",
-        "organisation": "European Policy Centre",
-        "biography": "Elizabeth Kuiper is Associate Director and Head of the Social Europe and Wellbeing programme at the European Policy Centre. Her focus is on social policies and healthcareincluding on the nexus between pharmaceutical policy and economic securitygender- and diversity issues and sustainability.Before joining the EPCElizabeth was Executive Director Public Affairs at the European Federation of Pharmaceutical Industries and Associations (EFPIA)where she was leading the organisation’s advocacy and external engagement strategy and maintained a strong network of contacts with policymakers and other stakeholders. Amongst othersshe led the industry’s Brexit Task Force and created the Brexit4Patients multistakeholder coalitionto ensure that patients’ interest were put first in the Brexit negotiationsElizabeth previously worked as attaché at the Permanent Representation of the Netherlands to the EUwhere she represented the Netherlands in EU negotiations in the field of healthpharmaceuticals and medical devices. Prior to thisElizabeth worked as political adviser to the Minister of HealthWelfare and Sports in the Dutch cabinet Balkenende-IVdelivering special advice and support on healthcare policy related subjects. This was subsequent to her job at the Dutch Society of Surgeons. Elizabeth studied at the University of Utrecht and holds an MA in Modern Literature and Philosophy.A Dutch nationalshe is fluent in EnglishFrenchand German.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/b/e/csm_KUIPER_Elizabeth_214e1a5507.png"
-      },
-      {
-        "speaker": "Andriukaitis, Vytenis",
-        "speakerid": "645",
-        "organisation": "European Parliament",
-        "biography": "V.P. Andriukaitis was born on 9th August 1951 in KyusyurSiberia.His parents were deported in 1941 and he returned to Lithuania in 1957.He is co-author and a signatory of the Independence Act of Lithuania (March 1990)also one of the co-authors of the Constitution of the Republic of Lithuania adopted in 1992.V. Andriukaitis is one of the founders of the Lithuanian Social Democratic Party and later on Chairman of the party (1999-2001)currently having the position of honorable chairman of LSDP. Member of the Lithuanian Parliament for six termsfrom 1990 to 2004 and from 2008 to 2012. During that time he served as a Chairman of the Committee on European Affairsincluding during the accession to the EU in 2004; as a member of the Foreign Affairs Committee; as a Deputy Speaker of the Parliament (2001- 2004). The same years he served as the Head of the Lithuanian Delegation to the European Convention.Having background of professional doctorV. Andriukaitis had been a practicing surgeon with specialisation in cardiovascular surgery (more than 20 years).He also holds a degree in History from Vilnius University acquired in 1984.From 2012 to 2014 Vytenis Andriukaitis was a Minister for Health in the Lithuanian Government.From 2014 to 2019 he served as European Commissioner for Health and Food Safety. From 2020 - Special Envoy of the WHO for Universal Health Coverage for the European region and Member of the Political Advisory Panel of the UHC 2030 Movement.From 2024 – Member of European ParliamentV.P. Andriukaitis is an author of multiple articles and booksmore than 140 legislative proposals and amendments on national and the EU level; among them Amendments to European Treaties.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/b/3/csm_andriukaitis_vytenis_4819aa9610.jpg"
-      },
-      {
-        "speaker": "Moro, Elena",
-        "speakerid": "2638",
-        "organisation": "European Academy of Neurology",
-        "biography": "Elena Moro is Professor of Neurology at the Department of PsychiatryNeurology and Neurological Rehabilitation of CHU Grenoble in France. She graduated in medicine at the University of TriesteItalyand completed her residency in neurology at the Rome Catholic University. She then went on to complete a fellowship in movement disorders in GrenobleFrance. After receiving her PhD in neurosciencesshe joined the Division of Neurology at Toronto Western HospitalCanadaas medical director of the surgical programme for movement disorders. In 2012she moved to GrenobleFrancewhere she is currently director of the Movement Disorders Center and head of the Department of PsychiatryNeurologyNeurological Rehabilitation and Forensic Medicine.Her main research is focused on restoring brain functionespecially with deep brain stimulation. To dateshe has published more than 200 papers based on clinical research in movements disorders. Prof. Moro has trained many medical studentsPhD students and neurology fellows. She has previously served on the EAN Board as Treasurer (2018-20) and Secretary General (2020-22).",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/a/1/csm_Elena_Moro_287616f709.png"
-      }
-    ]
-  },
-  {
-    "eventname": "Breathing together for change",
-    "subtitle": "A vision for lung health policies across the life-course",
-    "eventid": "2758",
-    "eventcategory": "Session",
-    "eventshortid": "S13",
-    "date": "2025-10-01",
-    "start": "18:15",
-    "end": "19:30",
-    "location": "Conference Centre",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by the European Federation of Allergy and Airways Diseases Patients’ Associations on behalf of the European Lung Health Group",
-    "description": "Our lungs are fundamental to life. However, respiratory diseases remain Europe’s Achilles heel. They affect over 82 million people, place a €1.4 trillion strain on healthcare systems and society, and rank as the sixth leading cause of death on the continent. A new WHO Europe report highlights the health inequalities in lung health and diseases, as well as barriers to care - from delayed diagnosis to lack of support in self-management in diseases like asthma and COPD.This patient-led session will discuss policy priorities for improving lung health with a life-course approach, to sustain the well-being of Europeans and support resilient societies. Topics will include the impact of preventive public health policies (e.g on tobacco and vaping in youth), a multidisciplinary approach in care and diagnosis, health literacy, and early respiratory prevention on lung health in children and adults.The session is complemented by two days of free lung function testing by Lungenunion. Register in advance or simply drop by the testing station in the conference centre foyer.",
-    "speakers": [
-      {
-        "speaker": "Miklós, Zsuzsanna",
-        "speakerid": "2867",
-        "organisation": "National Korányi Institute for Pulmonology",
-        "biography": "Dr. Zsuzsanna MiklósMDPhD is Head of the Department of Translational Medicine at the National Korányi Institute for Pulmonology in BudapestHungary. She earned her medical degree and PhD at Semmelweis UniversityBudapestwhere she conducted cardiovascular researchled the Heart Physiology research group at the Department of Clinical Research and Human Physiologyand held senior academic positions. She later completed the Global Clinical Scholars Research Training Program at Harvard Medical Schoolwhich expanded her focus from basic cardiovascular studies to translational and clinical research. Her current scientific interests include respiratory diseasescardiovascular comorbiditiesand the methodology and implementation of lung cancer screening. She has authored numerous scientific publications and book chaptersand has extensive experience mentoring early-career researchers. She is actively involved in several EU4Health projectsincluding SOLACE and EUCanScreenand is a core member of the scientific coordination team of JARED.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/6/c/csm_Miklos_Zsusanna_6157c6b58c.png"
-      },
-      {
-        "speaker": "Palkonen, Susanna",
-        "speakerid": "2294",
-        "organisation": "European Federation of Allergy and Airways Diseases Patients&#039; Associations",
-        "biography": "Susanna Palkonen is Director of European Federation of Allergy and Airways Diseases Patients’ Associations (EFA)which brings together 44 member associations from 25 countries to improve the careenvironmentparticipation and equality of the over 200 million people with allergyasthma and COPD at the European level. Since 2019she is the Chair of Patient Access Partnership PACTwhich is a multi-stakeholder initiative to improve equal access to patient centered care in Europe with a European Parliament Interest Group on Access that PACT supports. In 2020 she joined the GINA Global Initiative for Asthma Implementation and Dissemination Committee as GINA Advocate. The last five yearsshe has been the patient representative in the EC DG Research and Innovation’s Horizon 2020 Scientific Panel for Healthwhich ended it mandate July 2020 and launched it’s proposal for European Institute for Health Research to overcome fragmentation and help implement the science to society and patients. She has servedamong others in the ERACoSysMed Advisory Board and the Clinical Advisory Board of the Human Brain Project. While serving as board member and vice president of the European Patients’ Forum until 2018she was their Representative at the European Medicines Agency (EMA) Patient and Consumer Working Party for almost a decade. Susanna has co-authored several papers with the scientific community and believes in empowering for global to individual health. She studied social policy and as a patient with atopic eczema and allergic rhinitis she is interested in how policies and systemsbut also patients themselves can support patient centered care and prevention.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/b/5/csm_Susanna_Palkonen_973cdbf5de.png"
-      },
-      {
-        "speaker": "Radu-Loghin, Cornel",
-        "speakerid": "2871",
-        "organisation": "European Network for Smoking and Tobacco Prevention",
-        "biography": "Cornel Radu-Loghin is the Secretary General of the European Network for Smoking and Tobacco Prevention (ENSP) - a leading organization committed to reducing tobacco use and protecting public health across the continent. With an impressive 39 years of professional experienceand 31 of those dedicated to public healthCornel brings unmatched expertisevisionand passion to everything he does.His journey began with the founding of Aer Pur Romaniathe first NGO in the country devoted to defending non-smokers’ rights. From that pioneering stephe’s gone on to become one of the most respected voices in tobacco controlactively engaging with European institutionsnational coalitionsand global networks to advocate for a tobacco-free future.What truly sets Cornel apart is not just his deep knowledge of EU policy or his experience in building effective public health strategies - it’s his ability to think creativelysee challenges from fresh perspectivesand connect with people from all walks of life. His leadership at ENSP has helped bring together some of the best experts in Europeturning ENSP into a true hub of excellence in this field.He’s been recognized for his work with several prestigious awardsincluding the World Health Organization’s World No Tobacco Day Awardand continues to be a driving force for change.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/8/e/csm_Cornel_Radu_Loghin_ce19f8dcc3.png"
-      },
-      {
-        "speaker": "Castro, José Luis",
-        "speakerid": "2889",
-        "organisation": "World Health Organisation",
-        "biography": "José Luis Castro serves as the WHO Director-General’s Special Envoy for Chronic Respiratory Diseaseswhere he leads global advocacy to elevate lung health on the international agenda. He founded and led Vital Strategies for two decadesgrowing it into an organization with annual budget over $100 millionactive in 80+ countriesand previously served as Executive Director of The Union. A past President of the NCD Alliance and co-founder of the Global TB Caucushe has championed political commitment for NCDs and TB at the highest levels. He also Pace Center for Global Health in New York. With degrees from the University of Pennsylvania and Pace UniversityCastro combines advocacyimplementationand scholarship in global health.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/5/1/csm_Jose_Luis_Castro_3e90d2529c.png"
-      },
-      {
-        "speaker": "Allvin, Thomas",
-        "speakerid": "1201",
-        "organisation": "European Federation of Pharmaceutical Industries and Associations",
-        "biography": "Thomas Allvin is Executive Director for Strategy & Board Coordination; Health Systems Policy & Partnerships at the European Federation of Pharmaceutical Industries and Associations (EFPIA)where his responsibilities include overall strategic coordination and priority settingsupport to the EFPIA Board and Executive Committee and leading EFPIA’s work on policies for more sustainablevalue-based and patient-centric health systemsincluding patient and stakeholder relations. Before joining EFPIA in 2015Thomas was Health Counsellor at the Permanent Representation of Sweden to the European Unionrepresenting Sweden in the Council working parties for public health and pharmaceuticals & medical devicesand previously worked in several positions in the Swedish Ministry of Health and the Swedish Parliament. Thomas is a member of the Office of Health Economics Board of Trustees.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/f/f/csm_Thomas_Allvin_b401e36ffb.png"
-      },
-      {
-        "speaker": "Goodwin, Frazer",
-        "speakerid": "2865",
-        "organisation": "European Federation of Allergy and Airways Diseases Patients’ Associations",
-        "biography": "Frazer is the Policy Coordinator of the European Federation of Allergy and Airways Diseases Patients’ Associations (EFA)which brings together 44 member associations from 25 countries to improve the careenvironmentparticipation and equality of the over 200 million people with allergyasthma and COPD at the European level.He studied Human Ecologya holistic interdisciplinary study of humans and their environmentin Huddersfield for his Bachelors and then for his masters in Brussels. He has worked in Brussels on transportenvironmentdevelopmenthealthand children’s rights for more than 30 years. His work has included periods within the European Commission and as an independent consultantbut has mostly been within civil society organisations including the World Wide Fund for naturethe European Federation for Transport and EnvironmentSave the Childrenand the European Public Health Alliancebefore joining EFA in August 2025.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/d/8/csm_Frazer_Goodwin_c0d35908ff.png"
-      }
-    ]
-  },
-  {
-    "eventname": "Networking evening",
-    "eventid": "2742",
-    "eventcategory": "Evening Event",
-    "eventshortid": "EE",
-    "date": "2025-10-01",
-    "start": "20:00",
-    "end": "23:00",
-    "location": "Angertal",
-    "lat": "",
-    "lng": "",
-    "description": "Join us at Angertal, an Alpine venue nestled in the scenic Angertal Valley near Bad Hofgastein – perfect for networking after the day’s sessions. Shuttle buses will run between the Conference Centre and venue; timings will be shared closer to the conference date. ",
-    "speakers": []
-  },
-  {
-    "eventname": "A new era for geopolitics",
-    "subtitle": "What implications for a more ambitious European Health Union?",
-    "eventid": "2738",
-    "eventcategory": "Plenary",
-    "eventshortid": "P2",
-    "date": "2025-10-02",
-    "start": "09:00",
-    "end": "10:00",
-    "location": "Kursaal",
-    "lat": "",
-    "lng": "",
-    "headline": "Organised by the European Health Forum Gastein",
-    "description": "A shifting geopolitical landscape signals a new era for the rules-based international order, with growing tensions challenging multilateral cooperation. For the European Health Union, this presents both risks and opportunities. As global norms fragment, Europe must strengthen internal solidarity and resilience and has the opportunity to build a more unified and ambitious Health Union. European strategic autonomy in areas like critical medicines, data governance, and cross-border health threats will become essential. A stronger Health Union can also bolster Europe’s role as a global health leader, promoting values-based diplomacy and international health equity. Reaffirming commitment to cooperation, transparency, and preparedness is key to navigating this evolving global order.",
-    "speakers": [
-      {
-        "speaker": "Várhelyi, Olivér",
-        "speakerid": "2771",
-        "organisation": "",
-        "biography": "Olivér Várhelyi is a Hungarian lawyer and diplomat who is serving as European Commissioner for Health and Animal Welfare since December 12024in the second von der Leyen Commission. His mandate focuses on advancing EU health policystrengthening the resilience and competitiveness of the European health sectorand responding to societal expectations on animal welfare and food safety.Before taking on his current rolehe was European Commissioner for Neighbourhood and Enlargement (2019–2024). He previously held several senior positions in Hungary’s Permanent Representation to the EUincluding Permanent Representative (2015–2019) and Deputy Permanent Representative (2011–2015). Earlier in his careerhe served as Head of Unit for Industrial Property Rights in the European Commission’s Directorate-General for Internal Market and Servicesand held legal and diplomatic roles in the Hungarian Ministry of Foreign Affairs and Ministry of Justice.Born in Szeged in 1972Várhelyi graduated in law at the University of Szeged and earned a Master of European Legal Studies from Aalborg University in Denmark.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/0/4/csm_Oliver_Varhely_12d4f9a875.jpg"
-      },
-      {
-        "speaker": "Azzopardi-Muscat, Natasha",
-        "speakerid": "1264",
-        "organisation": "WHO Regional Office for Europe",
-        "biography": "Dr Natasha Azzopardi-Muscat is the Director of the Division of Country Health Polices and Systems at WHO Regional Office for Europe. She is the Past President of the European Public Health Association.Dr Azzopardi-Muscat qualified as a medical doctor and proceeded to specialize in public health and health service management. Her transdisciplinary research bridging health policyEuropean studies and small states studies led to her PhD entitled “The Europeanisation of health systems: a small state perspective”.She has authored several publications in public health and European health policy.Between 2001 and 2013she occupied various senior positions in the Ministry of Health in Maltaincluding that of Chief Medical Officer. Since 1999Dr Azzopardi-Muscat has also been a resident academic at the University of Maltain the departments of health services management and public health.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/1/8/csm_AzzopardiMuscat_Natasha_new_3586f68cc9.jpg"
-      },
-      {
-        "speaker": "Kickbusch, Ilona",
-        "speakerid": "421",
-        "organisation": "Graduate Institute for International and Development Studies Geneva",
-        "biography": "Professor Ilona Kickbusch is the Founding Director of the Global Health Programme at the Graduate Institute of International and Development Studies in Geneva. Professor Kickbusch's key interests relate to the political determinants of healthhealth in all policies and global health. She established the Global Health Centre at the Graduate Institute and in this context advises countries on their global health strategies and trains health specialists and diplomats in global health diplomacy. She is a member of the Global Preparedness Monitoring Board and the WHO High-Level Independent Commission on NCDS and is co-chair of UHC 2030. She acts as Council Chair to the World Health Summit in Berlin. She has been involved in German G7 and G20 activities relating to global health and chairs the international advisory board for the development of the German global health strategy.Prof Kickbusch publishes widely and serves on various commissions and boards. She initiated the @wgh300 list of women leaders in global health. She is program chair of the leaders in health network SCIANA. She is co-chair of a Lancet FT Commission on “Governing health futures 2030: growing up in a digital world.” Professor Kickbusch has had a distinguished career with the World Health Organization. She was a key instigator of the Ottawa Charter for Health Promotion and WHOs Healthy Cities Network and has remained a leader in this fieldmost recently advising on the WHO activities related to Promoting Health in the SDGs. She was the director of the Global Health Division at Yale University School of Public Health and responsible for the first major Fulbright Programme on global health. She has published widely and received many prizes and recognitions. She has recently been awarded the Cross of the Order of Merit of the Federal Republic of Germany (Bundesverdienstkreuz) in recognition of her \"invaluable contributions to innovation in governance for global health and global health diplomacy\".",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/6/4/csm_Kickbusch_ilona_new_a8132627a9.jpg"
-      },
-      {
-        "speaker": "Šišović, Sanja",
-        "speakerid": "2768",
-        "organisation": "International Youth Health Organization",
-        "biography": "Sanja Šišović is a seasoned public health advocate and activist with over a decade of experience championing global health equity. As President of the International Youth Health Organizationshe leads efforts to promote meaningful youth engagement in health policy and program development. Her career began as a health youth educator in Montenegroand since then she has coordinated national and international initiatives addressing HIV/AIDSmental healthreproductive healthand non-communicable diseases. Her work centers on empowering young people—especially those with fewer opportunities—to become agents of change in shaping inclusiveforward-thinking health systems.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/2/3/csm_Sanja_Sisovic_f8da6b425f.jpg"
-      },
-      {
-        "speaker": "van Ginneken, Ewout",
-        "speakerid": "621",
-        "organisation": "European Observatory on Health Systems and Policies",
-        "biography": "Dr Ewout van Ginneken is Director of the European Observatory on Health Systems and Policies. His expertise is in comparative international health systems research and health policy research. His main interests include health financinghealth accessinsurance competitioncare purchasingintegrated carecross-border careand migrants’ access to care. He has published widely on these topics in international peer-reviewed literature and the wider literature. He is a series coordinator of the Health Systems in Transition (HiT) series and has co-authored the HiT template as well as several reviews including on the health-care systems of Bulgariathe Czech RepublicEstoniaLithuaniathe NetherlandsSlovakiaSlovenia and the United States of America. Before joining the ObservatoryEwout was a senior researcher at the Berlin University of Technology and a 2011–2012 Commonwealth Fund Harkness Fellow in Health Care Policy and Practice at the Harvard School of Public Health. He holds a master’s degree in health policy and administration from Maastricht University in the Netherlandsand a PhD in public health from the Berlin University of Technology. ",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/d/4/csm_van_Ginneken_Ewout_3f8c290d7b.png"
-      }
-    ]
-  },
-  {
     "eventname": "Investing in health security for a resilient European future",
     "subtitle": "Are we prepared?",
     "eventid": "2753",
@@ -1186,63 +131,17 @@
     ]
   },
   {
-    "eventname": "Equitable access to disruptive technologies in Europe",
-    "subtitle": "Resolving the access-innovation-affordability conundrum",
-    "eventid": "2745",
-    "eventcategory": "Session",
-    "eventshortid": "S16",
+    "eventname": "Smoothie Break",
+    "eventid": "2909",
+    "eventcategory": "Networking Break",
+    "eventshortid": "N5",
     "date": "2025-10-02",
-    "start": "12:15",
-    "end": "13:30",
-    "location": "Kursaal",
+    "start": "11:45",
+    "end": "12:15",
+    "location": "Hut Outside Conference Center",
     "lat": "",
     "lng": "",
-    "headline": "Organised by the European Policy Centre, supported by MSD",
-    "description": "Health has become increasingly important at the EU level, due to its importance for economic security and its contribution to the EU’s competitiveness and economy, in line with the Draghi report. Meanwhile, life sciences innovations like gene-based therapies, genomic testing, and medical robotics promise better outcomes but remain unevenly accessible across Member States, undermining solidarity. The traditional rhetoric about Member States' competences in healthcare has hindered a more nuanced debate about the EU’s role in funding health innovation in Europe. Despite this, mechanisms such as research & development incentives and funding frameworks, including the Multiannual Financial Framework and the Italian Innovation Fund, could bridge access gaps. A panel of experts will explore balancing access, innovation, and affordability within the European Union’s political context and the European Policy Centre’s recommendations. ",
-    "speakers": [
-      {
-        "speaker": "Kulja, András Tivadar",
-        "speakerid": "2617",
-        "organisation": "European Parliament",
-        "biography": "András Tivadar Kulja is a Hungarian surgeonaccomplished digital health expertand politician of the Tisza Partyelected as member of the European Parliament in June 2024. His social media posts and videos on health education across several platformsespecially on TikTokwith over 100 million views prevailed during the Covid-19 pandemicin an attempt to fight disinformation. Former Lecturer of Health and Science Communication at Semmelweis UniversityAndrás is now serving as the Vice-Chair in the Committee of EnvironmentHealth and Food Safety (ENVI) of the European Parliamentand Vice-Coordinatoor for the biggest political groupEuropean People’s Party (EPP)in the Public Health Committee (SANT).",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/a/d/csm_Kulja_Andras_Tivadar_e9df21da3a.png"
-      },
-      {
-        "speaker": "Kuiper, Elizabeth",
-        "speakerid": "2081",
-        "organisation": "European Policy Centre",
-        "biography": "Elizabeth Kuiper is Associate Director and Head of the Social Europe and Wellbeing programme at the European Policy Centre. Her focus is on social policies and healthcareincluding on the nexus between pharmaceutical policy and economic securitygender- and diversity issues and sustainability.Before joining the EPCElizabeth was Executive Director Public Affairs at the European Federation of Pharmaceutical Industries and Associations (EFPIA)where she was leading the organisation’s advocacy and external engagement strategy and maintained a strong network of contacts with policymakers and other stakeholders. Amongst othersshe led the industry’s Brexit Task Force and created the Brexit4Patients multistakeholder coalitionto ensure that patients’ interest were put first in the Brexit negotiationsElizabeth previously worked as attaché at the Permanent Representation of the Netherlands to the EUwhere she represented the Netherlands in EU negotiations in the field of healthpharmaceuticals and medical devices. Prior to thisElizabeth worked as political adviser to the Minister of HealthWelfare and Sports in the Dutch cabinet Balkenende-IVdelivering special advice and support on healthcare policy related subjects. This was subsequent to her job at the Dutch Society of Surgeons. Elizabeth studied at the University of Utrecht and holds an MA in Modern Literature and Philosophy.A Dutch nationalshe is fluent in EnglishFrenchand German.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/b/e/csm_KUIPER_Elizabeth_214e1a5507.png"
-      },
-      {
-        "speaker": "Olsen, Matias",
-        "speakerid": "2874",
-        "organisation": "European Confederation of Pharmaceutical Entrepreneurs",
-        "biography": "Matias Olsen is the Senior ManagerPublic Affairs and Policy for the European Confederation of Pharmaceutical Entrepreneurs (EUCOPE). Matias supports EUCOPE on key topicscovering among othersimplementation of EU HTAadvanced diagnosticsReal-World Evidencethe Patent PackageEurope’s Beating Cancer Plan and relevant market access topics. Matias has previously advocated on behalf of European cancer patients and worked in the Norwegian Social Security Administrationwith reimbursement of medical devices and coordination of social security within the EU/EEA.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/d/9/csm_Copy_of_Typo3_-_SpeakerACBoardTeam_PictureYFG__68__4c32170c37.png"
-      },
-      {
-        "speaker": "Zanon, Elisabetta",
-        "speakerid": "2875",
-        "organisation": "European Cancer Organisation",
-        "biography": "Elisabetta Zanon has been Chief Executive Officer of the European Cancer Organisation (ECO) since February 2025. She is a senior professional with more than 20 years of experience in European affairsmuch of it as a dynamic champion for better healthcare. This includes working for EU associations and representing public sector organisations. She has a successful track record of influencing EU policy as well as designing and implementing extensive EU communication campaigns. Her most recent leadership roles include serving as Director of EU Public Affairs & Advocacy at the Alliance for Regenerative Medicine and as Director of Advocacy for the European Society of Cardiology where she spearheaded ESC participation in EU-funded research projects and launched and managed the ESC Patient Forum. Prior to thatElisabetta established the National Health Service (NHS) European Office in Brussels in 2007 and served as Director of that office for ten years.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/2/7/csm_Elisabetta_Zanon_2b9c3d66ee.png"
-      },
-      {
-        "speaker": "Waxenecker, Günter",
-        "speakerid": "2903",
-        "organisation": "Austrian Agency for Health and Food Safety",
-        "biography": "Günter Waxenecker is the head of the Austrian Medicines and Medical Devices Agency (AGES MEA) since 2023 and also a procedural member of the Federal Office for Safety in Health Care (BASG). He is responsible for scientific advice proceduresmarketing authorisations of medicinal productsclinical trials of medicinal products and medical devicespharmacovigilance and vigilance in the field of medical devicesblood and tissuesquality of medicinal productsinspections and market surveillance of medicinal products and medical devices on the Austrian market.He is a member of the EC Pharmaceutical Committee and the EMA Management Boardmember of the Executive Steering Group on Shortages and Safety of Medicinal Products and co-chair of the European Shortage Monitoring Platform.Günter Waxenecker joined the Austrian Medicines and Medical Devices Agency in 2007 as an assessor for medicinal products focusing on the non-clinical assessment and quality of biopharmaceuticals in the context of clinical trial approvalsscientific advice procedures and marketing authorisation applications. He worked as a group leader and coordinator of the non-clinical working group at AGES MEA and was subsequently responsible for the non-clinicalmethodological/biostatistical and quality aspects of biopharmaceuticals as head of unit. He has been a member of the CHMP Non-Clinical Working Party and has acted as Rapporteur for the third revision of the ICH S5 Guideline on Detection of Toxicity to Reproduction for Human Pharmaceuticals.Günter Waxenecker studied Food Science and Biotechnology and holds a Masters degree in Drug Regulatory Affairs. Before joining the National Competent Authorityhe worked as project leader and programme manager for SMEs in Vienna. He is also a lecturer in various Austrian master programmes.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/c/4/csm_Waxenecker_Guenter.JPG_f466e1aad2.jpg"
-      },
-      {
-        "speaker": "Fahy, Nick",
-        "speakerid": "648",
-        "organisation": "RAND Europe",
-        "biography": "Nick Fahy is the research group director for health and wellbeing at RAND Europewhere he oversees research in such areas as health systems and healthcare innovationworkplace wellbeingand the behavioural and social determinants of health and wellbeing. He was previously senior researcher in the Nuffield Department of Primary Care Health Sciences at Oxford University. Particular achievements include acting as Specialist Advisor to the Health Committee of the House of Commons for their inquiry on Brexit and healthpublishing analysis highlighting the health systems impact of the Eurozone ‘bailout’ programs and the impact of Brexit on health in the UKand working with the World Health Organization to establish a Foresight process looking at the long-term future of health systems in Europe.Nick Fahy has over twenty years of experience in European health policyincluding ten years in the Health and Consumers Directorate-General of the European Commission where he led work on cancerrare diseases and cross-border care. Before joining the CommissionNick worked in the Department of Health in the UKand was chief of staff to two ministers. Nick is co-lead of the Partnerships theme of the NIHR Oxford Biomedical Research Centre as well as a new Green Templeton College initiative for the Future of Health and Care; he is also a visiting lecturer at the Management Centre Innsbruck for their programs on international health and social care management.",
-        "image": "https://www.ehfg.org/fileadmin/_processed_/d/f/csm_Fahy_Nick_f2311cf5d9.jpg"
-      }
-    ]
+    "speakers": []
   },
   {
     "eventname": "Securing Europe’s health information ecosystems",
@@ -1292,6 +191,65 @@
         "organisation": "Irimi",
         "biography": "Angus Thomson is Principal of Irimia public health behavior design companyand Adjunct Clinical ProfessorDepartment of Communication StudiesIndiana University IndianapolisUSA. Angus was previously Senior Social Scientist for the Demand for Immunization team at UNICEF HQ. Dr. Thomson has conceived and helped build several global vaccine demand programs including the Vaccination Demand Observatorythe International Pediatrics Association Vaccine Trust Projectand the Cranky Uncle program of psychological inoculation against vaccine misinformation. He co-authored the UNICEF Vaccine Misinformation Management Field Guide (15000+ downloads)the UNICEF Vaccine Messaging Guideand has published over 30 peer-reviewed opinion piecesresearch papersand book chapters on vaccine demand which cover formative socio-behavioral researchsocial behavior change intervention design and policy development and implementation.",
         "image": "https://www.ehfg.org/fileadmin/_processed_/0/b/csm_Thomson_Angus_5cfe2ae4cc.jpg"
+      }
+    ]
+  },
+  {
+    "eventname": "Equitable access to disruptive technologies in Europe",
+    "subtitle": "Resolving the access-innovation-affordability conundrum",
+    "eventid": "2745",
+    "eventcategory": "Session",
+    "eventshortid": "S16",
+    "date": "2025-10-02",
+    "start": "12:15",
+    "end": "13:30",
+    "location": "Kursaal",
+    "lat": "",
+    "lng": "",
+    "headline": "Organised by the European Policy Centre, supported by MSD",
+    "description": "Health has become increasingly important at the EU level, due to its importance for economic security and its contribution to the EU’s competitiveness and economy, in line with the Draghi report. Meanwhile, life sciences innovations like gene-based therapies, genomic testing, and medical robotics promise better outcomes but remain unevenly accessible across Member States, undermining solidarity. The traditional rhetoric about Member States' competences in healthcare has hindered a more nuanced debate about the EU’s role in funding health innovation in Europe. Despite this, mechanisms such as research & development incentives and funding frameworks, including the Multiannual Financial Framework and the Italian Innovation Fund, could bridge access gaps. A panel of experts will explore balancing access, innovation, and affordability within the European Union’s political context and the European Policy Centre’s recommendations. ",
+    "speakers": [
+      {
+        "speaker": "Kulja, András Tivadar",
+        "speakerid": "2617",
+        "organisation": "European Parliament",
+        "biography": "András Tivadar Kulja is a Hungarian surgeonaccomplished digital health expertand politician of the Tisza Partyelected as member of the European Parliament in June 2024. His social media posts and videos on health education across several platformsespecially on TikTokwith over 100 million views prevailed during the Covid-19 pandemicin an attempt to fight disinformation. Former Lecturer of Health and Science Communication at Semmelweis UniversityAndrás is now serving as the Vice-Chair in the Committee of EnvironmentHealth and Food Safety (ENVI) of the European Parliamentand Vice-Coordinatoor for the biggest political groupEuropean People’s Party (EPP)in the Public Health Committee (SANT).",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/a/d/csm_Kulja_Andras_Tivadar_e9df21da3a.png"
+      },
+      {
+        "speaker": "Kuiper, Elizabeth",
+        "speakerid": "2081",
+        "organisation": "European Policy Centre",
+        "biography": "Elizabeth Kuiper is Associate Director and Head of the Social Europe and Wellbeing programme at the European Policy Centre. Her focus is on social policies and healthcareincluding on the nexus between pharmaceutical policy and economic securitygender- and diversity issues and sustainability.Before joining the EPCElizabeth was Executive Director Public Affairs at the European Federation of Pharmaceutical Industries and Associations (EFPIA)where she was leading the organisation’s advocacy and external engagement strategy and maintained a strong network of contacts with policymakers and other stakeholders. Amongst othersshe led the industry’s Brexit Task Force and created the Brexit4Patients multistakeholder coalitionto ensure that patients’ interest were put first in the Brexit negotiationsElizabeth previously worked as attaché at the Permanent Representation of the Netherlands to the EUwhere she represented the Netherlands in EU negotiations in the field of healthpharmaceuticals and medical devices. Prior to thisElizabeth worked as political adviser to the Minister of HealthWelfare and Sports in the Dutch cabinet Balkenende-IVdelivering special advice and support on healthcare policy related subjects. This was subsequent to her job at the Dutch Society of Surgeons. Elizabeth studied at the University of Utrecht and holds an MA in Modern Literature and Philosophy.A Dutch nationalshe is fluent in EnglishFrenchand German.",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/b/1/csm_Elizabeth_Kuiper_bdbed3a1f5.png"
+      },
+      {
+        "speaker": "Olsen, Matias",
+        "speakerid": "2874",
+        "organisation": "European Confederation of Pharmaceutical Entrepreneurs",
+        "biography": "Matias Olsen is the Senior ManagerPublic Affairs and Policy for the European Confederation of Pharmaceutical Entrepreneurs (EUCOPE). Matias supports EUCOPE on key topicscovering among othersimplementation of EU HTAadvanced diagnosticsReal-World Evidencethe Patent PackageEurope’s Beating Cancer Plan and relevant market access topics. Matias has previously advocated on behalf of European cancer patients and worked in the Norwegian Social Security Administrationwith reimbursement of medical devices and coordination of social security within the EU/EEA.",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/d/9/csm_Copy_of_Typo3_-_SpeakerACBoardTeam_PictureYFG__68__4c32170c37.png"
+      },
+      {
+        "speaker": "Zanon, Elisabetta",
+        "speakerid": "2875",
+        "organisation": "European Cancer Organisation",
+        "biography": "Elisabetta Zanon has been Chief Executive Officer of the European Cancer Organisation (ECO) since February 2025. She is a senior professional with more than 20 years of experience in European affairsmuch of it as a dynamic champion for better healthcare. This includes working for EU associations and representing public sector organisations. She has a successful track record of influencing EU policy as well as designing and implementing extensive EU communication campaigns. Her most recent leadership roles include serving as Director of EU Public Affairs & Advocacy at the Alliance for Regenerative Medicine and as Director of Advocacy for the European Society of Cardiology where she spearheaded ESC participation in EU-funded research projects and launched and managed the ESC Patient Forum. Prior to thatElisabetta established the National Health Service (NHS) European Office in Brussels in 2007 and served as Director of that office for ten years.",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/2/7/csm_Elisabetta_Zanon_2b9c3d66ee.png"
+      },
+      {
+        "speaker": "Waxenecker, Günter",
+        "speakerid": "2903",
+        "organisation": "Austrian Agency for Health and Food Safety",
+        "biography": "Günter Waxenecker is the head of the Austrian Medicines and Medical Devices Agency (AGES MEA) since 2023 and also a procedural member of the Federal Office for Safety in Health Care (BASG). He is responsible for scientific advice proceduresmarketing authorisations of medicinal productsclinical trials of medicinal products and medical devicespharmacovigilance and vigilance in the field of medical devicesblood and tissuesquality of medicinal productsinspections and market surveillance of medicinal products and medical devices on the Austrian market.He is a member of the EC Pharmaceutical Committee and the EMA Management Boardmember of the Executive Steering Group on Shortages and Safety of Medicinal Products and co-chair of the European Shortage Monitoring Platform.Günter Waxenecker joined the Austrian Medicines and Medical Devices Agency in 2007 as an assessor for medicinal products focusing on the non-clinical assessment and quality of biopharmaceuticals in the context of clinical trial approvalsscientific advice procedures and marketing authorisation applications. He worked as a group leader and coordinator of the non-clinical working group at AGES MEA and was subsequently responsible for the non-clinicalmethodological/biostatistical and quality aspects of biopharmaceuticals as head of unit. He has been a member of the CHMP Non-Clinical Working Party and has acted as Rapporteur for the third revision of the ICH S5 Guideline on Detection of Toxicity to Reproduction for Human Pharmaceuticals.Günter Waxenecker studied Food Science and Biotechnology and holds a Masters degree in Drug Regulatory Affairs. Before joining the National Competent Authorityhe worked as project leader and programme manager for SMEs in Vienna. He is also a lecturer in various Austrian master programmes.",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/c/4/csm_Waxenecker_Guenter.JPG_f466e1aad2.jpg"
+      },
+      {
+        "speaker": "Fahy, Nick",
+        "speakerid": "648",
+        "organisation": "RAND Europe",
+        "biography": "Nick Fahy is the research group director for health and wellbeing at RAND Europewhere he oversees research in such areas as health systems and healthcare innovationworkplace wellbeingand the behavioural and social determinants of health and wellbeing. He was previously senior researcher in the Nuffield Department of Primary Care Health Sciences at Oxford University. Particular achievements include acting as Specialist Advisor to the Health Committee of the House of Commons for their inquiry on Brexit and healthpublishing analysis highlighting the health systems impact of the Eurozone ‘bailout’ programs and the impact of Brexit on health in the UKand working with the World Health Organization to establish a Foresight process looking at the long-term future of health systems in Europe.Nick Fahy has over twenty years of experience in European health policyincluding ten years in the Health and Consumers Directorate-General of the European Commission where he led work on cancerrare diseases and cross-border care. Before joining the CommissionNick worked in the Department of Health in the UKand was chief of staff to two ministers. Nick is co-lead of the Partnerships theme of the NIHR Oxford Biomedical Research Centre as well as a new Green Templeton College initiative for the Future of Health and Care; he is also a visiting lecturer at the Management Centre Innsbruck for their programs on international health and social care management.",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/d/f/csm_Fahy_Nick_f2311cf5d9.jpg"
       }
     ]
   },
@@ -1400,6 +358,19 @@
     ]
   },
   {
+    "eventname": "Smoothie break",
+    "eventid": "2908",
+    "eventcategory": "Networking Break",
+    "eventshortid": "N6",
+    "date": "2025-10-02",
+    "start": "15:45",
+    "end": "16:15",
+    "location": "Hut Outside Conference Center",
+    "lat": "",
+    "lng": "",
+    "speakers": []
+  },
+  {
     "eventname": "End of life, end of autonomy?",
     "subtitle": "Examining the reality of the current end-of-life paradigm",
     "eventid": "2749",
@@ -1448,6 +419,13 @@
         "organisation": "Marie Curie Palliative Care Research Department at University College London",
         "biography": "Dr Libby Sallnow is an Associate Professor and Head of Department of the Marie Curie Palliative Care Research Department at University College London. She works as a palliative medicine physician the community setting for the NHS in Londonis a guest professor at the End-of-Life Care Research Group at the Vrije Universiteit in Belgium and an honorary consultant at the WHO Collaborating Centre for Country Capacity Building in Palliative Care in KeralaIndia. She has helped lead and develop the fields of new public health approaches to end-of-life carecompassionate communities and social approaches to deathdying and loss over the past two decades in the UK and internationally. She is Co-Editor-in-Chief of the journal Palliative Care and Social Practice and the first author of the Lancet Commission on the Value of Death: bringing death back into life.",
         "image": "https://www.ehfg.org/fileadmin/_processed_/9/0/csm_Sallnow_Libby_d45d7671fa.png"
+      },
+      {
+        "speaker": "Ilinca, Stefania",
+        "speakerid": "2891",
+        "organisation": "WHO Regional Office for Europe",
+        "biography": "Dr. Stefania Ilinca is Technical Officer for long-term care with the WHO Regional Office for Europea Senior Atlantic Fellow for Equity in Brain Health and a Salzburg Global Seminar fellow. She has extensive experience working at the interface between policy and researchdividing her time between policy advicetechnical supportapplied research and advocacy efforts. At WHO Europeher portfolio covers the transformation of long-term care eco-systemsinformed by equitysustainability and demographic change concernswith particular attention to strengthening care delivery for people with complex needssupporting integrated care modelspromoting quality in long-term care delivery and leveraging digital and social innovations.",
+        "image": "https://www.ehfg.org/fileadmin/_processed_/8/a/csm_Ilinca_Stefania_13036f2360.jpg"
       },
       {
         "speaker": "Rajan, Dheepa",
@@ -1793,7 +771,7 @@
     "lat": "",
     "lng": "",
     "headline": "Organised by the European Health Forum Gastein",
-    "description": "This plenary will explore how digitalisation, particularly AI, will impact solidarity and the social contract. While digital tools offer major benefits - accelerating science, improving healthcare, and addressing labour shortages through automation - they also pose serious challenges. Sam Altman, CEO of Open AI, suggested AI could force a complete reconfiguration of society. Traditional solidarity systems, funded by labour-related taxes, may be weakened as labour markets are disrupted. Globalisation and automation may create tax gaps, raising questions about future revenue sources for social protection. Ethical concerns include misinformation, elitism, and digital inequality. The tech industry's growing role in public health and the rise of \"cyber-feudalism\" also highlight the need for new regulatory frameworks. This plenary will discuss the impact on health and welfare systems of this major societal transformation.",
+    "description": "This plenary will explore how digitalisation, particularly advanced AI, will impact solidarity and the social contract. While digital tools offer major benefits - accelerating science, improving healthcare, and addressing labour shortages through automation - they also pose serious challenges. Sam Altman, CEO of Open AI, suggested AI could force a complete reconfiguration of society. Traditional solidarity systems, funded by labour-related taxes, may be weakened as labour markets are disrupted. Globalisation and automation may create tax gaps, raising questions about future revenue sources for social protection. Ethical concerns include misinformation, elitism, and digital inequality. The tech industry's growing role in public health and the rise of \"cyber-feudalism\" also highlight the need for new regulatory frameworks. This plenary will discuss the impact on society, health and welfare systems of this major societal transformation.",
     "speakers": [
       {
         "speaker": "Lehtonen, Lasse",
@@ -1851,7 +829,7 @@
     "location": "Albert Schweitzer House, Schwarzspanierstraße 13, 1090 Vienna",
     "lat": "",
     "lng": "",
-    "description": "Sexual and reproductive health and rights (SRHR) is an issue that affects everyone worldwide. Every human being has the right to make free, informed and self-determined decisions about their own body, sexuality and reproduction – without discrimination, coercion or violence. This affects every area of life and society as a whole. In order to ensure that people can shape their sexual and reproductive health in a self-determined way, sufficient and low-threshold access to information, services and medical care is needed. All institutions, local and international organisations and political leaders are called upon to do this.For this reason, the Vienna Institute for International Dialogue and Cooperation (VIDC), THE RAIN WORKERS - Network for sexual and reproductive health, the Austrian Public Health Association and Women in Global Health - Austrian Chapter aim to establish SRHR as a key function for social, health and economic development.In a panel discussion with audience participation and networking activities, the complexity of the topic will be examined from different perspectives. Against the backdrop of global developments in the field of sexual and reproductive health and the impact of drastic cuts in international development funding, experts from the fields of health, gender, development cooperation and humanitarian aid will work out the interfaces and relevance of SRHR for global cooperation and Austria. Based on a gender-reflective interpretation of international law, the focus will be on gynaecological counselling and care in Austria as well as on the care of people in East Africa and in war and crisis zones. Gender and diversity aspects in medicine, as well as the negative health effects of discrimination, underline the importance of social determinants of health and reflect historically evolved patriarchal power structures. This will also be reflected in another angle to the discussion: access to clean water and the possibility of being able to take care of menstrual hygiene safely and undisturbed.Feminist empowerment by female leaders in the health care system, through economic independence and through a self-determined, informed approach to one's own body will run like a red thread through the event. The diversity of perspectives on the podium is represented by voices from the Global North and South as well as by different professional backgrounds. Further voices and experiences from the audience should ensure that the individual threads will be woven together to create a canvas of the big picture which represents SRHR.The aim of the event is to raise awareness and insight: SRHR concerns us all and needs more attention worldwide! Register here.",
+    "description": "Sexual and reproductive health and rights (SRHR) is an issue that affects everyone worldwide. Every human being has the right to make free, informed and self-determined decisions about their own body, sexuality and reproduction – without discrimination, coercion or violence. This affects every area of life and society as a whole. In order to ensure that people can shape their sexual and reproductive health in a self-determined way, sufficient and low-threshold access to information, services and medical care is needed. All institutions, local and international organisations and political leaders are called upon to do this.For this reason, the Vienna Institute for International Dialogue and Cooperation (VIDC), THE RAIN WORKERS - Network for sexual and reproductive health, the Austrian Public Health Association and Women in Global Health - Austrian Chapter aim to establish SRHR as a key function for social, health and economic development.In a panel discussion with audience participation and networking activities, the complexity of the topic will be examined from different perspectives. Against the backdrop of global developments in the field of sexual and reproductive health and the impact of drastic cuts in international development funding, experts from the fields of health, gender, development cooperation and humanitarian aid will work out the interfaces and relevance of SRHR for global cooperation and Austria. Based on a gender-reflective interpretation of international law, the focus will be on gynaecological counselling and care in Austria as well as on the care of people in East Africa and in war and crisis zones. Gender and diversity aspects in medicine, as well as the negative health effects of discrimination, underline the importance of social determinants of health and reflect historically evolved patriarchal power structures. This will also be reflected in another angle to the discussion: access to clean water and the possibility of being able to take care of menstrual hygiene safely and undisturbed.Feminist empowerment by female leaders in the health care system, through economic independence and through a self-determined, informed approach to one's own body will run like a red thread through the event. The diversity of perspectives on the podium is represented by voices from the Global North and South as well as by different professional backgrounds. Further voices and experiences from the audience should ensure that the individual threads will be woven together to create a canvas of the big picture which represents SRHR.The aim of the event is to raise awareness and insight: SRHR concerns us all and needs more attention worldwide! Register here before 15 October.Panelists Sabine Ludwig, Professor of Diversity in Medicine at the Medical University of Innsbruck Susanne Hölbfer, Senior Physician in the gynecology department and head of the victim protection group at the Ottakring Clinic Mercy Muthoni Kamau, Executive Director of Mathari Children Fund Panairobi Stephanie Johanssen, Policy Advisor for sexual and reproductive health and rights at Doctors Without Borders Germany Henry Ouma, Water, Sanitation and Hygiene (WASH) Expert Video message from UNFPA Willibald Zeck, Austrian gynecologist and Associate Professor of gynecology and obstetrics. Facilitation Rita Isiba, Executive Director of ZARA ",
     "speakers": []
   }
 ]
